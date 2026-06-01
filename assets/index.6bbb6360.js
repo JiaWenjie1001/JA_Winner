@@ -1,0 +1,1 @@
+import{d as a,o as s,b as e,cI as r,Z as t,a as c,_ as d}from"./index.b558c7fa.js";const o={class:"redirectPage"},n=d(a({__name:"index",setup(a){const d=r(),n=t();return s(()=>{const{params:a,query:s}=d,{path:e}=a,r="/"+(Array.isArray(e)?e.join("/"):e);n.replace({path:r,query:s})}),(a,s)=>(c(),e("div",o))}}),[["__scopeId","data-v-51c0d083"]]);export{n as default};

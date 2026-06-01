@@ -1,0 +1,1 @@
+import{cw as e}from"./index.b558c7fa.js";const o=e(Object.freeze(Object.defineProperty({__proto__:null,default:{}},Symbol.toStringTag,{value:"Module"})));export{o as r};
