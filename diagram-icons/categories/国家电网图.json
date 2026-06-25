@@ -1,0 +1,1725 @@
+{
+  "name": "国家电网图",
+  "icons": [
+    {
+      "path": "/diagram-icons/国家电网图/a级污秽区.svg",
+      "label": "级污秽区",
+      "fileName": "a级污秽区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/e级污秽区.svg",
+      "label": "级污秽区",
+      "fileName": "e级污秽区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/T型开关A-B.svg",
+      "label": "型开关",
+      "fileName": "T型开关A-B.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/T型开关A-C.svg",
+      "label": "型开关",
+      "fileName": "T型开关A-C.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/T型开关AB-C.svg",
+      "label": "型开关",
+      "fileName": "T型开关AB-C.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/T型开关B-C.svg",
+      "label": "型开关",
+      "fileName": "T型开关B-C.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/T形连接的三相绕组.svg",
+      "label": "形连接的三相绕组",
+      "fileName": "T形连接的三相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/undefined.svg",
+      "label": "undefined",
+      "fileName": "undefined.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/V型开关A-C.svg",
+      "label": "型开关",
+      "fileName": "V型开关A-C.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/V型开关AB-C.svg",
+      "label": "型开关",
+      "fileName": "V型开关AB-C.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/V型开关B-C.svg",
+      "label": "型开关",
+      "fileName": "V型开关B-C.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/V型开关OPEN.svg",
+      "label": "型开关",
+      "fileName": "V型开关OPEN.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/v行连接的三相绕组.svg",
+      "label": "行连接的三相绕组",
+      "fileName": "v行连接的三相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/一个绕组.svg",
+      "label": "一个绕组",
+      "fileName": "一个绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/一个绕组上有中间抽头的变压器.svg",
+      "label": "一个绕组上有中间抽头的变压器",
+      "fileName": "一个绕组上有中间抽头的变压器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三个独立个绕组.svg",
+      "label": "三个独立个绕组",
+      "fileName": "三个独立个绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三工位开关（分）.svg",
+      "label": "分",
+      "fileName": "三工位开关（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三工位开关（合）.svg",
+      "label": "合",
+      "fileName": "三工位开关（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三工位开关（接地）.svg",
+      "label": "接地",
+      "fileName": "三工位开关（接地）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三相一个次级绕组电流互感器.svg",
+      "label": "三相一个次级绕组电流互感器",
+      "fileName": "三相一个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三相三个次级绕组电流互感器.svg",
+      "label": "三相三个次级绕组电流互感器",
+      "fileName": "三相三个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三相两个次级绕组电流互感器.svg",
+      "label": "三相两个次级绕组电流互感器",
+      "fileName": "三相两个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三相五个次级绕组电流互感器.svg",
+      "label": "三相五个次级绕组电流互感器",
+      "fileName": "三相五个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三相六个次级绕组电流互感器.svg",
+      "label": "三相六个次级绕组电流互感器",
+      "fileName": "三相六个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三相四个次级绕组电流互感器.svg",
+      "label": "三相四个次级绕组电流互感器",
+      "fileName": "三相四个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组变压器.svg",
+      "label": "三绕组变压器",
+      "fileName": "三绕组变压器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组变压器1（星形-三星形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "三绕组变压器1（星形-三星形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组变压器YNdy（中性点引出星形-三角形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "三绕组变压器YNdy（中性点引出星形-三角形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组变压器YNdy（中性点引出星形-三角形-星形连接）2.svg",
+      "label": "星形连接",
+      "fileName": "三绕组变压器YNdy（中性点引出星形-三角形-星形连接）2.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组变压器YNynd（中性点引出星形-星形-三角形连接）.svg",
+      "label": "三角形连接",
+      "fileName": "三绕组变压器YNynd（中性点引出星形-星形-三角形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组变压器YNynd（中性点引出星形-星形-三角形连接）2.svg",
+      "label": "三角形连接",
+      "fileName": "三绕组变压器YNynd（中性点引出星形-星形-三角形连接）2.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组变压器（三角形-星形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "三绕组变压器（三角形-星形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组变压器（中性点引出星形-三角形连接）.svg",
+      "label": "三角形连接",
+      "fileName": "三绕组变压器（中性点引出星形-三角形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组变压器（星形-三角形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "三绕组变压器（星形-三角形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组变压器（星形-星形-三角形连接）.svg",
+      "label": "三角形连接",
+      "fileName": "三绕组变压器（星形-星形-三角形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组有载可调变压器1（星形-三星形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "三绕组有载可调变压器1（星形-三星形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组有载可调变压器（星形-三星形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "三绕组有载可调变压器（星形-三星形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三绕组电压互感器.svg",
+      "label": "三绕组电压互感器",
+      "fileName": "三绕组电压互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三联杆（木杆）.svg",
+      "label": "木杆",
+      "fileName": "三联杆（木杆）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三联杆（水泥杆）.svg",
+      "label": "水泥杆",
+      "fileName": "三联杆（水泥杆）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三联杆（钢管杆）.svg",
+      "label": "钢管杆",
+      "fileName": "三联杆（钢管杆）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三角形排列abc.svg",
+      "label": "三角形排列",
+      "fileName": "三角形排列abc.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三角形排列acb.svg",
+      "label": "三角形排列",
+      "fileName": "三角形排列acb.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三角形排列bac.svg",
+      "label": "三角形排列",
+      "fileName": "三角形排列bac.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三角形排列bca.svg",
+      "label": "三角形排列",
+      "fileName": "三角形排列bca.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三角形排列cab.svg",
+      "label": "三角形排列",
+      "fileName": "三角形排列cab.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三角形排列cba.svg",
+      "label": "三角形排列",
+      "fileName": "三角形排列cba.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/三角形接的三相绕组.svg",
+      "label": "三角形接的三相绕组",
+      "fileName": "三角形接的三相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列右abc.svg",
+      "label": "上字型排列右",
+      "fileName": "上字型排列右abc.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列右acb.svg",
+      "label": "上字型排列右",
+      "fileName": "上字型排列右acb.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列右bac.svg",
+      "label": "上字型排列右",
+      "fileName": "上字型排列右bac.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列右bca.svg",
+      "label": "上字型排列右",
+      "fileName": "上字型排列右bca.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列右cab.svg",
+      "label": "上字型排列右",
+      "fileName": "上字型排列右cab.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列右cba.svg",
+      "label": "上字型排列右",
+      "fileName": "上字型排列右cba.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列左abc.svg",
+      "label": "上字型排列左",
+      "fileName": "上字型排列左abc.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列左acb.svg",
+      "label": "上字型排列左",
+      "fileName": "上字型排列左acb.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列左bac.svg",
+      "label": "上字型排列左",
+      "fileName": "上字型排列左bac.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列左bca.svg",
+      "label": "上字型排列左",
+      "fileName": "上字型排列左bca.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列左cab.svg",
+      "label": "上字型排列左",
+      "fileName": "上字型排列左cab.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/上字型排列左cba.svg",
+      "label": "上字型排列左",
+      "fileName": "上字型排列左cba.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/下字型排列abc右.svg",
+      "label": "右",
+      "fileName": "下字型排列abc右.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/下字型排列acb右.svg",
+      "label": "右",
+      "fileName": "下字型排列acb右.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/下字型排列acb左.svg",
+      "label": "左",
+      "fileName": "下字型排列acb左.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/下字型排列bac.svg",
+      "label": "下字型排列",
+      "fileName": "下字型排列bac.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/下字型排列bca右.svg",
+      "label": "右",
+      "fileName": "下字型排列bca右.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/下字型排列bca左.svg",
+      "label": "左",
+      "fileName": "下字型排列bca左.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/下字型排列cab右.svg",
+      "label": "右",
+      "fileName": "下字型排列cab右.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/下字型排列cab左.svg",
+      "label": "左",
+      "fileName": "下字型排列cab左.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/下字型排列cba右.svg",
+      "label": "右",
+      "fileName": "下字型排列cba右.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/下字型排列cba左.svg",
+      "label": "左",
+      "fileName": "下字型排列cba左.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/不可并符.svg",
+      "label": "不可并符",
+      "fileName": "不可并符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/不良地质区.svg",
+      "label": "不良地质区",
+      "fileName": "不良地质区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/两相一个次级绕组电流互感器.svg",
+      "label": "两相一个次级绕组电流互感器",
+      "fileName": "两相一个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/两相三个次级绕组电流互感器.svg",
+      "label": "两相三个次级绕组电流互感器",
+      "fileName": "两相三个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/两相两个次级绕组电流互感器.svg",
+      "label": "两相两个次级绕组电流互感器",
+      "fileName": "两相两个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/两相五个次级绕组电流互感器.svg",
+      "label": "两相五个次级绕组电流互感器",
+      "fileName": "两相五个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/两相六个次级绕组电流互感器.svg",
+      "label": "两相六个次级绕组电流互感器",
+      "fileName": "两相六个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/两相四个次级绕组电流互感器.svg",
+      "label": "两相四个次级绕组电流互感器",
+      "fileName": "两相四个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/两相四端绕组.svg",
+      "label": "两相四端绕组",
+      "fileName": "两相四端绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/两相四端绕组02.svg",
+      "label": "两相四端绕组",
+      "fileName": "两相四端绕组02.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/中性点引出星形连接的三相绕组.svg",
+      "label": "中性点引出星形连接的三相绕组",
+      "fileName": "中性点引出星形连接的三相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/中性点引出的叉形连接六相绕组.svg",
+      "label": "中性点引出的叉形连接六相绕组",
+      "fileName": "中性点引出的叉形连接六相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/中性点引出的四相绕组.svg",
+      "label": "中性点引出的四相绕组",
+      "fileName": "中性点引出的四相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/中性点引出的曲形折或互联星形的三相绕组.svg",
+      "label": "中性点引出的曲形折或互联星形的三相绕组",
+      "fileName": "中性点引出的曲形折或互联星形的三相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/中继站.svg",
+      "label": "中继站",
+      "fileName": "中继站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/临时保电符.svg",
+      "label": "临时保电符",
+      "fileName": "临时保电符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/临时符.svg",
+      "label": "临时符",
+      "fileName": "临时符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/互不连接的m相绕组.svg",
+      "label": "相绕组",
+      "fileName": "互不连接的m相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/互不连接的三相绕组.svg",
+      "label": "互不连接的三相绕组",
+      "fileName": "互不连接的三相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/五绕组电压互感器.svg",
+      "label": "五绕组电压互感器",
+      "fileName": "五绕组电压互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/交叉跨越.svg",
+      "label": "交叉跨越",
+      "fileName": "交叉跨越.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/交流发电机.svg",
+      "label": "交流发电机",
+      "fileName": "交流发电机.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/人口密集区.svg",
+      "label": "人口密集区",
+      "fileName": "人口密集区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/低压熔丝箱（分）.svg",
+      "label": "分",
+      "fileName": "低压熔丝箱（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/低压熔丝箱（合）.svg",
+      "label": "合",
+      "fileName": "低压熔丝箱（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/低压配电箱.svg",
+      "label": "低压配电箱",
+      "fileName": "低压配电箱.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/保安锁符.svg",
+      "label": "保安锁符",
+      "fileName": "保安锁符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/保护接地.svg",
+      "label": "保护接地",
+      "fileName": "保护接地.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/保电符.svg",
+      "label": "保电符",
+      "fileName": "保电符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/保留孔位.svg",
+      "label": "保留孔位",
+      "fileName": "保留孔位.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/信号符.svg",
+      "label": "信号符",
+      "fileName": "信号符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/停用符.svg",
+      "label": "停用符",
+      "fileName": "停用符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/光缆段.svg",
+      "label": "光缆段",
+      "fileName": "光缆段.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/六个独立个绕组.svg",
+      "label": "六个独立个绕组",
+      "fileName": "六个独立个绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/关11.svg",
+      "label": "关",
+      "fileName": "关11.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/其他特殊区.svg",
+      "label": "其他特殊区",
+      "fileName": "其他特殊区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/分段器.svg",
+      "label": "分段器",
+      "fileName": "分段器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/分裂电抗器.svg",
+      "label": "分裂电抗器",
+      "fileName": "分裂电抗器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/单切.svg",
+      "label": "单切",
+      "fileName": "单切.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/单相一个次级绕组电流互感器.svg",
+      "label": "单相一个次级绕组电流互感器",
+      "fileName": "单相一个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/单相三个次级绕组电流互感器.svg",
+      "label": "单相三个次级绕组电流互感器",
+      "fileName": "单相三个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/单相两个次级绕组电流互感器.svg",
+      "label": "单相两个次级绕组电流互感器",
+      "fileName": "单相两个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/单相五个次级绕组电流互感器.svg",
+      "label": "单相五个次级绕组电流互感器",
+      "fileName": "单相五个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/单相六个次级绕组电流互感器.svg",
+      "label": "单相六个次级绕组电流互感器",
+      "fileName": "单相六个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/单相四个次级绕组电流互感器.svg",
+      "label": "单相四个次级绕组电流互感器",
+      "fileName": "单相四个次级绕组电流互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双三角形连接的六相绕组.svg",
+      "label": "双三角形连接的六相绕组",
+      "fileName": "双三角形连接的六相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双向隔离开关（分）.svg",
+      "label": "分",
+      "fileName": "双向隔离开关（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双向隔离开关（右）.svg",
+      "label": "右",
+      "fileName": "双向隔离开关（右）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双向隔离开关（左）.svg",
+      "label": "左",
+      "fileName": "双向隔离开关（左）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器.svg",
+      "label": "双绕组变压器",
+      "fileName": "双绕组变压器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器Dyn（中性点引出三角形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "双绕组变压器Dyn（中性点引出三角形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器Yd（中性点引出星形-三角形连接）.svg",
+      "label": "三角形连接",
+      "fileName": "双绕组变压器Yd（中性点引出星形-三角形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器Yd（中性点引出星形-三角形连接）2.svg",
+      "label": "三角形连接",
+      "fileName": "双绕组变压器Yd（中性点引出星形-三角形连接）2.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器YNd（中性点引出星形-三角形连接）2.svg",
+      "label": "三角形连接",
+      "fileName": "双绕组变压器YNd（中性点引出星形-三角形连接）2.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器Yyn（中性点引出星形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "双绕组变压器Yyn（中性点引出星形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器Yzn（中性点引出三角形-曲形连接）.svg",
+      "label": "曲形连接",
+      "fileName": "双绕组变压器Yzn（中性点引出三角形-曲形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器（三星形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "双绕组变压器（三星形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器（具有4个抽头星形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "双绕组变压器（具有4个抽头星形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器（具有分接开关）.svg",
+      "label": "具有分接开关",
+      "fileName": "双绕组变压器（具有分接开关）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器（曲折形-星形）.svg",
+      "label": "星形",
+      "fileName": "双绕组变压器（曲折形-星形）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器（有载调压）.svg",
+      "label": "有载调压",
+      "fileName": "双绕组变压器（有载调压）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组变压器（绕组间有屏蔽）.svg",
+      "label": "绕组间有屏蔽",
+      "fileName": "双绕组变压器（绕组间有屏蔽）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组有载可调变压器Dyn（中性点引出三角形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "双绕组有载可调变压器Dyn（中性点引出三角形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组有载可调变压器YNd（中性点引出星形-三角形连接）.svg",
+      "label": "三角形连接",
+      "fileName": "双绕组有载可调变压器YNd（中性点引出星形-三角形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组有载可调变压器YNd（中性点引出星形-三角形连接）2.svg",
+      "label": "三角形连接",
+      "fileName": "双绕组有载可调变压器YNd（中性点引出星形-三角形连接）2.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组有载可调变压器Yyn（中性点引出星形-星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "双绕组有载可调变压器Yyn（中性点引出星形-星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双绕组电压互感器.svg",
+      "label": "双绕组电压互感器",
+      "fileName": "双绕组电压互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双联杆（木杆）.svg",
+      "label": "木杆",
+      "fileName": "双联杆（木杆）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双联杆（水泥杆）.svg",
+      "label": "水泥杆",
+      "fileName": "双联杆（水泥杆）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/双联杆（钢管杆）.svg",
+      "label": "钢管杆",
+      "fileName": "双联杆（钢管杆）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/发电机.svg",
+      "label": "发电机",
+      "fileName": "发电机.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/变电站.svg",
+      "label": "变电站",
+      "fileName": "变电站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/可拆卸固定接头.svg",
+      "label": "可拆卸固定接头",
+      "fileName": "可拆卸固定接头.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/可调电容器.svg",
+      "label": "可调电容器",
+      "fileName": "可调电容器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/可遥控符.svg",
+      "label": "可遥控符",
+      "fileName": "可遥控符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/四绕组电压互感器.svg",
+      "label": "四绕组电压互感器",
+      "fileName": "四绕组电压互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/垂直排列abc.svg",
+      "label": "垂直排列",
+      "fileName": "垂直排列abc.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/垂直排列acb.svg",
+      "label": "垂直排列",
+      "fileName": "垂直排列acb.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/垂直排列bac.svg",
+      "label": "垂直排列",
+      "fileName": "垂直排列bac.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/垂直排列bca.svg",
+      "label": "垂直排列",
+      "fileName": "垂直排列bca.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/垂直排列cab.svg",
+      "label": "垂直排列",
+      "fileName": "垂直排列cab.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/垂直排列cba.svg",
+      "label": "垂直排列",
+      "fileName": "垂直排列cba.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/壁龛交接箱.svg",
+      "label": "壁龛交接箱",
+      "fileName": "壁龛交接箱.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/复合孔位.svg",
+      "label": "复合孔位",
+      "fileName": "复合孔位.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/多雷区.svg",
+      "label": "多雷区",
+      "fileName": "多雷区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/大跨越区.svg",
+      "label": "大跨越区",
+      "fileName": "大跨越区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/太阳能.svg",
+      "label": "太阳能",
+      "fileName": "太阳能.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/导、地线易舞动区.svg",
+      "label": "地线易舞动区",
+      "fileName": "导、地线易舞动区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/导、地线覆冰区.svg",
+      "label": "地线覆冰区",
+      "fileName": "导、地线覆冰区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/导线段.svg",
+      "label": "导线段",
+      "fileName": "导线段.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/尾线符.svg",
+      "label": "尾线符",
+      "fileName": "尾线符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/局用站点.svg",
+      "label": "局用站点",
+      "fileName": "局用站点.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/工井.svg",
+      "label": "工井",
+      "fileName": "工井.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/工作许可.svg",
+      "label": "工作许可",
+      "fileName": "工作许可.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/已实施孔位.svg",
+      "label": "已实施孔位",
+      "fileName": "已实施孔位.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/已批复未实施孔位.svg",
+      "label": "已批复未实施孔位",
+      "fileName": "已批复未实施孔位.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/已申请未批复孔位.svg",
+      "label": "已申请未批复孔位",
+      "fileName": "已申请未批复孔位.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/带电显示器.svg",
+      "label": "带电显示器",
+      "fileName": "带电显示器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/建议孔位.svg",
+      "label": "建议孔位",
+      "fileName": "建议孔位.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/开11.svg",
+      "label": "开",
+      "fileName": "开11.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/开关站.svg",
+      "label": "开关站",
+      "fileName": "开关站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/开口三角形连接的三相绕组.svg",
+      "label": "开口三角形连接的三相绕组",
+      "fileName": "开口三角形连接的三相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/开断符.svg",
+      "label": "开断符",
+      "fileName": "开断符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/开闭器.svg",
+      "label": "开闭器",
+      "fileName": "开闭器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/强腐蚀区.svg",
+      "label": "强腐蚀区",
+      "fileName": "强腐蚀区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/微气候、微地形区.svg",
+      "label": "微地形区",
+      "fileName": "微气候、微地形区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/手动符.svg",
+      "label": "手动符",
+      "fileName": "手动符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/手车刀闸（分）.svg",
+      "label": "分",
+      "fileName": "手车刀闸（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/手车刀闸（合）.svg",
+      "label": "合",
+      "fileName": "手车刀闸（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/手车刀闸（试验）.svg",
+      "label": "试验",
+      "fileName": "手车刀闸（试验）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/手车压变（带熔断器）.svg",
+      "label": "带熔断器",
+      "fileName": "手车压变（带熔断器）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/手车开关（分）.svg",
+      "label": "分",
+      "fileName": "手车开关（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/手车开关（合）.svg",
+      "label": "合",
+      "fileName": "手车开关（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/损坏孔位.svg",
+      "label": "损坏孔位",
+      "fileName": "损坏孔位.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/换流站.svg",
+      "label": "换流站",
+      "fileName": "换流站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/接地.svg",
+      "label": "接地",
+      "fileName": "接地.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/接地刀闸（分）.svg",
+      "label": "分",
+      "fileName": "接地刀闸（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/接地刀闸（合）.svg",
+      "label": "合",
+      "fileName": "接地刀闸（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/接地变压器（曲折形连接）.svg",
+      "label": "曲折形连接",
+      "fileName": "接地变压器（曲折形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/接地电阻.svg",
+      "label": "接地电阻",
+      "fileName": "接地电阻.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/接地符.svg",
+      "label": "接地符",
+      "fileName": "接地符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/接触器（分）.svg",
+      "label": "分",
+      "fileName": "接触器（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/接触器（合）.svg",
+      "label": "合",
+      "fileName": "接触器（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/放电线圈.svg",
+      "label": "放电线圈",
+      "fileName": "放电线圈.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/故障指示器.svg",
+      "label": "故障指示器",
+      "fileName": "故障指示器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/断路器（分）.svg",
+      "label": "分",
+      "fileName": "断路器（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/断路器（分）高亮.svg",
+      "label": "高亮",
+      "fileName": "断路器（分）高亮.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/断路器（合）.svg",
+      "label": "合",
+      "fileName": "断路器（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/方向标志.svg",
+      "label": "方向标志",
+      "fileName": "方向标志.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/无功补偿器.svg",
+      "label": "无功补偿器",
+      "fileName": "无功补偿器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/无功补偿箱.svg",
+      "label": "无功补偿箱",
+      "fileName": "无功补偿箱.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/易受外力破坏区.svg",
+      "label": "易受外力破坏区",
+      "fileName": "易受外力破坏区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/易受风害区.svg",
+      "label": "易受风害区",
+      "fileName": "易受风害区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/星形连接的三相绕组.svg",
+      "label": "星形连接的三相绕组",
+      "fileName": "星形连接的三相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/星形连接的六相绕组.svg",
+      "label": "星形连接的六相绕组",
+      "fileName": "星形连接的六相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/曲折形或互联星形的三相绕组.svg",
+      "label": "曲折形或互联星形的三相绕组",
+      "fileName": "曲折形或互联星形的三相绕组.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/有载可调压自耦变压器.svg",
+      "label": "有载可调压自耦变压器",
+      "fileName": "有载可调压自耦变压器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/木杆.svg",
+      "label": "木杆",
+      "fileName": "木杆.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/未标题-1.svg",
+      "label": "未标题",
+      "fileName": "未标题-1.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/未知孔位.svg",
+      "label": "未知孔位",
+      "fileName": "未知孔位.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/林竹区.svg",
+      "label": "林竹区",
+      "fileName": "林竹区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/架空交接箱.svg",
+      "label": "架空交接箱",
+      "fileName": "架空交接箱.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/柱上变压器.svg",
+      "label": "柱上变压器",
+      "fileName": "柱上变压器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/柱上变压器（公用变）.svg",
+      "label": "公用变",
+      "fileName": "柱上变压器（公用变）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/柱上断路器（分）.svg",
+      "label": "分",
+      "fileName": "柱上断路器（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/柱上断路器（合）.svg",
+      "label": "合",
+      "fileName": "柱上断路器（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/柱上电容器.svg",
+      "label": "柱上电容器",
+      "fileName": "柱上电容器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/柱上负荷开关（分）.svg",
+      "label": "分",
+      "fileName": "柱上负荷开关（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/柱上负荷开关（合）.svg",
+      "label": "合",
+      "fileName": "柱上负荷开关（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/柱上重合器（分）.svg",
+      "label": "分",
+      "fileName": "柱上重合器（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/柱上重合器（合）.svg",
+      "label": "合",
+      "fileName": "柱上重合器（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/柱上隔离开关（分）.svg",
+      "label": "分",
+      "fileName": "柱上隔离开关（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/柱上隔离开关（合）.svg",
+      "label": "合",
+      "fileName": "柱上隔离开关（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/检修符.svg",
+      "label": "检修符",
+      "fileName": "检修符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/检修）.svg",
+      "label": "检修",
+      "fileName": "检修）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/母线.svg",
+      "label": "母线",
+      "fileName": "母线.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/水平排列abc.svg",
+      "label": "水平排列",
+      "fileName": "水平排列abc.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/水平排列cba.svg",
+      "label": "水平排列",
+      "fileName": "水平排列cba.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/水泥杆.svg",
+      "label": "水泥杆",
+      "fileName": "水泥杆.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/永久接头.svg",
+      "label": "永久接头",
+      "fileName": "永久接头.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/沙丘区.svg",
+      "label": "沙丘区",
+      "fileName": "沙丘区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/洪水冲刷区.svg",
+      "label": "洪水冲刷区",
+      "fileName": "洪水冲刷区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/消弧线圈.svg",
+      "label": "消弧线圈",
+      "fileName": "消弧线圈.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/熔断器.svg",
+      "label": "熔断器",
+      "fileName": "熔断器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/熔断式开关（分）.svg",
+      "label": "分",
+      "fileName": "熔断式开关（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/熔断式开关（合）.svg",
+      "label": "合",
+      "fileName": "熔断式开关（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/熔断式断路器（分）.svg",
+      "label": "分",
+      "fileName": "熔断式断路器（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/熔断式断路器（合）.svg",
+      "label": "合",
+      "fileName": "熔断式断路器（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/熔断式负荷开关（分）.svg",
+      "label": "分",
+      "fileName": "熔断式负荷开关（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/熔断式负荷开关（合）.svg",
+      "label": "合",
+      "fileName": "熔断式负荷开关（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/熔断式隔离开关（分）.svg",
+      "label": "分",
+      "fileName": "熔断式隔离开关（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/熔断式隔离开关（合）.svg",
+      "label": "合",
+      "fileName": "熔断式隔离开关（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/熔断式隔离开关（合）高亮.svg",
+      "label": "高亮",
+      "fileName": "熔断式隔离开关（合）高亮.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/环网柜.svg",
+      "label": "环网柜",
+      "fileName": "环网柜.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/环网箱式变.svg",
+      "label": "环网箱式变",
+      "fileName": "环网箱式变.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/用户供电点.svg",
+      "label": "用户供电点",
+      "fileName": "用户供电点.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电力电容器.svg",
+      "label": "电力电容器",
+      "fileName": "电力电容器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电力电感器.svg",
+      "label": "电力电感器",
+      "fileName": "电力电感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电力电阻器.svg",
+      "label": "电力电阻器",
+      "fileName": "电力电阻器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电容式电压互感器.svg",
+      "label": "电容式电压互感器",
+      "fileName": "电容式电压互感器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电抗器.svg",
+      "label": "电抗器",
+      "fileName": "电抗器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电流方向.svg",
+      "label": "电流方向",
+      "fileName": "电流方向.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆中间接头.svg",
+      "label": "电缆中间接头",
+      "fileName": "电缆中间接头.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆交叉互联箱.svg",
+      "label": "电缆交叉互联箱",
+      "fileName": "电缆交叉互联箱.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆分支箱.svg",
+      "label": "电缆分支箱",
+      "fileName": "电缆分支箱.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆分界箱.svg",
+      "label": "电缆分界箱",
+      "fileName": "电缆分界箱.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆排管.svg",
+      "label": "电缆排管",
+      "fileName": "电缆排管.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆接地箱.svg",
+      "label": "电缆接地箱",
+      "fileName": "电缆接地箱.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆桥.svg",
+      "label": "电缆桥",
+      "fileName": "电缆桥.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆段.svg",
+      "label": "电缆段",
+      "fileName": "电缆段.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆沟.svg",
+      "label": "电缆沟",
+      "fileName": "电缆沟.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆终端头.svg",
+      "label": "电缆终端头",
+      "fileName": "电缆终端头.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆终端站.svg",
+      "label": "电缆终端站",
+      "fileName": "电缆终端站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆通风口.svg",
+      "label": "电缆通风口",
+      "fileName": "电缆通风口.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆防火墙.svg",
+      "label": "电缆防火墙",
+      "fileName": "电缆防火墙.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/电缆隧道.svg",
+      "label": "电缆隧道",
+      "fileName": "电缆隧道.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/盗窃多发区.svg",
+      "label": "盗窃多发区",
+      "fileName": "盗窃多发区.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/盘留.svg",
+      "label": "盘留",
+      "fileName": "盘留.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/直流发电机.svg",
+      "label": "直流发电机",
+      "fileName": "直流发电机.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/禁止遥控.svg",
+      "label": "禁止遥控",
+      "fileName": "禁止遥控.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/移相变压器.svg",
+      "label": "移相变压器",
+      "fileName": "移相变压器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/空余孔位.svg",
+      "label": "空余孔位",
+      "fileName": "空余孔位.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/管道.svg",
+      "label": "管道",
+      "fileName": "管道.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/箱式变.svg",
+      "label": "箱式变",
+      "fileName": "箱式变.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/线上变压器高亮.svg",
+      "label": "线上变压器高亮",
+      "fileName": "线上变压器高亮.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/终端室（站）.svg",
+      "label": "站",
+      "fileName": "终端室（站）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/缺陷符.svg",
+      "label": "缺陷符",
+      "fileName": "缺陷符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/耦合电容器.svg",
+      "label": "耦合电容器",
+      "fileName": "耦合电容器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/自切符.svg",
+      "label": "自切符",
+      "fileName": "自切符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/自耦变压器.svg",
+      "label": "自耦变压器",
+      "fileName": "自耦变压器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/自耦变压器（星形连接）.svg",
+      "label": "星形连接",
+      "fileName": "自耦变压器（星形连接）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/自调谐消弧线圈.svg",
+      "label": "自调谐消弧线圈",
+      "fileName": "自调谐消弧线圈.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/落地交接箱.svg",
+      "label": "落地交接箱",
+      "fileName": "落地交接箱.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划串补站.svg",
+      "label": "规划串补站",
+      "fileName": "规划串补站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划光能发电站.svg",
+      "label": "规划光能发电站",
+      "fileName": "规划光能发电站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划变电站.svg",
+      "label": "规划变电站",
+      "fileName": "规划变电站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划地热电厂.svg",
+      "label": "规划地热电厂",
+      "fileName": "规划地热电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划垃圾电厂.svg",
+      "label": "规划垃圾电厂",
+      "fileName": "规划垃圾电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划开关站.svg",
+      "label": "规划开关站",
+      "fileName": "规划开关站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划抽水蓄能电厂.svg",
+      "label": "规划抽水蓄能电厂",
+      "fileName": "规划抽水蓄能电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划换流站.svg",
+      "label": "规划换流站",
+      "fileName": "规划换流站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划核电站.svg",
+      "label": "规划核电站",
+      "fileName": "规划核电站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划水电厂.svg",
+      "label": "规划水电厂",
+      "fileName": "规划水电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划潮汐电厂.svg",
+      "label": "规划潮汐电厂",
+      "fileName": "规划潮汐电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划火电厂.svg",
+      "label": "规划火电厂",
+      "fileName": "规划火电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划秸秆电厂.svg",
+      "label": "规划秸秆电厂",
+      "fileName": "规划秸秆电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划等离子体电厂.svg",
+      "label": "规划等离子体电厂",
+      "fileName": "规划等离子体电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/规划风力发电站.svg",
+      "label": "规划风力发电站",
+      "fileName": "规划风力发电站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/计量器.svg",
+      "label": "计量器",
+      "fileName": "计量器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/计量表计.svg",
+      "label": "计量表计",
+      "fileName": "计量表计.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/负荷开关（合）.svg",
+      "label": "合",
+      "fileName": "负荷开关（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/跌落式熔断器（分）.svg",
+      "label": "分",
+      "fileName": "跌落式熔断器（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/跌落式熔断器（合）.svg",
+      "label": "合",
+      "fileName": "跌落式熔断器（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行串补站.svg",
+      "label": "运行串补站",
+      "fileName": "运行串补站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行光能发电站.svg",
+      "label": "运行光能发电站",
+      "fileName": "运行光能发电站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行变电站.svg",
+      "label": "运行变电站",
+      "fileName": "运行变电站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行地热电厂.svg",
+      "label": "运行地热电厂",
+      "fileName": "运行地热电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行垃圾电厂.svg",
+      "label": "运行垃圾电厂",
+      "fileName": "运行垃圾电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行开关站.svg",
+      "label": "运行开关站",
+      "fileName": "运行开关站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行抽水蓄能电厂.svg",
+      "label": "运行抽水蓄能电厂",
+      "fileName": "运行抽水蓄能电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行换流站.svg",
+      "label": "运行换流站",
+      "fileName": "运行换流站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行杆塔.svg",
+      "label": "运行杆塔",
+      "fileName": "运行杆塔.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行核电站.svg",
+      "label": "运行核电站",
+      "fileName": "运行核电站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行水电厂.svg",
+      "label": "运行水电厂",
+      "fileName": "运行水电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行潮汐电厂.svg",
+      "label": "运行潮汐电厂",
+      "fileName": "运行潮汐电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行火电厂.svg",
+      "label": "运行火电厂",
+      "fileName": "运行火电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行秸秆电厂.svg",
+      "label": "运行秸秆电厂",
+      "fileName": "运行秸秆电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行等离子体电厂.svg",
+      "label": "运行等离子体电厂",
+      "fileName": "运行等离子体电厂.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/运行风力发电站.svg",
+      "label": "运行风力发电站",
+      "fileName": "运行风力发电站.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/进户点.svg",
+      "label": "进户点",
+      "fileName": "进户点.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/连接线.svg",
+      "label": "连接线",
+      "fileName": "连接线.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/通信电缆接头.svg",
+      "label": "通信电缆接头",
+      "fileName": "通信电缆接头.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/通信电缆段.svg",
+      "label": "通信电缆段",
+      "fileName": "通信电缆段.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/通信终端箱.svg",
+      "label": "通信终端箱",
+      "fileName": "通信终端箱.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/避雷器.svg",
+      "label": "避雷器",
+      "fileName": "避雷器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/配变监测仪.svg",
+      "label": "配变监测仪",
+      "fileName": "配变监测仪.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/配电站（室）.svg",
+      "label": "室",
+      "fileName": "配电站（室）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/配电站（室）高亮.svg",
+      "label": "高亮",
+      "fileName": "配电站（室）高亮.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/采集终端.svg",
+      "label": "采集终端",
+      "fileName": "采集终端.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/重要用户符.svg",
+      "label": "重要用户符",
+      "fileName": "重要用户符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/钢管塔（直线型）.svg",
+      "label": "直线型",
+      "fileName": "钢管塔（直线型）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/钢管塔（耐张型）.svg",
+      "label": "耐张型",
+      "fileName": "钢管塔（耐张型）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/钢管杆.svg",
+      "label": "钢管杆",
+      "fileName": "钢管杆.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/铁塔（直线型）.svg",
+      "label": "直线型",
+      "fileName": "铁塔（直线型）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/铁塔（耐张型）.svg",
+      "label": "耐张型",
+      "fileName": "铁塔（耐张型）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/间隙.svg",
+      "label": "间隙",
+      "fileName": "间隙.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/防雷符.svg",
+      "label": "防雷符",
+      "fileName": "防雷符.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/阻波器.svg",
+      "label": "阻波器",
+      "fileName": "阻波器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/隔离开关（分）.svg",
+      "label": "分",
+      "fileName": "隔离开关（分）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/隔离开关（合）.svg",
+      "label": "合",
+      "fileName": "隔离开关（合）.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/静止无功补偿器.svg",
+      "label": "静止无功补偿器",
+      "fileName": "静止无功补偿器.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/馈线.svg",
+      "label": "馈线",
+      "fileName": "馈线.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/高压用户.svg",
+      "label": "高压用户",
+      "fileName": "高压用户.svg"
+    },
+    {
+      "path": "/diagram-icons/国家电网图/鸟害多发区.svg",
+      "label": "鸟害多发区",
+      "fileName": "鸟害多发区.svg"
+    }
+  ]
+}

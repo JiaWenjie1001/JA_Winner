@@ -1,0 +1,365 @@
+{
+  "name": "晶体管",
+  "icons": [
+    {
+      "path": "/diagram-icons/晶体管/99channel MOSFET 10.svg",
+      "label": "99channel MOSFET 10",
+      "fileName": "99channel MOSFET 10.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Bridge Rectifier 1.svg",
+      "label": "Bridge Rectifier 1",
+      "fileName": "Bridge Rectifier 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Bridge Rectifier 2.svg",
+      "label": "Bridge Rectifier 2",
+      "fileName": "Bridge Rectifier 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Bridge Rectifier 3.svg",
+      "label": "Bridge Rectifier 3",
+      "fileName": "Bridge Rectifier 3.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/channel MOSFET 1.svg",
+      "label": "channel MOSFET 1",
+      "fileName": "channel MOSFET 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/channel MOSFET 11.svg",
+      "label": "channel MOSFET 11",
+      "fileName": "channel MOSFET 11.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/channel MOSFET 2.svg",
+      "label": "channel MOSFET 2",
+      "fileName": "channel MOSFET 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/channel MOSFET 3.svg",
+      "label": "channel MOSFET 3",
+      "fileName": "channel MOSFET 3.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/channel MOSFET 4.svg",
+      "label": "channel MOSFET 4",
+      "fileName": "channel MOSFET 4.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/channel MOSFET 5.svg",
+      "label": "channel MOSFET 5",
+      "fileName": "channel MOSFET 5.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/channel MOSFET 6.svg",
+      "label": "channel MOSFET 6",
+      "fileName": "channel MOSFET 6.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/channel MOSFET 7.svg",
+      "label": "channel MOSFET 7",
+      "fileName": "channel MOSFET 7.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/channel MOSFET 8.svg",
+      "label": "channel MOSFET 8",
+      "fileName": "channel MOSFET 8.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/channel MOSFET 9.svg",
+      "label": "channel MOSFET 9",
+      "fileName": "channel MOSFET 9.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Complementary Unijunction.svg",
+      "label": "Complementary Unijunction",
+      "fileName": "Complementary Unijunction.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Darlington Pair.svg",
+      "label": "Darlington Pair",
+      "fileName": "Darlington Pair.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Diac 1.svg",
+      "label": "Diac 1",
+      "fileName": "Diac 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Diac 2.svg",
+      "label": "Diac 2",
+      "fileName": "Diac 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Dual Gate MOSFET N.svg",
+      "label": "Dual Gate MOSFET N",
+      "fileName": "Dual Gate MOSFET N.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Dual Gate MOSFET P.svg",
+      "label": "Dual Gate MOSFET P",
+      "fileName": "Dual Gate MOSFET P.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Dual Gate MOSFET.svg",
+      "label": "Dual Gate MOSFET",
+      "fileName": "Dual Gate MOSFET.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Dual Gate MOSFET2.svg",
+      "label": "Dual Gate MOSFET2",
+      "fileName": "Dual Gate MOSFET2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/GTO SCR.svg",
+      "label": "GTO SCR",
+      "fileName": "GTO SCR.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/IGCT 1.svg",
+      "label": "IGCT 1",
+      "fileName": "IGCT 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/IGCT 2.svg",
+      "label": "IGCT 2",
+      "fileName": "IGCT 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/MOSFET IC N.svg",
+      "label": "MOSFET IC N",
+      "fileName": "MOSFET IC N.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/MOSFET IC P.svg",
+      "label": "MOSFET IC P",
+      "fileName": "MOSFET IC P.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/MOSFET N No Bulk.svg",
+      "label": "MOSFET N No Bulk",
+      "fileName": "MOSFET N No Bulk.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/MOSFET P No Bulk.svg",
+      "label": "MOSFET P No Bulk",
+      "fileName": "MOSFET P No Bulk.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/N-channel JFET 1.svg",
+      "label": "N-channel JFET 1",
+      "fileName": "N-channel JFET 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/N-channel JFET 2.svg",
+      "label": "N-channel JFET 2",
+      "fileName": "N-channel JFET 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/N-channel MOSFET 1.svg",
+      "label": "N-channel MOSFET 1",
+      "fileName": "N-channel MOSFET 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/N-channel MOSFET 2.svg",
+      "label": "N-channel MOSFET 2",
+      "fileName": "N-channel MOSFET 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/N-channel MOSFET 3.svg",
+      "label": "N-channel MOSFET 3",
+      "fileName": "N-channel MOSFET 3.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/N-channel MOSFET 4.svg",
+      "label": "N-channel MOSFET 4",
+      "fileName": "N-channel MOSFET 4.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/N-channel MOSFET 5.svg",
+      "label": "N-channel MOSFET 5",
+      "fileName": "N-channel MOSFET 5.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/N-channel MOSFET 6.svg",
+      "label": "N-channel MOSFET 6",
+      "fileName": "N-channel MOSFET 6.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/N-channel MOSFET2.svg",
+      "label": "N-channel MOSFET2",
+      "fileName": "N-channel MOSFET2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/NMOS FET.svg",
+      "label": "NMOS FET",
+      "fileName": "NMOS FET.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/NMOS.svg",
+      "label": "NMOS",
+      "fileName": "NMOS.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/NPN IGBT 1.svg",
+      "label": "NPN IGBT 1",
+      "fileName": "NPN IGBT 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/NPN IGBT 2.svg",
+      "label": "NPN IGBT 2",
+      "fileName": "NPN IGBT 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/NPN IGBT 3.svg",
+      "label": "NPN IGBT 3",
+      "fileName": "NPN IGBT 3.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/NPN IGBT 4.svg",
+      "label": "NPN IGBT 4",
+      "fileName": "NPN IGBT 4.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/NPN Transistor 1.svg",
+      "label": "NPN Transistor 1",
+      "fileName": "NPN Transistor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/NPN Transistor 2.svg",
+      "label": "NPN Transistor 2",
+      "fileName": "NPN Transistor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/NPN Transistor 3.svg",
+      "label": "NPN Transistor 3",
+      "fileName": "NPN Transistor 3.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/NPN Transistor 4.svg",
+      "label": "NPN Transistor 4",
+      "fileName": "NPN Transistor 4.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/P-channel JFET 1.svg",
+      "label": "P-channel JFET 1",
+      "fileName": "P-channel JFET 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/P-channel JFET 2.svg",
+      "label": "P-channel JFET 2",
+      "fileName": "P-channel JFET 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/P-channel MOSFET 1.svg",
+      "label": "P-channel MOSFET 1",
+      "fileName": "P-channel MOSFET 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/P-channel MOSFET 2.svg",
+      "label": "P-channel MOSFET 2",
+      "fileName": "P-channel MOSFET 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/P-channel MOSFET 3.svg",
+      "label": "P-channel MOSFET 3",
+      "fileName": "P-channel MOSFET 3.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/P-channel MOSFET 4.svg",
+      "label": "P-channel MOSFET 4",
+      "fileName": "P-channel MOSFET 4.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/P-channel MOSFET 5.svg",
+      "label": "P-channel MOSFET 5",
+      "fileName": "P-channel MOSFET 5.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/P-channel MOSFET 6.svg",
+      "label": "P-channel MOSFET 6",
+      "fileName": "P-channel MOSFET 6.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/PMOS FET.svg",
+      "label": "PMOS FET",
+      "fileName": "PMOS FET.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/PMOS.svg",
+      "label": "PMOS",
+      "fileName": "PMOS.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/PNP IGBT 1.svg",
+      "label": "PNP IGBT 1",
+      "fileName": "PNP IGBT 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/PNP IGBT 2.svg",
+      "label": "PNP IGBT 2",
+      "fileName": "PNP IGBT 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/PNP IGBT 3.svg",
+      "label": "PNP IGBT 3",
+      "fileName": "PNP IGBT 3.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/PNP IGBT 4.svg",
+      "label": "PNP IGBT 4",
+      "fileName": "PNP IGBT 4.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/PNP Transistor 1.svg",
+      "label": "PNP Transistor 1",
+      "fileName": "PNP Transistor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/PNP Transistor 2.svg",
+      "label": "PNP Transistor 2",
+      "fileName": "PNP Transistor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/PNP Transistor 3.svg",
+      "label": "PNP Transistor 3",
+      "fileName": "PNP Transistor 3.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/PNP Transistor 4.svg",
+      "label": "PNP Transistor 4",
+      "fileName": "PNP Transistor 4.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/SCR 1.svg",
+      "label": "SCR 1",
+      "fileName": "SCR 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/SCR 2.svg",
+      "label": "SCR 2",
+      "fileName": "SCR 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/SIDAC.svg",
+      "label": "SIDAC",
+      "fileName": "SIDAC.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Triac 1.svg",
+      "label": "Triac 1",
+      "fileName": "Triac 1.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Triac 2.svg",
+      "label": "Triac 2",
+      "fileName": "Triac 2.svg"
+    },
+    {
+      "path": "/diagram-icons/晶体管/Unijunction.svg",
+      "label": "Unijunction",
+      "fileName": "Unijunction.svg"
+    }
+  ]
+}

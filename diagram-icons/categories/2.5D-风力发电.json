@@ -1,0 +1,90 @@
+{
+  "name": "2.5D-风力发电",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-风力发电/主轴.svg",
+      "label": "主轴",
+      "fileName": "主轴.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/偏航电机.svg",
+      "label": "偏航电机",
+      "fileName": "偏航电机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/发电机.svg",
+      "label": "发电机",
+      "fileName": "发电机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/变桨轴承.svg",
+      "label": "变桨轴承",
+      "fileName": "变桨轴承.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/变桨驱动.svg",
+      "label": "变桨驱动",
+      "fileName": "变桨驱动.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/叶片1.svg",
+      "label": "叶片",
+      "fileName": "叶片1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/叶片2.svg",
+      "label": "叶片",
+      "fileName": "叶片2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/叶片3.svg",
+      "label": "叶片",
+      "fileName": "叶片3.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/塔架.svg",
+      "label": "塔架",
+      "fileName": "塔架.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/导流罩.svg",
+      "label": "导流罩",
+      "fileName": "导流罩.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/控制柜.svg",
+      "label": "控制柜",
+      "fileName": "控制柜.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/机舱.svg",
+      "label": "机舱",
+      "fileName": "机舱.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/测风装置.svg",
+      "label": "测风装置",
+      "fileName": "测风装置.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/轮毂.svg",
+      "label": "轮毂",
+      "fileName": "轮毂.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/风力发电机.svg",
+      "label": "风力发电机",
+      "fileName": "风力发电机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/风力发电机（全息）.svg",
+      "label": "全息",
+      "fileName": "风力发电机（全息）.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-风力发电/齿轮箱.svg",
+      "label": "齿轮箱",
+      "fileName": "齿轮箱.svg"
+    }
+  ]
+}

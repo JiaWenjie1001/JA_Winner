@@ -1,0 +1,95 @@
+{
+  "name": "IoT-light(灯)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- green（绿灯） (2).svg",
+      "label": "绿灯",
+      "fileName": "Light- green（绿灯） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- green（绿灯） (3).svg",
+      "label": "绿灯",
+      "fileName": "Light- green（绿灯） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- green（绿灯） (4).svg",
+      "label": "绿灯",
+      "fileName": "Light- green（绿灯） (4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- green（绿灯） (5).svg",
+      "label": "绿灯",
+      "fileName": "Light- green（绿灯） (5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- green（绿灯） (6).svg",
+      "label": "绿灯",
+      "fileName": "Light- green（绿灯） (6).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- green（绿灯）.svg",
+      "label": "绿灯",
+      "fileName": "Light- green（绿灯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- red（红灯） (2).svg",
+      "label": "红灯",
+      "fileName": "Light- red（红灯） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- red（红灯） (3).svg",
+      "label": "红灯",
+      "fileName": "Light- red（红灯） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- red（红灯） (4).svg",
+      "label": "红灯",
+      "fileName": "Light- red（红灯） (4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- red（红灯） (5).svg",
+      "label": "红灯",
+      "fileName": "Light- red（红灯） (5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- red（红灯） (6).svg",
+      "label": "红灯",
+      "fileName": "Light- red（红灯） (6).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- red（红灯）.svg",
+      "label": "红灯",
+      "fileName": "Light- red（红灯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- yellow（黄灯） (2).svg",
+      "label": "黄灯",
+      "fileName": "Light- yellow（黄灯） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- yellow（黄灯） (3).svg",
+      "label": "黄灯",
+      "fileName": "Light- yellow（黄灯） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- yellow（黄灯） (4).svg",
+      "label": "黄灯",
+      "fileName": "Light- yellow（黄灯） (4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- yellow（黄灯） (5).svg",
+      "label": "黄灯",
+      "fileName": "Light- yellow（黄灯） (5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- yellow（黄灯） (6).svg",
+      "label": "黄灯",
+      "fileName": "Light- yellow（黄灯） (6).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-light(灯)/Light- yellow（黄灯）.svg",
+      "label": "黄灯",
+      "fileName": "Light- yellow（黄灯）.svg"
+    }
+  ]
+}

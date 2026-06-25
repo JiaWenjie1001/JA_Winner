@@ -1,0 +1,65 @@
+{
+  "name": "故障树",
+  "icons": [
+    {
+      "path": "/diagram-icons/故障树/与门.svg",
+      "label": "与门",
+      "fileName": "与门.svg"
+    },
+    {
+      "path": "/diagram-icons/故障树/事件.svg",
+      "label": "事件",
+      "fileName": "事件.svg"
+    },
+    {
+      "path": "/diagram-icons/故障树/优先AND门.svg",
+      "label": "门",
+      "fileName": "优先AND门.svg"
+    },
+    {
+      "path": "/diagram-icons/故障树/基本事件.svg",
+      "label": "基本事件",
+      "fileName": "基本事件.svg"
+    },
+    {
+      "path": "/diagram-icons/故障树/开关事件.svg",
+      "label": "开关事件",
+      "fileName": "开关事件.svg"
+    },
+    {
+      "path": "/diagram-icons/故障树/异或门.svg",
+      "label": "异或门",
+      "fileName": "异或门.svg"
+    },
+    {
+      "path": "/diagram-icons/故障树/或门.svg",
+      "label": "或门",
+      "fileName": "或门.svg"
+    },
+    {
+      "path": "/diagram-icons/故障树/未展开事件.svg",
+      "label": "未展开事件",
+      "fileName": "未展开事件.svg"
+    },
+    {
+      "path": "/diagram-icons/故障树/条件事件.svg",
+      "label": "条件事件",
+      "fileName": "条件事件.svg"
+    },
+    {
+      "path": "/diagram-icons/故障树/禁止门.svg",
+      "label": "禁止门",
+      "fileName": "禁止门.svg"
+    },
+    {
+      "path": "/diagram-icons/故障树/表决门.svg",
+      "label": "表决门",
+      "fileName": "表决门.svg"
+    },
+    {
+      "path": "/diagram-icons/故障树/转移符号.svg",
+      "label": "转移符号",
+      "fileName": "转移符号.svg"
+    }
+  ]
+}

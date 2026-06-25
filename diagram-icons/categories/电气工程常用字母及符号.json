@@ -1,0 +1,2940 @@
+{
+  "name": "电气工程常用字母及符号",
+  "icons": [
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-001.svg",
+      "label": "1-001",
+      "fileName": "1-001.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-002.svg",
+      "label": "1-002",
+      "fileName": "1-002.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-005.svg",
+      "label": "1-005",
+      "fileName": "1-005.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-006.svg",
+      "label": "1-006",
+      "fileName": "1-006.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-007.svg",
+      "label": "1-007",
+      "fileName": "1-007.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-008.svg",
+      "label": "1-008",
+      "fileName": "1-008.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-010.svg",
+      "label": "1-010",
+      "fileName": "1-010.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-012.svg",
+      "label": "1-012",
+      "fileName": "1-012.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-014.svg",
+      "label": "1-014",
+      "fileName": "1-014.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-015.svg",
+      "label": "1-015",
+      "fileName": "1-015.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-016.svg",
+      "label": "1-016",
+      "fileName": "1-016.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-017.svg",
+      "label": "1-017",
+      "fileName": "1-017.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-018.svg",
+      "label": "1-018",
+      "fileName": "1-018.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-019.svg",
+      "label": "1-019",
+      "fileName": "1-019.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-020.svg",
+      "label": "1-020",
+      "fileName": "1-020.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-021.svg",
+      "label": "1-021",
+      "fileName": "1-021.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-024.svg",
+      "label": "1-024",
+      "fileName": "1-024.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-025.svg",
+      "label": "1-025",
+      "fileName": "1-025.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-026.svg",
+      "label": "1-026",
+      "fileName": "1-026.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-027.svg",
+      "label": "1-027",
+      "fileName": "1-027.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-028.svg",
+      "label": "1-028",
+      "fileName": "1-028.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-029.svg",
+      "label": "1-029",
+      "fileName": "1-029.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-030.svg",
+      "label": "1-030",
+      "fileName": "1-030.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-031.svg",
+      "label": "1-031",
+      "fileName": "1-031.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-032.svg",
+      "label": "1-032",
+      "fileName": "1-032.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-033.svg",
+      "label": "1-033",
+      "fileName": "1-033.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-035.svg",
+      "label": "1-035",
+      "fileName": "1-035.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-037.svg",
+      "label": "1-037",
+      "fileName": "1-037.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-039.svg",
+      "label": "1-039",
+      "fileName": "1-039.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-040.svg",
+      "label": "1-040",
+      "fileName": "1-040.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-041.svg",
+      "label": "1-041",
+      "fileName": "1-041.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-042.svg",
+      "label": "1-042",
+      "fileName": "1-042.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-044.svg",
+      "label": "1-044",
+      "fileName": "1-044.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-045.svg",
+      "label": "1-045",
+      "fileName": "1-045.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-046.svg",
+      "label": "1-046",
+      "fileName": "1-046.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-047.svg",
+      "label": "1-047",
+      "fileName": "1-047.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-048.svg",
+      "label": "1-048",
+      "fileName": "1-048.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-049.svg",
+      "label": "1-049",
+      "fileName": "1-049.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-050.svg",
+      "label": "1-050",
+      "fileName": "1-050.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-051.svg",
+      "label": "1-051",
+      "fileName": "1-051.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-052.svg",
+      "label": "1-052",
+      "fileName": "1-052.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-053.svg",
+      "label": "1-053",
+      "fileName": "1-053.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-054.svg",
+      "label": "1-054",
+      "fileName": "1-054.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-055.svg",
+      "label": "1-055",
+      "fileName": "1-055.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-056.svg",
+      "label": "1-056",
+      "fileName": "1-056.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-057.svg",
+      "label": "1-057",
+      "fileName": "1-057.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-058.svg",
+      "label": "1-058",
+      "fileName": "1-058.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-059.svg",
+      "label": "1-059",
+      "fileName": "1-059.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-108.svg",
+      "label": "1-108",
+      "fileName": "1-108.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-109.svg",
+      "label": "1-109",
+      "fileName": "1-109.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-110.svg",
+      "label": "1-110",
+      "fileName": "1-110.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-111.svg",
+      "label": "1-111",
+      "fileName": "1-111.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-112.svg",
+      "label": "1-112",
+      "fileName": "1-112.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-113.svg",
+      "label": "1-113",
+      "fileName": "1-113.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-114.svg",
+      "label": "1-114",
+      "fileName": "1-114.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-115.svg",
+      "label": "1-115",
+      "fileName": "1-115.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-116.svg",
+      "label": "1-116",
+      "fileName": "1-116.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-117.svg",
+      "label": "1-117",
+      "fileName": "1-117.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-118.svg",
+      "label": "1-118",
+      "fileName": "1-118.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-125.svg",
+      "label": "1-125",
+      "fileName": "1-125.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-133.svg",
+      "label": "1-133",
+      "fileName": "1-133.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-135.svg",
+      "label": "1-135",
+      "fileName": "1-135.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-144.svg",
+      "label": "1-144",
+      "fileName": "1-144.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-145.svg",
+      "label": "1-145",
+      "fileName": "1-145.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-146.svg",
+      "label": "1-146",
+      "fileName": "1-146.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-147.svg",
+      "label": "1-147",
+      "fileName": "1-147.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-148.svg",
+      "label": "1-148",
+      "fileName": "1-148.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-149.svg",
+      "label": "1-149",
+      "fileName": "1-149.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-150.svg",
+      "label": "1-150",
+      "fileName": "1-150.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-151.svg",
+      "label": "1-151",
+      "fileName": "1-151.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-152.svg",
+      "label": "1-152",
+      "fileName": "1-152.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-158.svg",
+      "label": "1-158",
+      "fileName": "1-158.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-159.svg",
+      "label": "1-159",
+      "fileName": "1-159.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-160.svg",
+      "label": "1-160",
+      "fileName": "1-160.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-161.svg",
+      "label": "1-161",
+      "fileName": "1-161.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-162.svg",
+      "label": "1-162",
+      "fileName": "1-162.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-163.svg",
+      "label": "1-163",
+      "fileName": "1-163.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-164.svg",
+      "label": "1-164",
+      "fileName": "1-164.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-165.svg",
+      "label": "1-165",
+      "fileName": "1-165.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-166.svg",
+      "label": "1-166",
+      "fileName": "1-166.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-167.svg",
+      "label": "1-167",
+      "fileName": "1-167.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-168.svg",
+      "label": "1-168",
+      "fileName": "1-168.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-169.svg",
+      "label": "1-169",
+      "fileName": "1-169.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-170.svg",
+      "label": "1-170",
+      "fileName": "1-170.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-171.svg",
+      "label": "1-171",
+      "fileName": "1-171.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-172.svg",
+      "label": "1-172",
+      "fileName": "1-172.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-173.svg",
+      "label": "1-173",
+      "fileName": "1-173.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-175.svg",
+      "label": "1-175",
+      "fileName": "1-175.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-176.svg",
+      "label": "1-176",
+      "fileName": "1-176.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-177.svg",
+      "label": "1-177",
+      "fileName": "1-177.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-178.svg",
+      "label": "1-178",
+      "fileName": "1-178.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-179.svg",
+      "label": "1-179",
+      "fileName": "1-179.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-180.svg",
+      "label": "1-180",
+      "fileName": "1-180.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-181.svg",
+      "label": "1-181",
+      "fileName": "1-181.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-182.svg",
+      "label": "1-182",
+      "fileName": "1-182.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-183.svg",
+      "label": "1-183",
+      "fileName": "1-183.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-184.svg",
+      "label": "1-184",
+      "fileName": "1-184.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-186.svg",
+      "label": "1-186",
+      "fileName": "1-186.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-187.svg",
+      "label": "1-187",
+      "fileName": "1-187.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-188.svg",
+      "label": "1-188",
+      "fileName": "1-188.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-189.svg",
+      "label": "1-189",
+      "fileName": "1-189.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-190.svg",
+      "label": "1-190",
+      "fileName": "1-190.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-191.svg",
+      "label": "1-191",
+      "fileName": "1-191.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-192.svg",
+      "label": "1-192",
+      "fileName": "1-192.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-193.svg",
+      "label": "1-193",
+      "fileName": "1-193.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-194.svg",
+      "label": "1-194",
+      "fileName": "1-194.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-195.svg",
+      "label": "1-195",
+      "fileName": "1-195.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-196.svg",
+      "label": "1-196",
+      "fileName": "1-196.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-197.svg",
+      "label": "1-197",
+      "fileName": "1-197.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-198.svg",
+      "label": "1-198",
+      "fileName": "1-198.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-199.svg",
+      "label": "1-199",
+      "fileName": "1-199.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-200.svg",
+      "label": "1-200",
+      "fileName": "1-200.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-201.svg",
+      "label": "1-201",
+      "fileName": "1-201.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-202.svg",
+      "label": "1-202",
+      "fileName": "1-202.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-203.svg",
+      "label": "1-203",
+      "fileName": "1-203.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-204.svg",
+      "label": "1-204",
+      "fileName": "1-204.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-205.svg",
+      "label": "1-205",
+      "fileName": "1-205.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-206.svg",
+      "label": "1-206",
+      "fileName": "1-206.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-207.svg",
+      "label": "1-207",
+      "fileName": "1-207.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-208.svg",
+      "label": "1-208",
+      "fileName": "1-208.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-209.svg",
+      "label": "1-209",
+      "fileName": "1-209.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-210.svg",
+      "label": "1-210",
+      "fileName": "1-210.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-211.svg",
+      "label": "1-211",
+      "fileName": "1-211.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-212.svg",
+      "label": "1-212",
+      "fileName": "1-212.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-213.svg",
+      "label": "1-213",
+      "fileName": "1-213.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-214.svg",
+      "label": "1-214",
+      "fileName": "1-214.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-215.svg",
+      "label": "1-215",
+      "fileName": "1-215.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-216.svg",
+      "label": "1-216",
+      "fileName": "1-216.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-217.svg",
+      "label": "1-217",
+      "fileName": "1-217.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-218.svg",
+      "label": "1-218",
+      "fileName": "1-218.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-219.svg",
+      "label": "1-219",
+      "fileName": "1-219.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-220.svg",
+      "label": "1-220",
+      "fileName": "1-220.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-221.svg",
+      "label": "1-221",
+      "fileName": "1-221.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-222.svg",
+      "label": "1-222",
+      "fileName": "1-222.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-223.svg",
+      "label": "1-223",
+      "fileName": "1-223.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-224.svg",
+      "label": "1-224",
+      "fileName": "1-224.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-225.svg",
+      "label": "1-225",
+      "fileName": "1-225.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-226.svg",
+      "label": "1-226",
+      "fileName": "1-226.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-227.svg",
+      "label": "1-227",
+      "fileName": "1-227.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-228.svg",
+      "label": "1-228",
+      "fileName": "1-228.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-229.svg",
+      "label": "1-229",
+      "fileName": "1-229.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-233.svg",
+      "label": "1-233",
+      "fileName": "1-233.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-234.svg",
+      "label": "1-234",
+      "fileName": "1-234.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-235.svg",
+      "label": "1-235",
+      "fileName": "1-235.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-236.svg",
+      "label": "1-236",
+      "fileName": "1-236.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-237.svg",
+      "label": "1-237",
+      "fileName": "1-237.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-238.svg",
+      "label": "1-238",
+      "fileName": "1-238.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-239.svg",
+      "label": "1-239",
+      "fileName": "1-239.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-240.svg",
+      "label": "1-240",
+      "fileName": "1-240.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-241.svg",
+      "label": "1-241",
+      "fileName": "1-241.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-242.svg",
+      "label": "1-242",
+      "fileName": "1-242.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-243.svg",
+      "label": "1-243",
+      "fileName": "1-243.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-244.svg",
+      "label": "1-244",
+      "fileName": "1-244.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-245.svg",
+      "label": "1-245",
+      "fileName": "1-245.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-246.svg",
+      "label": "1-246",
+      "fileName": "1-246.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-247.svg",
+      "label": "1-247",
+      "fileName": "1-247.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-248.svg",
+      "label": "1-248",
+      "fileName": "1-248.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-249.svg",
+      "label": "1-249",
+      "fileName": "1-249.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-250.svg",
+      "label": "1-250",
+      "fileName": "1-250.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-251.svg",
+      "label": "1-251",
+      "fileName": "1-251.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-252.svg",
+      "label": "1-252",
+      "fileName": "1-252.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-253.svg",
+      "label": "1-253",
+      "fileName": "1-253.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-254.svg",
+      "label": "1-254",
+      "fileName": "1-254.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-255.svg",
+      "label": "1-255",
+      "fileName": "1-255.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-256.svg",
+      "label": "1-256",
+      "fileName": "1-256.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-263.svg",
+      "label": "1-263",
+      "fileName": "1-263.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-264.svg",
+      "label": "1-264",
+      "fileName": "1-264.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-265.svg",
+      "label": "1-265",
+      "fileName": "1-265.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-266.svg",
+      "label": "1-266",
+      "fileName": "1-266.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-267.svg",
+      "label": "1-267",
+      "fileName": "1-267.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-268.svg",
+      "label": "1-268",
+      "fileName": "1-268.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-270.svg",
+      "label": "1-270",
+      "fileName": "1-270.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-271.svg",
+      "label": "1-271",
+      "fileName": "1-271.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-272.svg",
+      "label": "1-272",
+      "fileName": "1-272.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-273.svg",
+      "label": "1-273",
+      "fileName": "1-273.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-274.svg",
+      "label": "1-274",
+      "fileName": "1-274.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-275.svg",
+      "label": "1-275",
+      "fileName": "1-275.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-276.svg",
+      "label": "1-276",
+      "fileName": "1-276.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-277.svg",
+      "label": "1-277",
+      "fileName": "1-277.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-278.svg",
+      "label": "1-278",
+      "fileName": "1-278.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-279.svg",
+      "label": "1-279",
+      "fileName": "1-279.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-280.svg",
+      "label": "1-280",
+      "fileName": "1-280.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-282.svg",
+      "label": "1-282",
+      "fileName": "1-282.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-283.svg",
+      "label": "1-283",
+      "fileName": "1-283.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-284.svg",
+      "label": "1-284",
+      "fileName": "1-284.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-286.svg",
+      "label": "1-286",
+      "fileName": "1-286.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-287.svg",
+      "label": "1-287",
+      "fileName": "1-287.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-288.svg",
+      "label": "1-288",
+      "fileName": "1-288.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-289.svg",
+      "label": "1-289",
+      "fileName": "1-289.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-290.svg",
+      "label": "1-290",
+      "fileName": "1-290.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-291.svg",
+      "label": "1-291",
+      "fileName": "1-291.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-292.svg",
+      "label": "1-292",
+      "fileName": "1-292.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-293.svg",
+      "label": "1-293",
+      "fileName": "1-293.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-294.svg",
+      "label": "1-294",
+      "fileName": "1-294.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-295.svg",
+      "label": "1-295",
+      "fileName": "1-295.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-296.svg",
+      "label": "1-296",
+      "fileName": "1-296.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-297.svg",
+      "label": "1-297",
+      "fileName": "1-297.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-298.svg",
+      "label": "1-298",
+      "fileName": "1-298.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-299.svg",
+      "label": "1-299",
+      "fileName": "1-299.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-300.svg",
+      "label": "1-300",
+      "fileName": "1-300.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-301.svg",
+      "label": "1-301",
+      "fileName": "1-301.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-302.svg",
+      "label": "1-302",
+      "fileName": "1-302.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-303.svg",
+      "label": "1-303",
+      "fileName": "1-303.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-304.svg",
+      "label": "1-304",
+      "fileName": "1-304.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-305.svg",
+      "label": "1-305",
+      "fileName": "1-305.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-306.svg",
+      "label": "1-306",
+      "fileName": "1-306.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-307.svg",
+      "label": "1-307",
+      "fileName": "1-307.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-308.svg",
+      "label": "1-308",
+      "fileName": "1-308.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-309.svg",
+      "label": "1-309",
+      "fileName": "1-309.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-310.svg",
+      "label": "1-310",
+      "fileName": "1-310.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-311.svg",
+      "label": "1-311",
+      "fileName": "1-311.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-312.svg",
+      "label": "1-312",
+      "fileName": "1-312.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-313.svg",
+      "label": "1-313",
+      "fileName": "1-313.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-314.svg",
+      "label": "1-314",
+      "fileName": "1-314.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-315.svg",
+      "label": "1-315",
+      "fileName": "1-315.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-316.svg",
+      "label": "1-316",
+      "fileName": "1-316.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-317.svg",
+      "label": "1-317",
+      "fileName": "1-317.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-318.svg",
+      "label": "1-318",
+      "fileName": "1-318.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-319.svg",
+      "label": "1-319",
+      "fileName": "1-319.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-320.svg",
+      "label": "1-320",
+      "fileName": "1-320.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-321.svg",
+      "label": "1-321",
+      "fileName": "1-321.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-322.svg",
+      "label": "1-322",
+      "fileName": "1-322.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-323.svg",
+      "label": "1-323",
+      "fileName": "1-323.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-324.svg",
+      "label": "1-324",
+      "fileName": "1-324.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-325.svg",
+      "label": "1-325",
+      "fileName": "1-325.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-326.svg",
+      "label": "1-326",
+      "fileName": "1-326.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-327.svg",
+      "label": "1-327",
+      "fileName": "1-327.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-328.svg",
+      "label": "1-328",
+      "fileName": "1-328.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-329.svg",
+      "label": "1-329",
+      "fileName": "1-329.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-330.svg",
+      "label": "1-330",
+      "fileName": "1-330.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-331.svg",
+      "label": "1-331",
+      "fileName": "1-331.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-332.svg",
+      "label": "1-332",
+      "fileName": "1-332.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-333.svg",
+      "label": "1-333",
+      "fileName": "1-333.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-334.svg",
+      "label": "1-334",
+      "fileName": "1-334.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-335.svg",
+      "label": "1-335",
+      "fileName": "1-335.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-336.svg",
+      "label": "1-336",
+      "fileName": "1-336.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-338.svg",
+      "label": "1-338",
+      "fileName": "1-338.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-339.svg",
+      "label": "1-339",
+      "fileName": "1-339.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-340.svg",
+      "label": "1-340",
+      "fileName": "1-340.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-341.svg",
+      "label": "1-341",
+      "fileName": "1-341.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-342.svg",
+      "label": "1-342",
+      "fileName": "1-342.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-343.svg",
+      "label": "1-343",
+      "fileName": "1-343.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-344.svg",
+      "label": "1-344",
+      "fileName": "1-344.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-345.svg",
+      "label": "1-345",
+      "fileName": "1-345.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-346.svg",
+      "label": "1-346",
+      "fileName": "1-346.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-347.svg",
+      "label": "1-347",
+      "fileName": "1-347.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-348.svg",
+      "label": "1-348",
+      "fileName": "1-348.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-350.svg",
+      "label": "1-350",
+      "fileName": "1-350.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-351.svg",
+      "label": "1-351",
+      "fileName": "1-351.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/1-353.svg",
+      "label": "1-353",
+      "fileName": "1-353.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/10.svg",
+      "label": "10",
+      "fileName": "10.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/12.svg",
+      "label": "12",
+      "fileName": "12.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/13.svg",
+      "label": "13",
+      "fileName": "13.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/14.svg",
+      "label": "14",
+      "fileName": "14.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/17.svg",
+      "label": "17",
+      "fileName": "17.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-001.svg",
+      "label": "2-001",
+      "fileName": "2-001.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-002.svg",
+      "label": "2-002",
+      "fileName": "2-002.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-003.svg",
+      "label": "2-003",
+      "fileName": "2-003.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-004.svg",
+      "label": "2-004",
+      "fileName": "2-004.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-005.svg",
+      "label": "2-005",
+      "fileName": "2-005.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-009.svg",
+      "label": "2-009",
+      "fileName": "2-009.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-010.svg",
+      "label": "2-010",
+      "fileName": "2-010.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-011.svg",
+      "label": "2-011",
+      "fileName": "2-011.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-012.svg",
+      "label": "2-012",
+      "fileName": "2-012.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-013.svg",
+      "label": "2-013",
+      "fileName": "2-013.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-014.svg",
+      "label": "2-014",
+      "fileName": "2-014.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-015.svg",
+      "label": "2-015",
+      "fileName": "2-015.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-016.svg",
+      "label": "2-016",
+      "fileName": "2-016.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-017.svg",
+      "label": "2-017",
+      "fileName": "2-017.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-019.svg",
+      "label": "2-019",
+      "fileName": "2-019.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-020.svg",
+      "label": "2-020",
+      "fileName": "2-020.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-021.svg",
+      "label": "2-021",
+      "fileName": "2-021.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-023.svg",
+      "label": "2-023",
+      "fileName": "2-023.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-025.svg",
+      "label": "2-025",
+      "fileName": "2-025.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-026.svg",
+      "label": "2-026",
+      "fileName": "2-026.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-027.svg",
+      "label": "2-027",
+      "fileName": "2-027.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-028.svg",
+      "label": "2-028",
+      "fileName": "2-028.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-029.svg",
+      "label": "2-029",
+      "fileName": "2-029.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-030.svg",
+      "label": "2-030",
+      "fileName": "2-030.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-032.svg",
+      "label": "2-032",
+      "fileName": "2-032.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-034.svg",
+      "label": "2-034",
+      "fileName": "2-034.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-036.svg",
+      "label": "2-036",
+      "fileName": "2-036.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-038.svg",
+      "label": "2-038",
+      "fileName": "2-038.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-039.svg",
+      "label": "2-039",
+      "fileName": "2-039.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-040.svg",
+      "label": "2-040",
+      "fileName": "2-040.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-041.svg",
+      "label": "2-041",
+      "fileName": "2-041.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-042.svg",
+      "label": "2-042",
+      "fileName": "2-042.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-043.svg",
+      "label": "2-043",
+      "fileName": "2-043.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-044.svg",
+      "label": "2-044",
+      "fileName": "2-044.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-045.svg",
+      "label": "2-045",
+      "fileName": "2-045.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-046.svg",
+      "label": "2-046",
+      "fileName": "2-046.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-047.svg",
+      "label": "2-047",
+      "fileName": "2-047.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-048.svg",
+      "label": "2-048",
+      "fileName": "2-048.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-049.svg",
+      "label": "2-049",
+      "fileName": "2-049.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-050.svg",
+      "label": "2-050",
+      "fileName": "2-050.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-051.svg",
+      "label": "2-051",
+      "fileName": "2-051.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-052.svg",
+      "label": "2-052",
+      "fileName": "2-052.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-053.svg",
+      "label": "2-053",
+      "fileName": "2-053.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-054.svg",
+      "label": "2-054",
+      "fileName": "2-054.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-055.svg",
+      "label": "2-055",
+      "fileName": "2-055.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-056.svg",
+      "label": "2-056",
+      "fileName": "2-056.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-057.svg",
+      "label": "2-057",
+      "fileName": "2-057.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-058.svg",
+      "label": "2-058",
+      "fileName": "2-058.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-059.svg",
+      "label": "2-059",
+      "fileName": "2-059.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-060.svg",
+      "label": "2-060",
+      "fileName": "2-060.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-061.svg",
+      "label": "2-061",
+      "fileName": "2-061.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-062.svg",
+      "label": "2-062",
+      "fileName": "2-062.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-063.svg",
+      "label": "2-063",
+      "fileName": "2-063.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-064.svg",
+      "label": "2-064",
+      "fileName": "2-064.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-065.svg",
+      "label": "2-065",
+      "fileName": "2-065.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-066.svg",
+      "label": "2-066",
+      "fileName": "2-066.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-067.svg",
+      "label": "2-067",
+      "fileName": "2-067.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-068.svg",
+      "label": "2-068",
+      "fileName": "2-068.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-069.svg",
+      "label": "2-069",
+      "fileName": "2-069.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-070.svg",
+      "label": "2-070",
+      "fileName": "2-070.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-0701.svg",
+      "label": "2-0701",
+      "fileName": "2-0701.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-071.svg",
+      "label": "2-071",
+      "fileName": "2-071.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-072.svg",
+      "label": "2-072",
+      "fileName": "2-072.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-073.svg",
+      "label": "2-073",
+      "fileName": "2-073.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-074.svg",
+      "label": "2-074",
+      "fileName": "2-074.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-075.svg",
+      "label": "2-075",
+      "fileName": "2-075.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-076.svg",
+      "label": "2-076",
+      "fileName": "2-076.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-077.svg",
+      "label": "2-077",
+      "fileName": "2-077.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-078.svg",
+      "label": "2-078",
+      "fileName": "2-078.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-079.svg",
+      "label": "2-079",
+      "fileName": "2-079.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-080.svg",
+      "label": "2-080",
+      "fileName": "2-080.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-081.svg",
+      "label": "2-081",
+      "fileName": "2-081.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-082.svg",
+      "label": "2-082",
+      "fileName": "2-082.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-083.svg",
+      "label": "2-083",
+      "fileName": "2-083.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-087.svg",
+      "label": "2-087",
+      "fileName": "2-087.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-089.svg",
+      "label": "2-089",
+      "fileName": "2-089.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-091.svg",
+      "label": "2-091",
+      "fileName": "2-091.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-092.svg",
+      "label": "2-092",
+      "fileName": "2-092.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-093.svg",
+      "label": "2-093",
+      "fileName": "2-093.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-094.svg",
+      "label": "2-094",
+      "fileName": "2-094.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-095.svg",
+      "label": "2-095",
+      "fileName": "2-095.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-096.svg",
+      "label": "2-096",
+      "fileName": "2-096.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-097.svg",
+      "label": "2-097",
+      "fileName": "2-097.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-098.svg",
+      "label": "2-098",
+      "fileName": "2-098.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-099.svg",
+      "label": "2-099",
+      "fileName": "2-099.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-100.svg",
+      "label": "2-100",
+      "fileName": "2-100.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-101.svg",
+      "label": "2-101",
+      "fileName": "2-101.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-102.svg",
+      "label": "2-102",
+      "fileName": "2-102.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-103.svg",
+      "label": "2-103",
+      "fileName": "2-103.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-104.svg",
+      "label": "2-104",
+      "fileName": "2-104.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-106.svg",
+      "label": "2-106",
+      "fileName": "2-106.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-108.svg",
+      "label": "2-108",
+      "fileName": "2-108.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-109.svg",
+      "label": "2-109",
+      "fileName": "2-109.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-110.svg",
+      "label": "2-110",
+      "fileName": "2-110.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-111.svg",
+      "label": "2-111",
+      "fileName": "2-111.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-112.svg",
+      "label": "2-112",
+      "fileName": "2-112.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-114.svg",
+      "label": "2-114",
+      "fileName": "2-114.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-115.svg",
+      "label": "2-115",
+      "fileName": "2-115.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-116.svg",
+      "label": "2-116",
+      "fileName": "2-116.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-117.svg",
+      "label": "2-117",
+      "fileName": "2-117.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-118.svg",
+      "label": "2-118",
+      "fileName": "2-118.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-119.svg",
+      "label": "2-119",
+      "fileName": "2-119.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-120.svg",
+      "label": "2-120",
+      "fileName": "2-120.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-121.svg",
+      "label": "2-121",
+      "fileName": "2-121.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-122.svg",
+      "label": "2-122",
+      "fileName": "2-122.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-123.svg",
+      "label": "2-123",
+      "fileName": "2-123.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-124.svg",
+      "label": "2-124",
+      "fileName": "2-124.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-125.svg",
+      "label": "2-125",
+      "fileName": "2-125.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-126.svg",
+      "label": "2-126",
+      "fileName": "2-126.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-127.svg",
+      "label": "2-127",
+      "fileName": "2-127.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-128.svg",
+      "label": "2-128",
+      "fileName": "2-128.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-129.svg",
+      "label": "2-129",
+      "fileName": "2-129.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-130.svg",
+      "label": "2-130",
+      "fileName": "2-130.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-131.svg",
+      "label": "2-131",
+      "fileName": "2-131.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-132.svg",
+      "label": "2-132",
+      "fileName": "2-132.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-134.svg",
+      "label": "2-134",
+      "fileName": "2-134.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-135.svg",
+      "label": "2-135",
+      "fileName": "2-135.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-136.svg",
+      "label": "2-136",
+      "fileName": "2-136.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-137.svg",
+      "label": "2-137",
+      "fileName": "2-137.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-138.svg",
+      "label": "2-138",
+      "fileName": "2-138.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-139.svg",
+      "label": "2-139",
+      "fileName": "2-139.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-140.svg",
+      "label": "2-140",
+      "fileName": "2-140.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-141.svg",
+      "label": "2-141",
+      "fileName": "2-141.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-142.svg",
+      "label": "2-142",
+      "fileName": "2-142.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-143.svg",
+      "label": "2-143",
+      "fileName": "2-143.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-144.svg",
+      "label": "2-144",
+      "fileName": "2-144.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-145.svg",
+      "label": "2-145",
+      "fileName": "2-145.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-147.svg",
+      "label": "2-147",
+      "fileName": "2-147.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-148.svg",
+      "label": "2-148",
+      "fileName": "2-148.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-149.svg",
+      "label": "2-149",
+      "fileName": "2-149.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-150.svg",
+      "label": "2-150",
+      "fileName": "2-150.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-151.svg",
+      "label": "2-151",
+      "fileName": "2-151.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-152.svg",
+      "label": "2-152",
+      "fileName": "2-152.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-153.svg",
+      "label": "2-153",
+      "fileName": "2-153.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-154.svg",
+      "label": "2-154",
+      "fileName": "2-154.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-155.svg",
+      "label": "2-155",
+      "fileName": "2-155.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-156.svg",
+      "label": "2-156",
+      "fileName": "2-156.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-157.svg",
+      "label": "2-157",
+      "fileName": "2-157.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-158.svg",
+      "label": "2-158",
+      "fileName": "2-158.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-159.svg",
+      "label": "2-159",
+      "fileName": "2-159.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-160.svg",
+      "label": "2-160",
+      "fileName": "2-160.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-161.svg",
+      "label": "2-161",
+      "fileName": "2-161.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-162.svg",
+      "label": "2-162",
+      "fileName": "2-162.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-163.svg",
+      "label": "2-163",
+      "fileName": "2-163.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-164.svg",
+      "label": "2-164",
+      "fileName": "2-164.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-165.svg",
+      "label": "2-165",
+      "fileName": "2-165.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-166.svg",
+      "label": "2-166",
+      "fileName": "2-166.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-167.svg",
+      "label": "2-167",
+      "fileName": "2-167.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-168.svg",
+      "label": "2-168",
+      "fileName": "2-168.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-169.svg",
+      "label": "2-169",
+      "fileName": "2-169.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-170.svg",
+      "label": "2-170",
+      "fileName": "2-170.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-171.svg",
+      "label": "2-171",
+      "fileName": "2-171.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-172.svg",
+      "label": "2-172",
+      "fileName": "2-172.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-173.svg",
+      "label": "2-173",
+      "fileName": "2-173.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-174.svg",
+      "label": "2-174",
+      "fileName": "2-174.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-175.svg",
+      "label": "2-175",
+      "fileName": "2-175.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-176.svg",
+      "label": "2-176",
+      "fileName": "2-176.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-177.svg",
+      "label": "2-177",
+      "fileName": "2-177.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-178.svg",
+      "label": "2-178",
+      "fileName": "2-178.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-179.svg",
+      "label": "2-179",
+      "fileName": "2-179.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-180.svg",
+      "label": "2-180",
+      "fileName": "2-180.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-181.svg",
+      "label": "2-181",
+      "fileName": "2-181.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-182.svg",
+      "label": "2-182",
+      "fileName": "2-182.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-183.svg",
+      "label": "2-183",
+      "fileName": "2-183.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-184.svg",
+      "label": "2-184",
+      "fileName": "2-184.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-185.svg",
+      "label": "2-185",
+      "fileName": "2-185.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-186.svg",
+      "label": "2-186",
+      "fileName": "2-186.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-187.svg",
+      "label": "2-187",
+      "fileName": "2-187.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-188.svg",
+      "label": "2-188",
+      "fileName": "2-188.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-189.svg",
+      "label": "2-189",
+      "fileName": "2-189.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-190.svg",
+      "label": "2-190",
+      "fileName": "2-190.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-191.svg",
+      "label": "2-191",
+      "fileName": "2-191.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-192.svg",
+      "label": "2-192",
+      "fileName": "2-192.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-193.svg",
+      "label": "2-193",
+      "fileName": "2-193.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-194.svg",
+      "label": "2-194",
+      "fileName": "2-194.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-195.svg",
+      "label": "2-195",
+      "fileName": "2-195.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-196.svg",
+      "label": "2-196",
+      "fileName": "2-196.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-198.svg",
+      "label": "2-198",
+      "fileName": "2-198.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-200.svg",
+      "label": "2-200",
+      "fileName": "2-200.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-201.svg",
+      "label": "2-201",
+      "fileName": "2-201.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-202.svg",
+      "label": "2-202",
+      "fileName": "2-202.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-203.svg",
+      "label": "2-203",
+      "fileName": "2-203.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-204.svg",
+      "label": "2-204",
+      "fileName": "2-204.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-205.svg",
+      "label": "2-205",
+      "fileName": "2-205.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-206.svg",
+      "label": "2-206",
+      "fileName": "2-206.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-207.svg",
+      "label": "2-207",
+      "fileName": "2-207.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-208.svg",
+      "label": "2-208",
+      "fileName": "2-208.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-209.svg",
+      "label": "2-209",
+      "fileName": "2-209.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-210.svg",
+      "label": "2-210",
+      "fileName": "2-210.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-211.svg",
+      "label": "2-211",
+      "fileName": "2-211.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-212.svg",
+      "label": "2-212",
+      "fileName": "2-212.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-213.svg",
+      "label": "2-213",
+      "fileName": "2-213.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-214.svg",
+      "label": "2-214",
+      "fileName": "2-214.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-215.svg",
+      "label": "2-215",
+      "fileName": "2-215.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-216.svg",
+      "label": "2-216",
+      "fileName": "2-216.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-217.svg",
+      "label": "2-217",
+      "fileName": "2-217.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-218.svg",
+      "label": "2-218",
+      "fileName": "2-218.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-219.svg",
+      "label": "2-219",
+      "fileName": "2-219.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-220.svg",
+      "label": "2-220",
+      "fileName": "2-220.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-221.svg",
+      "label": "2-221",
+      "fileName": "2-221.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-222.svg",
+      "label": "2-222",
+      "fileName": "2-222.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-223.svg",
+      "label": "2-223",
+      "fileName": "2-223.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-224.svg",
+      "label": "2-224",
+      "fileName": "2-224.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-225.svg",
+      "label": "2-225",
+      "fileName": "2-225.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-226.svg",
+      "label": "2-226",
+      "fileName": "2-226.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-227.svg",
+      "label": "2-227",
+      "fileName": "2-227.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-228.svg",
+      "label": "2-228",
+      "fileName": "2-228.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-229.svg",
+      "label": "2-229",
+      "fileName": "2-229.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-230.svg",
+      "label": "2-230",
+      "fileName": "2-230.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-231svg.svg",
+      "label": "2-231svg",
+      "fileName": "2-231svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-232svg.svg",
+      "label": "2-232svg",
+      "fileName": "2-232svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-233svg.svg",
+      "label": "2-233svg",
+      "fileName": "2-233svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-235svg.svg",
+      "label": "2-235svg",
+      "fileName": "2-235svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-236svg.svg",
+      "label": "2-236svg",
+      "fileName": "2-236svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-237svg.svg",
+      "label": "2-237svg",
+      "fileName": "2-237svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-238svg.svg",
+      "label": "2-238svg",
+      "fileName": "2-238svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-241svg.svg",
+      "label": "2-241svg",
+      "fileName": "2-241svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-242svg.svg",
+      "label": "2-242svg",
+      "fileName": "2-242svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-243svg.svg",
+      "label": "2-243svg",
+      "fileName": "2-243svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-244svg.svg",
+      "label": "2-244svg",
+      "fileName": "2-244svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-245svg.svg",
+      "label": "2-245svg",
+      "fileName": "2-245svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-246svg.svg",
+      "label": "2-246svg",
+      "fileName": "2-246svg.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-247.svg",
+      "label": "2-247",
+      "fileName": "2-247.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-248.svg",
+      "label": "2-248",
+      "fileName": "2-248.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-249.svg",
+      "label": "2-249",
+      "fileName": "2-249.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-250.svg",
+      "label": "2-250",
+      "fileName": "2-250.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-251.svg",
+      "label": "2-251",
+      "fileName": "2-251.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-252.svg",
+      "label": "2-252",
+      "fileName": "2-252.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-253.svg",
+      "label": "2-253",
+      "fileName": "2-253.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-254.svg",
+      "label": "2-254",
+      "fileName": "2-254.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-256.svg",
+      "label": "2-256",
+      "fileName": "2-256.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-257.svg",
+      "label": "2-257",
+      "fileName": "2-257.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-258.svg",
+      "label": "2-258",
+      "fileName": "2-258.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-259.svg",
+      "label": "2-259",
+      "fileName": "2-259.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-260.svg",
+      "label": "2-260",
+      "fileName": "2-260.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-261.svg",
+      "label": "2-261",
+      "fileName": "2-261.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-262.svg",
+      "label": "2-262",
+      "fileName": "2-262.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-263.svg",
+      "label": "2-263",
+      "fileName": "2-263.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-264.svg",
+      "label": "2-264",
+      "fileName": "2-264.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-265.svg",
+      "label": "2-265",
+      "fileName": "2-265.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-266.svg",
+      "label": "2-266",
+      "fileName": "2-266.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-267.svg",
+      "label": "2-267",
+      "fileName": "2-267.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-268.svg",
+      "label": "2-268",
+      "fileName": "2-268.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-269.svg",
+      "label": "2-269",
+      "fileName": "2-269.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-270.svg",
+      "label": "2-270",
+      "fileName": "2-270.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-271.svg",
+      "label": "2-271",
+      "fileName": "2-271.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-272.svg",
+      "label": "2-272",
+      "fileName": "2-272.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-273.svg",
+      "label": "2-273",
+      "fileName": "2-273.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-274.svg",
+      "label": "2-274",
+      "fileName": "2-274.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-275.svg",
+      "label": "2-275",
+      "fileName": "2-275.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-276.svg",
+      "label": "2-276",
+      "fileName": "2-276.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-277.svg",
+      "label": "2-277",
+      "fileName": "2-277.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-278.svg",
+      "label": "2-278",
+      "fileName": "2-278.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-279.svg",
+      "label": "2-279",
+      "fileName": "2-279.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-280.svg",
+      "label": "2-280",
+      "fileName": "2-280.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-281.svg",
+      "label": "2-281",
+      "fileName": "2-281.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-282.svg",
+      "label": "2-282",
+      "fileName": "2-282.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-283.svg",
+      "label": "2-283",
+      "fileName": "2-283.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-284.svg",
+      "label": "2-284",
+      "fileName": "2-284.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-285.svg",
+      "label": "2-285",
+      "fileName": "2-285.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-286.svg",
+      "label": "2-286",
+      "fileName": "2-286.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-287.svg",
+      "label": "2-287",
+      "fileName": "2-287.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-288.svg",
+      "label": "2-288",
+      "fileName": "2-288.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-289.svg",
+      "label": "2-289",
+      "fileName": "2-289.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/2-290.svg",
+      "label": "2-290",
+      "fileName": "2-290.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-02.svg",
+      "label": "3-02",
+      "fileName": "3-02.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-185.svg",
+      "label": "3-185",
+      "fileName": "3-185.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-186.svg",
+      "label": "3-186",
+      "fileName": "3-186.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-187.svg",
+      "label": "3-187",
+      "fileName": "3-187.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-188.svg",
+      "label": "3-188",
+      "fileName": "3-188.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-189.svg",
+      "label": "3-189",
+      "fileName": "3-189.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-190.svg",
+      "label": "3-190",
+      "fileName": "3-190.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-195.svg",
+      "label": "3-195",
+      "fileName": "3-195.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-196.svg",
+      "label": "3-196",
+      "fileName": "3-196.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-197.svg",
+      "label": "3-197",
+      "fileName": "3-197.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-198.svg",
+      "label": "3-198",
+      "fileName": "3-198.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-199.svg",
+      "label": "3-199",
+      "fileName": "3-199.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-200.svg",
+      "label": "3-200",
+      "fileName": "3-200.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-201.svg",
+      "label": "3-201",
+      "fileName": "3-201.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-202.svg",
+      "label": "3-202",
+      "fileName": "3-202.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-203.svg",
+      "label": "3-203",
+      "fileName": "3-203.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-204.svg",
+      "label": "3-204",
+      "fileName": "3-204.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-205.svg",
+      "label": "3-205",
+      "fileName": "3-205.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-206.svg",
+      "label": "3-206",
+      "fileName": "3-206.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-207.svg",
+      "label": "3-207",
+      "fileName": "3-207.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-208.svg",
+      "label": "3-208",
+      "fileName": "3-208.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-209.svg",
+      "label": "3-209",
+      "fileName": "3-209.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-210.svg",
+      "label": "3-210",
+      "fileName": "3-210.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-211.svg",
+      "label": "3-211",
+      "fileName": "3-211.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-213.svg",
+      "label": "3-213",
+      "fileName": "3-213.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3-214.svg",
+      "label": "3-214",
+      "fileName": "3-214.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/3.svg",
+      "label": "3",
+      "fileName": "3.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/4-001.svg",
+      "label": "4-001",
+      "fileName": "4-001.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/4-002.svg",
+      "label": "4-002",
+      "fileName": "4-002.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/4-003.svg",
+      "label": "4-003",
+      "fileName": "4-003.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/4-004.svg",
+      "label": "4-004",
+      "fileName": "4-004.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/4-005.svg",
+      "label": "4-005",
+      "fileName": "4-005.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/4-006.svg",
+      "label": "4-006",
+      "fileName": "4-006.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/4-007.svg",
+      "label": "4-007",
+      "fileName": "4-007.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/4-008.svg",
+      "label": "4-008",
+      "fileName": "4-008.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/4-009.svg",
+      "label": "4-009",
+      "fileName": "4-009.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/4-010.svg",
+      "label": "4-010",
+      "fileName": "4-010.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/4.25.svg",
+      "label": "4.25",
+      "fileName": "4.25.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5-6-1.svg",
+      "label": "5-6-1",
+      "fileName": "5-6-1.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5-6-2.svg",
+      "label": "5-6-2",
+      "fileName": "5-6-2.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5-6-3.svg",
+      "label": "5-6-3",
+      "fileName": "5-6-3.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5-6-4.svg",
+      "label": "5-6-4",
+      "fileName": "5-6-4.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5-6-5.svg",
+      "label": "5-6-5",
+      "fileName": "5-6-5.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5-7-1.svg",
+      "label": "5-7-1",
+      "fileName": "5-7-1.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5-7-2.svg",
+      "label": "5-7-2",
+      "fileName": "5-7-2.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5-7-3.svg",
+      "label": "5-7-3",
+      "fileName": "5-7-3.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5-7-4.svg",
+      "label": "5-7-4",
+      "fileName": "5-7-4.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5-7-5.svg",
+      "label": "5-7-5",
+      "fileName": "5-7-5.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5-7-7.svg",
+      "label": "5-7-7",
+      "fileName": "5-7-7.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/5JPT.svg",
+      "label": "5JPT",
+      "fileName": "5JPT.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/hyjd.svg",
+      "label": "hyjd",
+      "fileName": "hyjd.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/hzz.svg",
+      "label": "hzz",
+      "fileName": "hzz.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/LA-1.svg",
+      "label": "LA-1",
+      "fileName": "LA-1.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/LA-2.svg",
+      "label": "LA-2",
+      "fileName": "LA-2.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/冷却塔符号.svg",
+      "label": "冷却塔符号",
+      "fileName": "冷却塔符号.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/冷水组符号.svg",
+      "label": "冷水组符号",
+      "fileName": "冷水组符号.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/发电机.svg",
+      "label": "发电机",
+      "fileName": "发电机.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/变压器4.svg",
+      "label": "变压器",
+      "fileName": "变压器4.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/手扶梯梯.svg",
+      "label": "手扶梯梯",
+      "fileName": "手扶梯梯.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/水系统水泵符号.svg",
+      "label": "水系统水泵符号",
+      "fileName": "水系统水泵符号.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/滤波器.svg",
+      "label": "滤波器",
+      "fileName": "滤波器.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/电容器.svg",
+      "label": "电容器",
+      "fileName": "电容器.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/电梯.svg",
+      "label": "电梯",
+      "fileName": "电梯.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/电气蝶阀符号.svg",
+      "label": "电气蝶阀符号",
+      "fileName": "电气蝶阀符号.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/空调机.svg",
+      "label": "空调机",
+      "fileName": "空调机.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/风扇.svg",
+      "label": "风扇",
+      "fileName": "风扇.svg"
+    },
+    {
+      "path": "/diagram-icons/电气工程常用字母及符号/风阀符号.svg",
+      "label": "风阀符号",
+      "fileName": "风阀符号.svg"
+    }
+  ]
+}

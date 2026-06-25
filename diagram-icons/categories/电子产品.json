@@ -1,0 +1,740 @@
+{
+  "name": "电子产品",
+  "icons": [
+    {
+      "path": "/diagram-icons/电子产品/15200.svg",
+      "label": "15200",
+      "fileName": "15200.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/6700 Series.svg",
+      "label": "6700 Series",
+      "fileName": "6700 Series.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/7500ars (7513).svg",
+      "label": "7500ars (7513)",
+      "fileName": "7500ars (7513).svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Access Point.svg",
+      "label": "Access Point",
+      "fileName": "Access Point.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ACE.svg",
+      "label": "ACE",
+      "fileName": "ACE.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ACS.svg",
+      "label": "ACS",
+      "fileName": "ACS.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ADM.svg",
+      "label": "ADM",
+      "fileName": "ADM.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ASA 5500.svg",
+      "label": "ASA 5500",
+      "fileName": "ASA 5500.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Asic Processor.svg",
+      "label": "Asic Processor",
+      "fileName": "Asic Processor.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ASR 1000 Series.svg",
+      "label": "ASR 1000 Series",
+      "fileName": "ASR 1000 Series.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ATA.svg",
+      "label": "ATA",
+      "fileName": "ATA.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ATM 3800.svg",
+      "label": "ATM 3800",
+      "fileName": "ATM 3800.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/AVS.svg",
+      "label": "AVS",
+      "fileName": "AVS.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/AXP.svg",
+      "label": "AXP",
+      "fileName": "AXP.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/BBSM.svg",
+      "label": "BBSM",
+      "fileName": "BBSM.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Branch Office.svg",
+      "label": "Branch Office",
+      "fileName": "Branch Office.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Breakout Box.svg",
+      "label": "Breakout Box",
+      "fileName": "Breakout Box.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Bridge.svg",
+      "label": "Bridge",
+      "fileName": "Bridge.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/BTS 10200.svg",
+      "label": "BTS 10200",
+      "fileName": "BTS 10200.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Cable Modem.svg",
+      "label": "Cable Modem",
+      "fileName": "Cable Modem.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Call Manager.svg",
+      "label": "Call Manager",
+      "fileName": "Call Manager.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Car.svg",
+      "label": "Car",
+      "fileName": "Car.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Carrier Routing System.svg",
+      "label": "Carrier Routing System",
+      "fileName": "Carrier Routing System.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/CDDI FDDI.svg",
+      "label": "CDDI FDDI",
+      "fileName": "CDDI FDDI.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/CDM.svg",
+      "label": "CDM",
+      "fileName": "CDM.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Cell Phone.svg",
+      "label": "Cell Phone",
+      "fileName": "Cell Phone.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Cisco 1000.svg",
+      "label": "Cisco 1000",
+      "fileName": "Cisco 1000.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Cisco CA.svg",
+      "label": "Cisco CA",
+      "fileName": "Cisco CA.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Cisco Unity Express.svg",
+      "label": "Cisco Unity Express",
+      "fileName": "Cisco Unity Express.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Cisco Works.svg",
+      "label": "Cisco Works",
+      "fileName": "Cisco Works.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Contact Acquirer.svg",
+      "label": "Contact Acquirer",
+      "fileName": "Contact Acquirer.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Contact Center.svg",
+      "label": "Contact Center",
+      "fileName": "Contact Center.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Content Transformation Engine (CTE).svg",
+      "label": "Content Transformation Engine (CTE)",
+      "fileName": "Content Transformation Engine (CTE).svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/CS-MARS.svg",
+      "label": "CS-MARS",
+      "fileName": "CS-MARS.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/CSM-S.svg",
+      "label": "CSM-S",
+      "fileName": "CSM-S.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/CSU DSU.svg",
+      "label": "CSU DSU",
+      "fileName": "CSU DSU.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/CUBE.svg",
+      "label": "CUBE",
+      "fileName": "CUBE.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Detector.svg",
+      "label": "Detector",
+      "fileName": "Detector.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Dot-dot.svg",
+      "label": "Dot-dot",
+      "fileName": "Dot-dot.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/DPT.svg",
+      "label": "DPT",
+      "fileName": "DPT.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/DSLAM.svg",
+      "label": "DSLAM",
+      "fileName": "DSLAM.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Dual Mode.svg",
+      "label": "Dual Mode",
+      "fileName": "Dual Mode.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/DWDM Filter.svg",
+      "label": "DWDM Filter",
+      "fileName": "DWDM Filter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/End Office.svg",
+      "label": "End Office",
+      "fileName": "End Office.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Fax.svg",
+      "label": "Fax",
+      "fileName": "Fax.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/FDDI Ring.svg",
+      "label": "FDDI Ring",
+      "fileName": "FDDI Ring.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Front End Processor.svg",
+      "label": "Front End Processor",
+      "fileName": "Front End Processor.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/General Appliance.svg",
+      "label": "General Appliance",
+      "fileName": "General Appliance.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Generic Building.svg",
+      "label": "Generic Building",
+      "fileName": "Generic Building.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Generic Processor.svg",
+      "label": "Generic Processor",
+      "fileName": "Generic Processor.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Government Building.svg",
+      "label": "Government Building",
+      "fileName": "Government Building.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/H 323.svg",
+      "label": "H 323",
+      "fileName": "H 323.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Handheld.svg",
+      "label": "Handheld",
+      "fileName": "Handheld.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Hootphone.svg",
+      "label": "Hootphone",
+      "fileName": "Hootphone.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/HP Mini.svg",
+      "label": "HP Mini",
+      "fileName": "HP Mini.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ICM.svg",
+      "label": "ICM",
+      "fileName": "ICM.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ICS.svg",
+      "label": "ICS",
+      "fileName": "ICS.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Internet Streamer.svg",
+      "label": "Internet Streamer",
+      "fileName": "Internet Streamer.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/IOS SLB.svg",
+      "label": "IOS SLB",
+      "fileName": "IOS SLB.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/IP Communicator.svg",
+      "label": "IP Communicator",
+      "fileName": "IP Communicator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/IP DSL.svg",
+      "label": "IP DSL",
+      "fileName": "IP DSL.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/IP Phone.svg",
+      "label": "IP Phone",
+      "fileName": "IP Phone.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/IP.svg",
+      "label": "IP",
+      "fileName": "IP.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/IPTC.svg",
+      "label": "IPTC",
+      "fileName": "IPTC.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/IPTV Content Manager.svg",
+      "label": "IPTV Content Manager",
+      "fileName": "IPTV Content Manager.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ITP.svg",
+      "label": "ITP",
+      "fileName": "ITP.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/JBOD.svg",
+      "label": "JBOD",
+      "fileName": "JBOD.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Key.svg",
+      "label": "Key",
+      "fileName": "Key.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Keys.svg",
+      "label": "Keys",
+      "fileName": "Keys.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/LAN to LAN.svg",
+      "label": "LAN to LAN",
+      "fileName": "LAN to LAN.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Lightweight AP.svg",
+      "label": "Lightweight AP",
+      "fileName": "Lightweight AP.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Longreach CPE.svg",
+      "label": "Longreach CPE",
+      "fileName": "Longreach CPE.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/MAU.svg",
+      "label": "MAU",
+      "fileName": "MAU.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/MCU.svg",
+      "label": "MCU",
+      "fileName": "MCU.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/MDU.svg",
+      "label": "MDU",
+      "fileName": "MDU.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ME1100.svg",
+      "label": "ME1100",
+      "fileName": "ME1100.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Mediator.svg",
+      "label": "Mediator",
+      "fileName": "Mediator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Meetingplace.svg",
+      "label": "Meetingplace",
+      "fileName": "Meetingplace.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Mesh AP.svg",
+      "label": "Mesh AP",
+      "fileName": "Mesh AP.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Metro 1500.svg",
+      "label": "Metro 1500",
+      "fileName": "Metro 1500.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Mini VAX.svg",
+      "label": "Mini VAX",
+      "fileName": "Mini VAX.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Mobile Streamer.svg",
+      "label": "Mobile Streamer",
+      "fileName": "Mobile Streamer.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Modem.svg",
+      "label": "Modem",
+      "fileName": "Modem.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/MSE.svg",
+      "label": "MSE",
+      "fileName": "MSE.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/MUX.svg",
+      "label": "MUX",
+      "fileName": "MUX.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/MXE.svg",
+      "label": "MXE",
+      "fileName": "MXE.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/NAC Appliance.svg",
+      "label": "NAC Appliance",
+      "fileName": "NAC Appliance.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/NCE.svg",
+      "label": "NCE",
+      "fileName": "NCE.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Netranger.svg",
+      "label": "Netranger",
+      "fileName": "Netranger.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Netsonar.svg",
+      "label": "Netsonar",
+      "fileName": "Netsonar.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Network Management.svg",
+      "label": "Network Management",
+      "fileName": "Network Management.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Nexus 1000.svg",
+      "label": "Nexus 1000",
+      "fileName": "Nexus 1000.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Nexus 2000 Fabric Extender.svg",
+      "label": "Nexus 2000 Fabric Extender",
+      "fileName": "Nexus 2000 Fabric Extender.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Nexus 5000.svg",
+      "label": "Nexus 5000",
+      "fileName": "Nexus 5000.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Nexus 7000.svg",
+      "label": "Nexus 7000",
+      "fileName": "Nexus 7000.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Octel.svg",
+      "label": "Octel",
+      "fileName": "Octel.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/ONS15500.svg",
+      "label": "ONS15500",
+      "fileName": "ONS15500.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Optical Amplifier.svg",
+      "label": "Optical Amplifier",
+      "fileName": "Optical Amplifier.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Optical Transport.svg",
+      "label": "Optical Transport",
+      "fileName": "Optical Transport.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/PAD 1.svg",
+      "label": "PAD 1",
+      "fileName": "PAD 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/PAD 2.svg",
+      "label": "PAD 2",
+      "fileName": "PAD 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Page Icon.svg",
+      "label": "Page Icon",
+      "fileName": "Page Icon.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/PBX.svg",
+      "label": "PBX",
+      "fileName": "PBX.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/PC Software.svg",
+      "label": "PC Software",
+      "fileName": "PC Software.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/PC Video.svg",
+      "label": "PC Video",
+      "fileName": "PC Video.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/PDA.svg",
+      "label": "PDA",
+      "fileName": "PDA.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Phone-fax.svg",
+      "label": "Phone-fax",
+      "fileName": "Phone-fax.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Phone.svg",
+      "label": "Phone",
+      "fileName": "Phone.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/PMC.svg",
+      "label": "PMC",
+      "fileName": "PMC.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Protocol Translator.svg",
+      "label": "Protocol Translator",
+      "fileName": "Protocol Translator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/PXF.svg",
+      "label": "PXF",
+      "fileName": "PXF.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Ratemux.svg",
+      "label": "Ratemux",
+      "fileName": "Ratemux.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Repeater.svg",
+      "label": "Repeater",
+      "fileName": "Repeater.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/RF Modem.svg",
+      "label": "RF Modem",
+      "fileName": "RF Modem.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Route Switch Processor.svg",
+      "label": "Route Switch Processor",
+      "fileName": "Route Switch Processor.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/RPSRPS.svg",
+      "label": "RPSRPS",
+      "fileName": "RPSRPS.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Service Control.svg",
+      "label": "Service Control",
+      "fileName": "Service Control.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Services.svg",
+      "label": "Services",
+      "fileName": "Services.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Set Top Box.svg",
+      "label": "Set Top Box",
+      "fileName": "Set Top Box.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Small Business.svg",
+      "label": "Small Business",
+      "fileName": "Small Business.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Softphone.svg",
+      "label": "Softphone",
+      "fileName": "Softphone.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/SSC.svg",
+      "label": "SSC",
+      "fileName": "SSC.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/SSL Terminator.svg",
+      "label": "SSL Terminator",
+      "fileName": "SSL Terminator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/STB.svg",
+      "label": "STB",
+      "fileName": "STB.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/STP.svg",
+      "label": "STP",
+      "fileName": "STP.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Streamer.svg",
+      "label": "Streamer",
+      "fileName": "Streamer.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/SVX.svg",
+      "label": "SVX",
+      "fileName": "SVX.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Telecommuter House PC.svg",
+      "label": "Telecommuter House PC",
+      "fileName": "Telecommuter House PC.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Telecommuter House.svg",
+      "label": "Telecommuter House",
+      "fileName": "Telecommuter House.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Telecommuter Icon.svg",
+      "label": "Telecommuter Icon",
+      "fileName": "Telecommuter Icon.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Telepresence.svg",
+      "label": "Telepresence",
+      "fileName": "Telepresence.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Token.svg",
+      "label": "Token",
+      "fileName": "Token.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/TP MCU.svg",
+      "label": "TP MCU",
+      "fileName": "TP MCU.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Transpath.svg",
+      "label": "Transpath",
+      "fileName": "Transpath.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Truck.svg",
+      "label": "Truck",
+      "fileName": "Truck.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Turret.svg",
+      "label": "Turret",
+      "fileName": "Turret.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/TV.svg",
+      "label": "TV",
+      "fileName": "TV.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/UBR910.svg",
+      "label": "UBR910",
+      "fileName": "UBR910.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/UMG Series.svg",
+      "label": "UMG Series",
+      "fileName": "UMG Series.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/University.svg",
+      "label": "University",
+      "fileName": "University.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/UPS.svg",
+      "label": "UPS",
+      "fileName": "UPS.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/Vault.svg",
+      "label": "Vault",
+      "fileName": "Vault.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/VIP.svg",
+      "label": "VIP",
+      "fileName": "VIP.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/VPN Concentrator.svg",
+      "label": "VPN Concentrator",
+      "fileName": "VPN Concentrator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/VSS.svg",
+      "label": "VSS",
+      "fileName": "VSS.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/WAE.svg",
+      "label": "WAE",
+      "fileName": "WAE.svg"
+    },
+    {
+      "path": "/diagram-icons/电子产品/WISM.svg",
+      "label": "WISM",
+      "fileName": "WISM.svg"
+    }
+  ]
+}

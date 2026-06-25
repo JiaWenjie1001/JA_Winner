@@ -1,0 +1,45 @@
+{
+  "name": "2.5D-制冷站",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-制冷站/冷却塔.svg",
+      "label": "冷却塔",
+      "fileName": "冷却塔.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-制冷站/冷却塔（远程控制）.svg",
+      "label": "远程控制",
+      "fileName": "冷却塔（远程控制）.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-制冷站/控制器.svg",
+      "label": "控制器",
+      "fileName": "控制器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-制冷站/控制器（远程控制）.svg",
+      "label": "远程控制",
+      "fileName": "控制器（远程控制）.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-制冷站/放冷板块.svg",
+      "label": "放冷板块",
+      "fileName": "放冷板块.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-制冷站/水泵.svg",
+      "label": "水泵",
+      "fileName": "水泵.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-制冷站/水泵（远程控制）.svg",
+      "label": "远程控制",
+      "fileName": "水泵（远程控制）.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-制冷站/离心机.svg",
+      "label": "离心机",
+      "fileName": "离心机.svg"
+    }
+  ]
+}

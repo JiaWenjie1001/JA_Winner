@@ -1,0 +1,305 @@
+{
+  "name": "IoT-Food(食品)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Batch fluid bed processor(批量流化床处理机).svg",
+      "label": "批量流化床处理机",
+      "fileName": "Batch fluid bed processor(批量流化床处理机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Beer can(啤酒罐).svg",
+      "label": "啤酒罐",
+      "fileName": "Beer can(啤酒罐).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Benchtop homogenizer(台式均质机).svg",
+      "label": "台式均质机",
+      "fileName": "Benchtop homogenizer(台式均质机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Box(盒子).svg",
+      "label": "盒子",
+      "fileName": "Box(盒子).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Can(金属罐).svg",
+      "label": "金属罐",
+      "fileName": "Can(金属罐).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Closer(密封器).svg",
+      "label": "密封器",
+      "fileName": "Closer(密封器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Colloid mill(胶体磨).svg",
+      "label": "胶体磨",
+      "fileName": "Colloid mill(胶体磨).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Concentrate dispenser(浓缩液分配器).svg",
+      "label": "浓缩液分配器",
+      "fileName": "Concentrate dispenser(浓缩液分配器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Contamination-free positive displacement pump(无污染容积泵).svg",
+      "label": "无污染容积泵",
+      "fileName": "Contamination-free positive displacement pump(无污染容积泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Cross belt separator(传送带分离器).svg",
+      "label": "传送带分离器",
+      "fileName": "Cross belt separator(传送带分离器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Decanter(分层器).svg",
+      "label": "分层器",
+      "fileName": "Decanter(分层器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Dehydration line(脱水线).svg",
+      "label": "脱水线",
+      "fileName": "Dehydration line(脱水线).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Dehydrator(脱水机).svg",
+      "label": "脱水机",
+      "fileName": "Dehydrator(脱水机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Drum magnet(鼓式磁铁).svg",
+      "label": "鼓式磁铁",
+      "fileName": "Drum magnet(鼓式磁铁).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Filling system(充填系统).svg",
+      "label": "充填系统",
+      "fileName": "Filling system(充填系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Filter system(过滤系统).svg",
+      "label": "过滤系统",
+      "fileName": "Filter system(过滤系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Food processing(食品加工).svg",
+      "label": "食品加工",
+      "fileName": "Food processing(食品加工).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Glass bottle no cap(无盖盖玻璃瓶).svg",
+      "label": "无盖盖玻璃瓶",
+      "fileName": "Glass bottle no cap(无盖盖玻璃瓶).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Glass bottle with cap(带盖玻璃瓶).svg",
+      "label": "带盖玻璃瓶",
+      "fileName": "Glass bottle with cap(带盖玻璃瓶).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Grain silo(粮仓).svg",
+      "label": "粮仓",
+      "fileName": "Grain silo(粮仓).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Grate magnet(栅式磁铁).svg",
+      "label": "栅式磁铁",
+      "fileName": "Grate magnet(栅式磁铁).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Inline mixer emulsifier 1(直列式混合乳化剂1).svg",
+      "label": "直列式混合乳化剂",
+      "fileName": "Inline mixer emulsifier 1(直列式混合乳化剂1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Inline mixer emulsifier 2(直列式混合乳化剂2).svg",
+      "label": "直列式混合乳化剂",
+      "fileName": "Inline mixer emulsifier 2(直列式混合乳化剂2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Magnetic liquid trap(磁性液阱).svg",
+      "label": "磁性液阱",
+      "fileName": "Magnetic liquid trap(磁性液阱).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Metal detetcor(金属探测器).svg",
+      "label": "金属探测器",
+      "fileName": "Metal detetcor(金属探测器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Micro flowmeter(微流量计).svg",
+      "label": "微流量计",
+      "fileName": "Micro flowmeter(微流量计).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Milk carton(牛奶纸盒).svg",
+      "label": "牛奶纸盒",
+      "fileName": "Milk carton(牛奶纸盒).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Mixer(搅拌机).svg",
+      "label": "搅拌机",
+      "fileName": "Mixer(搅拌机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Mixing hopper(混合漏斗).svg",
+      "label": "混合漏斗",
+      "fileName": "Mixing hopper(混合漏斗).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Nitrogen generator(氮气发生器).svg",
+      "label": "氮气发生器",
+      "fileName": "Nitrogen generator(氮气发生器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Online moisture and constituent analyzer(在线水分和成分分析仪).svg",
+      "label": "在线水分和成分分析仪",
+      "fileName": "Online moisture and constituent analyzer(在线水分和成分分析仪).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Oven system(烘箱系统).svg",
+      "label": "烘箱系统",
+      "fileName": "Oven system(烘箱系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Plastic bottle(塑料瓶).svg",
+      "label": "塑料瓶",
+      "fileName": "Plastic bottle(塑料瓶).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Plastic tray(塑料托盘).svg",
+      "label": "塑料托盘",
+      "fileName": "Plastic tray(塑料托盘).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Power and liquid mixer(动力和液体混合器).svg",
+      "label": "动力和液体混合器",
+      "fileName": "Power and liquid mixer(动力和液体混合器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Sanitary air filter(卫生空气过滤器).svg",
+      "label": "卫生空气过滤器",
+      "fileName": "Sanitary air filter(卫生空气过滤器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Sanitary heater(卫生热水器).svg",
+      "label": "卫生热水器",
+      "fileName": "Sanitary heater(卫生热水器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Sanitary inline mixer(卫生型直列混合器).svg",
+      "label": "卫生型直列混合器",
+      "fileName": "Sanitary inline mixer(卫生型直列混合器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Sanitary transfer pump(卫生输送泵).svg",
+      "label": "卫生输送泵",
+      "fileName": "Sanitary transfer pump(卫生输送泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Screen separator(筛网分离器).svg",
+      "label": "筛网分离器",
+      "fileName": "Screen separator(筛网分离器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Separator 1(分离器1).svg",
+      "label": "分离器",
+      "fileName": "Separator 1(分离器1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Separator 2(分离器2).svg",
+      "label": "分离器",
+      "fileName": "Separator 2(分离器2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Shell and tube heat transfer(管壳式换热器).svg",
+      "label": "管壳式换热器",
+      "fileName": "Shell and tube heat transfer(管壳式换热器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Slicer(切片机).svg",
+      "label": "切片机",
+      "fileName": "Slicer(切片机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Stainless steel blender 1_closed(不锈钢搅拌机1_关).svg",
+      "label": "关",
+      "fileName": "Stainless steel blender 1_closed(不锈钢搅拌机1_关).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Stainless steel blender 1_open(不锈钢搅拌机1_开).svg",
+      "label": "开",
+      "fileName": "Stainless steel blender 1_open(不锈钢搅拌机1_开).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Stainless steel blender 2_closed(不锈钢搅拌机2_关).svg",
+      "label": "关",
+      "fileName": "Stainless steel blender 2_closed(不锈钢搅拌机2_关).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Stainless steel blender 2_open(不锈钢搅拌机2_开).svg",
+      "label": "开",
+      "fileName": "Stainless steel blender 2_open(不锈钢搅拌机2_开).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Stainless steel blender 3(不锈钢搅拌机3).svg",
+      "label": "不锈钢搅拌机",
+      "fileName": "Stainless steel blender 3(不锈钢搅拌机3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Stainless steel hopper.svg",
+      "label": "Stainless steel hopper",
+      "fileName": "Stainless steel hopper.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Stainless steel speed reducer(不锈钢减速器).svg",
+      "label": "不锈钢减速器",
+      "fileName": "Stainless steel speed reducer(不锈钢减速器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Standard ribbon mixer(标准带状混合器).svg",
+      "label": "标准带状混合器",
+      "fileName": "Standard ribbon mixer(标准带状混合器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Tray sealer(托盘封口机).svg",
+      "label": "托盘封口机",
+      "fileName": "Tray sealer(托盘封口机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Tube in tube heat transfer(管壳式换热器).svg",
+      "label": "管壳式换热器",
+      "fileName": "Tube in tube heat transfer(管壳式换热器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Turbo emulsifier(涡轮乳化剂).svg",
+      "label": "涡轮乳化剂",
+      "fileName": "Turbo emulsifier(涡轮乳化剂).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Vacuum mixer blender(真空搅拌机).svg",
+      "label": "真空搅拌机",
+      "fileName": "Vacuum mixer blender(真空搅拌机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Vacuum stuffer(真空充填机).svg",
+      "label": "真空充填机",
+      "fileName": "Vacuum stuffer(真空充填机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Vacuum system(真空系统).svg",
+      "label": "真空系统",
+      "fileName": "Vacuum system(真空系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Vertical blender(立式搅拌机).svg",
+      "label": "立式搅拌机",
+      "fileName": "Vertical blender(立式搅拌机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Food(食品)/Viscosity meter(粘度计).svg",
+      "label": "粘度计",
+      "fileName": "Viscosity meter(粘度计).svg"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "name": "IoT-Material Handling（物料运输）",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/AGI mixer(AGI混合器).svg",
+      "label": "混合器",
+      "fileName": "AGI mixer(AGI混合器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Airswept tubular dryer(气流管式干燥机).svg",
+      "label": "气流管式干燥机",
+      "fileName": "Airswept tubular dryer(气流管式干燥机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Bag dump station(卸袋站).svg",
+      "label": "卸袋站",
+      "fileName": "Bag dump station(卸袋站).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Baghouse dust collector（袋式除尘器）.svg",
+      "label": "袋式除尘器",
+      "fileName": "Baghouse dust collector（袋式除尘器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Ball mill(球磨机).svg",
+      "label": "球磨机",
+      "fileName": "Ball mill(球磨机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Bulk bag discharger(散装袋卸料器).svg",
+      "label": "散装袋卸料器",
+      "fileName": "Bulk bag discharger(散装袋卸料器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Bulk bag feeder(散装带给料机).svg",
+      "label": "散装带给料机",
+      "fileName": "Bulk bag feeder(散装带给料机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Bulk bag filler(散装袋式装袋机).svg",
+      "label": "散装袋式装袋机",
+      "fileName": "Bulk bag filler(散装袋式装袋机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Bulk bag filling station（散装带灌袋站）.svg",
+      "label": "散装带灌袋站",
+      "fileName": "Bulk bag filling station（散装带灌袋站）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Bulk bag loader(散装装袋机).svg",
+      "label": "散装装袋机",
+      "fileName": "Bulk bag loader(散装装袋机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Cartridge dust collector（简式除尘器）.svg",
+      "label": "简式除尘器",
+      "fileName": "Cartridge dust collector（简式除尘器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Centrifugal type sifter(离心式筛).svg",
+      "label": "离心式筛",
+      "fileName": "Centrifugal type sifter(离心式筛).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Centrifuge(离心机).svg",
+      "label": "离心机",
+      "fileName": "Centrifuge(离心机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Clarifier(澄清器).svg",
+      "label": "澄清器",
+      "fileName": "Clarifier(澄清器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Colloid mixer（胶体混合器）.svg",
+      "label": "胶体混合器",
+      "fileName": "Colloid mixer（胶体混合器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Compact spray dryer（紧凑型喷雾干燥器 ）.svg",
+      "label": "紧凑型喷雾干燥器",
+      "fileName": "Compact spray dryer（紧凑型喷雾干燥器 ）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Cone crusher（圆锥破碎机）.svg",
+      "label": "圆锥破碎机",
+      "fileName": "Cone crusher（圆锥破碎机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Conical screw processor（锥形螺杆处理机）.svg",
+      "label": "锥形螺杆处理机",
+      "fileName": "Conical screw processor（锥形螺杆处理机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Cyclone （旋风分离器）.svg",
+      "label": "旋风分离器",
+      "fileName": "Cyclone （旋风分离器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Double roll crusher(双辊破碎机)-27.svg",
+      "label": "双辊破碎机",
+      "fileName": "Double roll crusher(双辊破碎机)-27.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Dryer-cooler（干燥冷却器）.svg",
+      "label": "干燥冷却器",
+      "fileName": "Dryer-cooler（干燥冷却器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Dust collector (除尘器).svg",
+      "label": "除尘器",
+      "fileName": "Dust collector (除尘器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Dust reclaim（粉尘回收器）.svg",
+      "label": "粉尘回收器",
+      "fileName": "Dust reclaim（粉尘回收器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Feeder（进料器）.svg",
+      "label": "进料器",
+      "fileName": "Feeder（进料器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Flow meter（流量计）.svg",
+      "label": "流量计",
+      "fileName": "Flow meter（流量计）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Fluidizing conveyor（液化输送机）.svg",
+      "label": "液化输送机",
+      "fileName": "Fluidizing conveyor（液化输送机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Gravimetric feeder (重力给料机).svg",
+      "label": "重力给料机",
+      "fileName": "Gravimetric feeder (重力给料机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Hammermill （锤磨机）.svg",
+      "label": "锤磨机",
+      "fileName": "Hammermill （锤磨机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Homomixer（均质混合器）.svg",
+      "label": "均质混合器",
+      "fileName": "Homomixer（均质混合器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/hopper(漏斗).svg",
+      "label": "漏斗",
+      "fileName": "hopper(漏斗).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/IoT-Material Handling（物料运输）-29.svg",
+      "label": "物料运输",
+      "fileName": "IoT-Material Handling（物料运输）-29.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Jaw crusher （颚式破碎机）.svg",
+      "label": "颚式破碎机",
+      "fileName": "Jaw crusher （颚式破碎机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Loss-in-weight feeder(失重给料机).svg",
+      "label": "失重给料机",
+      "fileName": "Loss-in-weight feeder(失重给料机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Mill classification system(磨机分级系统) (0).svg",
+      "label": "磨机分级系统",
+      "fileName": "Mill classification system(磨机分级系统) (0).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Particles(粒子).svg",
+      "label": "粒子",
+      "fileName": "Particles(粒子).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Pipeline mixer(管道混合器).svg",
+      "label": "管道混合器",
+      "fileName": "Pipeline mixer(管道混合器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Plant vacuum system(工厂真空系统).svg",
+      "label": "工厂真空系统",
+      "fileName": "Plant vacuum system(工厂真空系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Powder applicator（喷粉机）.svg",
+      "label": "喷粉机",
+      "fileName": "Powder applicator（喷粉机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Powder mixer(粉末混合器).svg",
+      "label": "粉末混合器",
+      "fileName": "Powder mixer(粉末混合器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Refiner（磨浆机）.svg",
+      "label": "磨浆机",
+      "fileName": "Refiner（磨浆机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Rubber granulator(橡胶造粒机).svg",
+      "label": "橡胶造粒机",
+      "fileName": "Rubber granulator(橡胶造粒机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Self-dumping hopper（自卸式料斗）.svg",
+      "label": "自卸式料斗",
+      "fileName": "Self-dumping hopper（自卸式料斗）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Shredder(碎纸机).svg",
+      "label": "碎纸机",
+      "fileName": "Shredder(碎纸机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Silo （筒仓）.svg",
+      "label": "筒仓",
+      "fileName": "Silo （筒仓）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Spiral conveyor with hopper(带料斗的螺旋输送机).svg",
+      "label": "带料斗的螺旋输送机",
+      "fileName": "Spiral conveyor with hopper(带料斗的螺旋输送机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Stainless steel heavy-duty mixer(不锈钢重型搅拌机).svg",
+      "label": "不锈钢重型搅拌机",
+      "fileName": "Stainless steel heavy-duty mixer(不锈钢重型搅拌机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Three-stage wet collector（三级湿式收集器）.svg",
+      "label": "三级湿式收集器",
+      "fileName": "Three-stage wet collector（三级湿式收集器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Truck loader(汽车装载机).svg",
+      "label": "汽车装载机",
+      "fileName": "Truck loader(汽车装载机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/truck(卡车).svg",
+      "label": "卡车",
+      "fileName": "truck(卡车).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Vacuum pressure unloader（真空减压器）-53.svg",
+      "label": "真空减压器",
+      "fileName": "Vacuum pressure unloader（真空减压器）-53.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Vertical shaft impactor立轴冲击器).svg",
+      "label": "立轴冲击器",
+      "fileName": "Vertical shaft impactor立轴冲击器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Vibrating bin discharger with dual outlets（双出口振动料仓卸料器）.svg",
+      "label": "双出口振动料仓卸料器",
+      "fileName": "Vibrating bin discharger with dual outlets（双出口振动料仓卸料器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Volumatic feeder machine（容积式给料机）.svg",
+      "label": "容积式给料机",
+      "fileName": "Volumatic feeder machine（容积式给料机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Volumetric feeder(容量给料机).svg",
+      "label": "容量给料机",
+      "fileName": "Volumetric feeder(容量给料机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Material Handling（物料运输）/Wire mesh container(金属丝网容器).svg",
+      "label": "金属丝网容器",
+      "fileName": "Wire mesh container(金属丝网容器).svg"
+    }
+  ]
+}

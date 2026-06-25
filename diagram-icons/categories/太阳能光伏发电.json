@@ -1,0 +1,30 @@
+{
+  "name": "太阳能光伏发电",
+  "icons": [
+    {
+      "path": "/diagram-icons/太阳能光伏发电/交-直流逆变器.svg",
+      "label": "直流逆变器",
+      "fileName": "交-直流逆变器.svg"
+    },
+    {
+      "path": "/diagram-icons/太阳能光伏发电/充-放电控制器.svg",
+      "label": "放电控制器",
+      "fileName": "充-放电控制器.svg"
+    },
+    {
+      "path": "/diagram-icons/太阳能光伏发电/太阳能电池板.svg",
+      "label": "太阳能电池板",
+      "fileName": "太阳能电池板.svg"
+    },
+    {
+      "path": "/diagram-icons/太阳能光伏发电/蓄电池.svg",
+      "label": "蓄电池",
+      "fileName": "蓄电池.svg"
+    },
+    {
+      "path": "/diagram-icons/太阳能光伏发电/高压线铁塔.svg",
+      "label": "高压线铁塔",
+      "fileName": "高压线铁塔.svg"
+    }
+  ]
+}

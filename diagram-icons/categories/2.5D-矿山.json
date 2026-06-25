@@ -1,0 +1,70 @@
+{
+  "name": "2.5D-矿山",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-矿山/圆振动筛.svg",
+      "label": "圆振动筛",
+      "fileName": "圆振动筛.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/圆锥破碎机.svg",
+      "label": "圆锥破碎机",
+      "fileName": "圆锥破碎机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/布袋除尘器.svg",
+      "label": "布袋除尘器",
+      "fileName": "布袋除尘器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/振动放矿机.svg",
+      "label": "振动放矿机",
+      "fileName": "振动放矿机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/点式除尘器.svg",
+      "label": "点式除尘器",
+      "fileName": "点式除尘器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/皮带机.svg",
+      "label": "皮带机",
+      "fileName": "皮带机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/竖井.svg",
+      "label": "竖井",
+      "fileName": "竖井.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/竖井仓.svg",
+      "label": "竖井仓",
+      "fileName": "竖井仓.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/轮式装载机.svg",
+      "label": "轮式装载机",
+      "fileName": "轮式装载机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/重型板式给料机.svg",
+      "label": "重型板式给料机",
+      "fileName": "重型板式给料机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/铰接式自卸车.svg",
+      "label": "铰接式自卸车",
+      "fileName": "铰接式自卸车.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/除铁器.svg",
+      "label": "除铁器",
+      "fileName": "除铁器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-矿山/颚式破碎机.svg",
+      "label": "颚式破碎机",
+      "fileName": "颚式破碎机.svg"
+    }
+  ]
+}

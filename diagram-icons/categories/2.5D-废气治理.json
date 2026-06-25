@@ -1,0 +1,95 @@
+{
+  "name": "2.5D-废气治理",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-废气治理/UV光解净化器.svg",
+      "label": "光解净化器",
+      "fileName": "UV光解净化器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/储罐.svg",
+      "label": "储罐",
+      "fileName": "储罐.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/单向阀.svg",
+      "label": "单向阀",
+      "fileName": "单向阀.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/循环泵.svg",
+      "label": "循环泵",
+      "fileName": "循环泵.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/手动阀.svg",
+      "label": "手动阀",
+      "fileName": "手动阀.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/换热器.svg",
+      "label": "换热器",
+      "fileName": "换热器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/排放口.svg",
+      "label": "排放口",
+      "fileName": "排放口.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/排放风机.svg",
+      "label": "排放风机",
+      "fileName": "排放风机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/收集风机.svg",
+      "label": "收集风机",
+      "fileName": "收集风机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/校验罐.svg",
+      "label": "校验罐",
+      "fileName": "校验罐.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/气动阀.svg",
+      "label": "气动阀",
+      "fileName": "气动阀.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/水喷淋.svg",
+      "label": "水喷淋",
+      "fileName": "水喷淋.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/水帘柜.svg",
+      "label": "水帘柜",
+      "fileName": "水帘柜.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/活性炭吸附箱.svg",
+      "label": "活性炭吸附箱",
+      "fileName": "活性炭吸附箱.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/火箭.svg",
+      "label": "火箭",
+      "fileName": "火箭.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/过滤器.svg",
+      "label": "过滤器",
+      "fileName": "过滤器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/配气台.svg",
+      "label": "配气台",
+      "fileName": "配气台.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废气治理/集气室.svg",
+      "label": "集气室",
+      "fileName": "集气室.svg"
+    }
+  ]
+}

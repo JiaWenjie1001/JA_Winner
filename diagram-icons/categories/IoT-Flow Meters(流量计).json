@@ -1,0 +1,125 @@
+{
+  "name": "IoT-Flow Meters(流量计)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Analog output flow sensor(模拟输出流量传感器).svg",
+      "label": "模拟输出流量传感器",
+      "fileName": "Analog output flow sensor(模拟输出流量传感器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Cyclnoic flow meter(旋风流量计).svg",
+      "label": "旋风流量计",
+      "fileName": "Cyclnoic flow meter(旋风流量计).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Flow element(流量元件).svg",
+      "label": "流量元件",
+      "fileName": "Flow element(流量元件).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Flow meter with cone(锥形流量计).svg",
+      "label": "锥形流量计",
+      "fileName": "Flow meter with cone(锥形流量计).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Flow system(流量系统).svg",
+      "label": "流量系统",
+      "fileName": "Flow system(流量系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Flow totalizer(流量积算器).svg",
+      "label": "流量积算器",
+      "fileName": "Flow totalizer(流量积算器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Flow tube(流量管).svg",
+      "label": "流量管",
+      "fileName": "Flow tube(流量管).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Flowmeter1(流量计1).svg",
+      "label": "流量计",
+      "fileName": "Flowmeter1(流量计1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Flowmeter2(流量计2).svg",
+      "label": "流量计",
+      "fileName": "Flowmeter2(流量计2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Magnetic flowmeter 1(磁力流量计1).svg",
+      "label": "磁力流量计",
+      "fileName": "Magnetic flowmeter 1(磁力流量计1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Magnetic flowmeter 2(磁力流量计2).svg",
+      "label": "磁力流量计",
+      "fileName": "Magnetic flowmeter 2(磁力流量计2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Mass flowmeter(质量流量计).svg",
+      "label": "质量流量计",
+      "fileName": "Mass flowmeter(质量流量计).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Multi-point flow meter(多点式流量计).svg",
+      "label": "多点式流量计",
+      "fileName": "Multi-point flow meter(多点式流量计).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Simple flow rate controller(简单流量控制器).svg",
+      "label": "简单流量控制器",
+      "fileName": "Simple flow rate controller(简单流量控制器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Smart coriolis mass flowmeter(智能科氏质量流量计).svg",
+      "label": "智能科氏质量流量计",
+      "fileName": "Smart coriolis mass flowmeter(智能科氏质量流量计).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Smart magnetic flowmeter(智能电磁流量计).svg",
+      "label": "智能电磁流量计",
+      "fileName": "Smart magnetic flowmeter(智能电磁流量计).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Thermal mass flowmeter(热式质量流量计).svg",
+      "label": "热式质量流量计",
+      "fileName": "Thermal mass flowmeter(热式质量流量计).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Tubing meter 1(油管流量计1).svg",
+      "label": "油管流量计",
+      "fileName": "Tubing meter 1(油管流量计1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Tubing meter 2(油管流量计2).svg",
+      "label": "油管流量计",
+      "fileName": "Tubing meter 2(油管流量计2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Tubing meter 3(油管流量计3).svg",
+      "label": "油管流量计",
+      "fileName": "Tubing meter 3(油管流量计3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Ultransonic flow transmitter(超声波流量传送器).svg",
+      "label": "超声波流量传送器",
+      "fileName": "Ultransonic flow transmitter(超声波流量传送器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Venturi flow meter 1(文丘里流量计1).svg",
+      "label": "文丘里流量计",
+      "fileName": "Venturi flow meter 1(文丘里流量计1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Venturi flow meter(文丘里流量计).svg",
+      "label": "文丘里流量计",
+      "fileName": "Venturi flow meter(文丘里流量计).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Flow Meters(流量计)/Vortex meter(涡流计).svg",
+      "label": "涡流计",
+      "fileName": "Vortex meter(涡流计).svg"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "2.5D-光伏系统",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-光伏系统/太阳能电池板.svg",
+      "label": "太阳能电池板",
+      "fileName": "太阳能电池板.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-光伏系统/汇流箱.svg",
+      "label": "汇流箱",
+      "fileName": "汇流箱.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-光伏系统/电网.svg",
+      "label": "电网",
+      "fileName": "电网.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-光伏系统/箱式变压.svg",
+      "label": "箱式变压",
+      "fileName": "箱式变压.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-光伏系统/逆变器.svg",
+      "label": "逆变器",
+      "fileName": "逆变器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-光伏系统/配电柜.svg",
+      "label": "配电柜",
+      "fileName": "配电柜.svg"
+    }
+  ]
+}

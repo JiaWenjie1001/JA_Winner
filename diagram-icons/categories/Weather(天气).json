@@ -1,0 +1,260 @@
+{
+  "name": "Weather(天气)",
+  "icons": [
+    {
+      "path": "/diagram-icons/Weather(天气)/Blowing sand(扬沙).svg",
+      "label": "扬沙",
+      "fileName": "Blowing sand(扬沙).svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Clear（晴（夜晚））.svg",
+      "label": "夜晚",
+      "fileName": "Clear（晴（夜晚））.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Cloudy at night（多云(夜晚)）.svg",
+      "label": "夜晚",
+      "fileName": "Cloudy at night（多云(夜晚)）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Cloudy（多云(白天)）.svg",
+      "label": "白天",
+      "fileName": "Cloudy（多云(白天)）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Earthquake（地震）.svg",
+      "label": "地震",
+      "fileName": "Earthquake（地震）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Floating sand(浮尘).svg",
+      "label": "浮尘",
+      "fileName": "Floating sand(浮尘).svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Fog（雾）.svg",
+      "label": "雾",
+      "fileName": "Fog（雾）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Freezing rain（冻雨）.svg",
+      "label": "冻雨",
+      "fileName": "Freezing rain（冻雨）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Fresh Breeze（5级风）.svg",
+      "label": "级风",
+      "fileName": "Fresh Breeze（5级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Frost(霜冻).svg",
+      "label": "霜冻",
+      "fileName": "Frost(霜冻).svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Gale（8级风）.svg",
+      "label": "级风",
+      "fileName": "Gale（8级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Hail（冰雹）.svg",
+      "label": "冰雹",
+      "fileName": "Hail（冰雹）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Heavy rainstorm（大暴雨）.svg",
+      "label": "大暴雨",
+      "fileName": "Heavy rainstorm（大暴雨）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Heavy Rain（大雨）.svg",
+      "label": "大雨",
+      "fileName": "Heavy Rain（大雨）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Heavy Snowstorm(大暴雪).svg",
+      "label": "大暴雪",
+      "fileName": "Heavy Snowstorm(大暴雪).svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Heavy snow（大雪）.svg",
+      "label": "大雪",
+      "fileName": "Heavy snow（大雪）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Hot（高温）.svg",
+      "label": "高温",
+      "fileName": "Hot（高温）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Hurricane（12级风）.svg",
+      "label": "级风",
+      "fileName": "Hurricane（12级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Hurricane（13级风）.svg",
+      "label": "级风",
+      "fileName": "Hurricane（13级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Hurricane（14级风）.svg",
+      "label": "级风",
+      "fileName": "Hurricane（14级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Hurricane（15级风）.svg",
+      "label": "级风",
+      "fileName": "Hurricane（15级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Hurricane（16级风）.svg",
+      "label": "级风",
+      "fileName": "Hurricane（16级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Hurricane（17级风）.svg",
+      "label": "级风",
+      "fileName": "Hurricane（17级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Hzae(霾).svg",
+      "label": "霾",
+      "fileName": "Hzae(霾).svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Ice（寒冷）.svg",
+      "label": "寒冷",
+      "fileName": "Ice（寒冷）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Light Rain（小雨）.svg",
+      "label": "小雨",
+      "fileName": "Light Rain（小雨）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Light Snow(小雪).svg",
+      "label": "小雪",
+      "fileName": "Light Snow(小雪).svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Lighting（雷电）.svg",
+      "label": "雷电",
+      "fileName": "Lighting（雷电）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Mist（轻雾）.svg",
+      "label": "轻雾",
+      "fileName": "Mist（轻雾）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Moderate breeze（4级风）.svg",
+      "label": "级风",
+      "fileName": "Moderate breeze（4级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Moderate Rain（中雨）.svg",
+      "label": "中雨",
+      "fileName": "Moderate Rain（中雨）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Moderate Snow（中雪）.svg",
+      "label": "中雪",
+      "fileName": "Moderate Snow（中雪）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Near Gale(7级风).svg",
+      "label": "级风",
+      "fileName": "Near Gale(7级风).svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Overcast（阴天）.svg",
+      "label": "阴天",
+      "fileName": "Overcast（阴天）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Rainstorm（暴雨）.svg",
+      "label": "暴雨",
+      "fileName": "Rainstorm（暴雨）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Sand(沙尘暴).svg",
+      "label": "沙尘暴",
+      "fileName": "Sand(沙尘暴).svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Severe sand & super sand(强沙尘暴和特强沙尘暴).svg",
+      "label": "强沙尘暴和特强沙尘暴",
+      "fileName": "Severe sand & super sand(强沙尘暴和特强沙尘暴).svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Sleet（雨夹雪）.svg",
+      "label": "雨夹雪",
+      "fileName": "Sleet（雨夹雪）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Storm（10级风）.svg",
+      "label": "级风",
+      "fileName": "Storm（10级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Strong breeze(6级风).svg",
+      "label": "级风",
+      "fileName": "Strong breeze(6级风).svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Strong Gale（9级风）.svg",
+      "label": "级风",
+      "fileName": "Strong Gale（9级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Sunny（晴（白天））.svg",
+      "label": "白天",
+      "fileName": "Sunny（晴（白天））.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Thunder  shower(雷阵雨).svg",
+      "label": "雷阵雨",
+      "fileName": "Thunder  shower(雷阵雨).svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Tornado（龙卷风）.svg",
+      "label": "龙卷风",
+      "fileName": "Tornado（龙卷风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Torrential Snow（暴雪）.svg",
+      "label": "暴雪",
+      "fileName": "Torrential Snow（暴雪）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Tsunami（海啸）.svg",
+      "label": "海啸",
+      "fileName": "Tsunami（海啸）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Typhoon（台风）.svg",
+      "label": "台风",
+      "fileName": "Typhoon（台风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Very Heavy Rainstorm（特大暴雨）.svg",
+      "label": "特大暴雨",
+      "fileName": "Very Heavy Rainstorm（特大暴雨）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Very Heavy Snowstorm（特大暴雪）.svg",
+      "label": "特大暴雪",
+      "fileName": "Very Heavy Snowstorm（特大暴雪）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Violent storm（11级风）.svg",
+      "label": "级风",
+      "fileName": "Violent storm（11级风）.svg"
+    },
+    {
+      "path": "/diagram-icons/Weather(天气)/Volcano（火山喷发）.svg",
+      "label": "火山喷发",
+      "fileName": "Volcano（火山喷发）.svg"
+    }
+  ]
+}
