@@ -1,0 +1,50 @@
+{
+  "name": "特殊图元（企业）",
+  "icons": [
+    {
+      "path": "/diagram-icons/特殊图元（企业）/指示灯.svg",
+      "label": "指示灯",
+      "fileName": "指示灯.svg"
+    },
+    {
+      "path": "/diagram-icons/特殊图元（企业）/摄像头.svg",
+      "label": "摄像头",
+      "fileName": "摄像头.svg"
+    },
+    {
+      "path": "/diagram-icons/特殊图元（企业）/水位.svg",
+      "label": "水位",
+      "fileName": "水位.svg"
+    },
+    {
+      "path": "/diagram-icons/特殊图元（企业）/水流检查器.svg",
+      "label": "水流检查器",
+      "fileName": "水流检查器.svg"
+    },
+    {
+      "path": "/diagram-icons/特殊图元（企业）/波动关.svg",
+      "label": "波动关",
+      "fileName": "波动关.svg"
+    },
+    {
+      "path": "/diagram-icons/特殊图元（企业）/波动开.svg",
+      "label": "波动开",
+      "fileName": "波动开.svg"
+    },
+    {
+      "path": "/diagram-icons/特殊图元（企业）/温度计.svg",
+      "label": "温度计",
+      "fileName": "温度计.svg"
+    },
+    {
+      "path": "/diagram-icons/特殊图元（企业）/闸门-关.svg",
+      "label": "关",
+      "fileName": "闸门-关.svg"
+    },
+    {
+      "path": "/diagram-icons/特殊图元（企业）/闸门-开.svg",
+      "label": "开",
+      "fileName": "闸门-开.svg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+/*可以在这里添加你自己的css*/
+img {
+	max-width: 100% !important; /*图片不超过内容区宽度*/
+	width: auto !important;
+	height: auto !important;
+	display: block;
+}
+body {
+	margin: 0 !important;
+	padding: 8px;
+	box-sizing: border-box;
+	overflow-x: hidden !important;
+	overflow-y: auto !important;
+}
+.view {
+	word-break: break-word;
+	overflow-wrap: anywhere;
+}
+.vote_area {
+	display: block;
+}
+.vote_iframe {
+	background-color: transparent;
+	border: 0 none;
+	height: 100%;
+}
+#edui1_imagescale {
+	display: none !important;
+} /*去除点击图片后出现的拉伸边框*/
+
+::-webkit-scrollbar {
+	z-index: 999999 !important;
+	width: 10px;
+	height: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background: #edf2f7;
+	border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #b5beca;
+	border: 2px solid #edf2f7;
+	border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #929daa;
+}
+
+::-webkit-scrollbar-corner {
+	background: transparent;
+}

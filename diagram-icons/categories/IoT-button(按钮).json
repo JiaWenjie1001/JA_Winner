@@ -1,0 +1,205 @@
+{
+  "name": "IoT-button(按钮)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_3-D black button(3d黑色按钮).svg",
+      "label": "黑色按钮",
+      "fileName": "iot-按钮_3-D black button(3d黑色按钮).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_3-D blue button（3d蓝色按钮）.svg",
+      "label": "蓝色按钮",
+      "fileName": "iot-按钮_3-D blue button（3d蓝色按钮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_3-D green button（3d绿色按钮）.svg",
+      "label": "绿色按钮",
+      "fileName": "iot-按钮_3-D green button（3d绿色按钮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_3-D red button（3d红色按钮）.svg",
+      "label": "红色按钮",
+      "fileName": "iot-按钮_3-D red button（3d红色按钮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_3-D yellow button（3d黄色按钮）.svg",
+      "label": "黄色按钮",
+      "fileName": "iot-按钮_3-D yellow button（3d黄色按钮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Black pushbutton（黑色按钮）.svg",
+      "label": "黑色按钮",
+      "fileName": "iot-按钮_Black pushbutton（黑色按钮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Blue pilot light（蓝色指示灯）.svg",
+      "label": "蓝色指示灯",
+      "fileName": "iot-按钮_Blue pilot light（蓝色指示灯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Button （按钮）-09.svg",
+      "label": "按钮",
+      "fileName": "iot-按钮_Button （按钮）-09.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Button （按钮）-10.svg",
+      "label": "按钮",
+      "fileName": "iot-按钮_Button （按钮）-10.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Button （按钮）-11.svg",
+      "label": "按钮",
+      "fileName": "iot-按钮_Button （按钮）-11.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Button （按钮）-12.svg",
+      "label": "按钮",
+      "fileName": "iot-按钮_Button （按钮）-12.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Button （按钮）-13.svg",
+      "label": "按钮",
+      "fileName": "iot-按钮_Button （按钮）-13.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_button（按钮）.svg",
+      "label": "按钮",
+      "fileName": "iot-按钮_button（按钮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Dark green pilot light（深绿色指示灯）.svg",
+      "label": "深绿色指示灯",
+      "fileName": "iot-按钮_Dark green pilot light（深绿色指示灯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Dial （表盘）-15.svg",
+      "label": "表盘",
+      "fileName": "iot-按钮_Dial （表盘）-15.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Dial （表盘）-16.svg",
+      "label": "表盘",
+      "fileName": "iot-按钮_Dial （表盘）-16.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Dial （表盘）-17.svg",
+      "label": "表盘",
+      "fileName": "iot-按钮_Dial （表盘）-17.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Dial （表盘）-18.svg",
+      "label": "表盘",
+      "fileName": "iot-按钮_Dial （表盘）-18.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Long flip switch (长翻转开关）.svg",
+      "label": "长翻转开关",
+      "fileName": "iot-按钮_Long flip switch (长翻转开关）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Navy pilot light（海军领航灯）.svg",
+      "label": "海军领航灯",
+      "fileName": "iot-按钮_Navy pilot light（海军领航灯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Pilot light (off)（指示灯（关））.svg",
+      "label": "关",
+      "fileName": "iot-按钮_Pilot light (off)（指示灯（关））.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_pilot light（指示灯）.svg",
+      "label": "指示灯",
+      "fileName": "iot-按钮_pilot light（指示灯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Rectangular pushbutton（矩形按钮）.svg",
+      "label": "矩形按钮",
+      "fileName": "iot-按钮_Rectangular pushbutton（矩形按钮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Red pilot light（红色信号灯）.svg",
+      "label": "红色信号灯",
+      "fileName": "iot-按钮_Red pilot light（红色信号灯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Red pushbutton（红色按钮）.svg",
+      "label": "红色按钮",
+      "fileName": "iot-按钮_Red pushbutton（红色按钮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Rocker switch（翘板开关）-27.svg",
+      "label": "翘板开关",
+      "fileName": "iot-按钮_Rocker switch（翘板开关）-27.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Rocker switch（翘板开关）-28.svg",
+      "label": "翘板开关",
+      "fileName": "iot-按钮_Rocker switch（翘板开关）-28.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Selector switch（选择开关）-32.svg",
+      "label": "选择开关",
+      "fileName": "iot-按钮_Selector switch（选择开关）-32.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Selector switch（选择开关）-34.svg",
+      "label": "选择开关",
+      "fileName": "iot-按钮_Selector switch（选择开关）-34.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Slide switch（滑动开关）-31.svg",
+      "label": "滑动开关",
+      "fileName": "iot-按钮_Slide switch（滑动开关）-31.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Slide switch（滑动开关）-42.svg",
+      "label": "滑动开关",
+      "fileName": "iot-按钮_Slide switch（滑动开关）-42.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Slider （滑块）-40.svg",
+      "label": "滑块",
+      "fileName": "iot-按钮_Slider （滑块）-40.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Slider （滑块）-41.svg",
+      "label": "滑块",
+      "fileName": "iot-按钮_Slider （滑块）-41.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Slider （滑块）-46.svg",
+      "label": "滑块",
+      "fileName": "iot-按钮_Slider （滑块）-46.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Start button （启动按钮）-47.svg",
+      "label": "启动按钮",
+      "fileName": "iot-按钮_Start button （启动按钮）-47.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Start button （启动按钮）-48.svg",
+      "label": "启动按钮",
+      "fileName": "iot-按钮_Start button （启动按钮）-48.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Throw switch (转换开关）.svg",
+      "label": "转换开关",
+      "fileName": "iot-按钮_Throw switch (转换开关）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_White pilot light（白色指示灯）.svg",
+      "label": "白色指示灯",
+      "fileName": "iot-按钮_White pilot light（白色指示灯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Yellow pilot light（黄色指示灯）.svg",
+      "label": "黄色指示灯",
+      "fileName": "iot-按钮_Yellow pilot light（黄色指示灯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-button(按钮)/iot-按钮_Yellow pushbutton(黄色按钮).svg",
+      "label": "黄色按钮",
+      "fileName": "iot-按钮_Yellow pushbutton(黄色按钮).svg"
+    }
+  ]
+}

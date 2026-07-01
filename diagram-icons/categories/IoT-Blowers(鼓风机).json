@@ -1,0 +1,70 @@
+{
+  "name": "IoT-Blowers(鼓风机)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Centrifugal square inline fan(离心方形内联风机).svg",
+      "label": "离心方形内联风机",
+      "fileName": "Centrifugal square inline fan(离心方形内联风机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Cool fan(冷风机).svg",
+      "label": "冷风机",
+      "fileName": "Cool fan(冷风机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Fan-powered terminal unit(风机供电终端装置).svg",
+      "label": "风机供电终端装置",
+      "fileName": "Fan-powered terminal unit(风机供电终端装置).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Fiberglass fan(玻璃缸压缩机).svg",
+      "label": "玻璃缸压缩机",
+      "fileName": "Fiberglass fan(玻璃缸压缩机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Filter press(压滤机).svg",
+      "label": "压滤机",
+      "fileName": "Filter press(压滤机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Gas pump(气泵).svg",
+      "label": "气泵",
+      "fileName": "Gas pump(气泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/HVAC compressor(HAVC压缩机).svg",
+      "label": "压缩机",
+      "fileName": "HVAC compressor(HAVC压缩机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Inline air filter(内联空气过滤器).svg",
+      "label": "内联空气过滤器",
+      "fileName": "Inline air filter(内联空气过滤器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Mixed flow inline fan(混流内联风扇).svg",
+      "label": "混流内联风扇",
+      "fileName": "Mixed flow inline fan(混流内联风扇).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Natural gas compressor(天然气压缩机).svg",
+      "label": "天然气压缩机",
+      "fileName": "Natural gas compressor(天然气压缩机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Reciprocating compressor(往复式压缩机).svg",
+      "label": "往复式压缩机",
+      "fileName": "Reciprocating compressor(往复式压缩机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Simple fan(简易式鼓风机).svg",
+      "label": "简易式鼓风机",
+      "fileName": "Simple fan(简易式鼓风机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Blowers(鼓风机)/Vortex blower(漩涡鼓风机).svg",
+      "label": "漩涡鼓风机",
+      "fileName": "Vortex blower(漩涡鼓风机).svg"
+    }
+  ]
+}

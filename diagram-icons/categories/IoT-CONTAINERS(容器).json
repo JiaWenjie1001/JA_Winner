@@ -1,0 +1,80 @@
+{
+  "name": "IoT-CONTAINERS(容器)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/2-liter bottle(2L瓶装).svg",
+      "label": "瓶装",
+      "fileName": "2-liter bottle(2L瓶装).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/barrel(桶).svg",
+      "label": "桶",
+      "fileName": "barrel(桶).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/bottle(瓶子).svg",
+      "label": "瓶子",
+      "fileName": "bottle(瓶子).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/bucket（水桶）.svg",
+      "label": "水桶",
+      "fileName": "bucket（水桶）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/Bulk container（散货集装箱）.svg",
+      "label": "散货集装箱",
+      "fileName": "Bulk container（散货集装箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/can(罐子).svg",
+      "label": "罐子",
+      "fileName": "can(罐子).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/Cardboard box （纸板箱）.svg",
+      "label": "纸板箱",
+      "fileName": "Cardboard box （纸板箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/crate（木箱）.svg",
+      "label": "木箱",
+      "fileName": "crate（木箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/Fiberglass square mesh grating（玻璃纤维方形网格格栅）.svg",
+      "label": "玻璃纤维方形网格格栅",
+      "fileName": "Fiberglass square mesh grating（玻璃纤维方形网格格栅）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/Pallet(托盘).svg",
+      "label": "托盘",
+      "fileName": "Pallet(托盘).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/Pill bottle(药瓶).svg",
+      "label": "药瓶",
+      "fileName": "Pill bottle(药瓶).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/Plastic container(塑料容器).svg",
+      "label": "塑料容器",
+      "fileName": "Plastic container(塑料容器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/Plastic pallet(塑料托盘).svg",
+      "label": "塑料托盘",
+      "fileName": "Plastic pallet(塑料托盘).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/Polyethylene jar（聚乙烯罐）.svg",
+      "label": "聚乙烯罐",
+      "fileName": "Polyethylene jar（聚乙烯罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-CONTAINERS(容器)/Spill deck (溢油甲板).svg",
+      "label": "溢油甲板",
+      "fileName": "Spill deck (溢油甲板).svg"
+    }
+  ]
+}

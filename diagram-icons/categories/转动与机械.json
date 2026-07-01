@@ -1,0 +1,80 @@
+{
+  "name": "转动与机械",
+  "icons": [
+    {
+      "path": "/diagram-icons/转动与机械/Armature.svg",
+      "label": "Armature",
+      "fileName": "Armature.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Automatic Return.svg",
+      "label": "Automatic Return",
+      "fileName": "Automatic Return.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Blocking Device.svg",
+      "label": "Blocking Device",
+      "fileName": "Blocking Device.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Clutch 2.svg",
+      "label": "Clutch 2",
+      "fileName": "Clutch 2.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Clutch.svg",
+      "label": "Clutch",
+      "fileName": "Clutch.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Delayed Action.svg",
+      "label": "Delayed Action",
+      "fileName": "Delayed Action.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Detent.svg",
+      "label": "Detent",
+      "fileName": "Detent.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Field.svg",
+      "label": "Field",
+      "fileName": "Field.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Gearing.svg",
+      "label": "Gearing",
+      "fileName": "Gearing.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Latching Device.svg",
+      "label": "Latching Device",
+      "fileName": "Latching Device.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Manual Control.svg",
+      "label": "Manual Control",
+      "fileName": "Manual Control.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Mechanical Interlock.svg",
+      "label": "Mechanical Interlock",
+      "fileName": "Mechanical Interlock.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Rotation.svg",
+      "label": "Rotation",
+      "fileName": "Rotation.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Synchro.svg",
+      "label": "Synchro",
+      "fileName": "Synchro.svg"
+    },
+    {
+      "path": "/diagram-icons/转动与机械/Winding Connection.svg",
+      "label": "Winding Connection",
+      "fileName": "Winding Connection.svg"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "name": "电感",
+  "icons": [
+    {
+      "path": "/diagram-icons/电感/1 Phase Induction Volt Reg.svg",
+      "label": "1 Phase Induction Volt Reg",
+      "fileName": "1 Phase Induction Volt Reg.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Adjustable Transformer.svg",
+      "label": "Adjustable Transformer",
+      "fileName": "Adjustable Transformer.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Choke.svg",
+      "label": "Choke",
+      "fileName": "Choke.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Coaxial Choke.svg",
+      "label": "Coaxial Choke",
+      "fileName": "Coaxial Choke.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Compensation Inductor 1.svg",
+      "label": "Compensation Inductor 1",
+      "fileName": "Compensation Inductor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Compensation Inductor 2.svg",
+      "label": "Compensation Inductor 2",
+      "fileName": "Compensation Inductor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Current Transformer 1.svg",
+      "label": "Current Transformer 1",
+      "fileName": "Current Transformer 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Current Transformer 2.svg",
+      "label": "Current Transformer 2",
+      "fileName": "Current Transformer 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Current Transformer 3.svg",
+      "label": "Current Transformer 3",
+      "fileName": "Current Transformer 3.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Ferrite Core.svg",
+      "label": "Ferrite Core",
+      "fileName": "Ferrite Core.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Half Inductor.svg",
+      "label": "Half Inductor",
+      "fileName": "Half Inductor.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Induction Voltage Regulator.svg",
+      "label": "Induction Voltage Regulator",
+      "fileName": "Induction Voltage Regulator.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor 1.svg",
+      "label": "Inductor 1",
+      "fileName": "Inductor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor 10.svg",
+      "label": "Inductor 10",
+      "fileName": "Inductor 10.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor 11.svg",
+      "label": "Inductor 11",
+      "fileName": "Inductor 11.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor 2.svg",
+      "label": "Inductor 2",
+      "fileName": "Inductor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor 3.svg",
+      "label": "Inductor 3",
+      "fileName": "Inductor 3.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor 4.svg",
+      "label": "Inductor 4",
+      "fileName": "Inductor 4.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor 5.svg",
+      "label": "Inductor 5",
+      "fileName": "Inductor 5.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor 6.svg",
+      "label": "Inductor 6",
+      "fileName": "Inductor 6.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor 7.svg",
+      "label": "Inductor 7",
+      "fileName": "Inductor 7.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor 8.svg",
+      "label": "Inductor 8",
+      "fileName": "Inductor 8.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor 9.svg",
+      "label": "Inductor 9",
+      "fileName": "Inductor 9.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Inductor.svg",
+      "label": "Inductor",
+      "fileName": "Inductor.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Iron Core.svg",
+      "label": "Iron Core",
+      "fileName": "Iron Core.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Linear Coupler.svg",
+      "label": "Linear Coupler",
+      "fileName": "Linear Coupler.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Magnetic Core.svg",
+      "label": "Magnetic Core",
+      "fileName": "Magnetic Core.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Outdoor Metering Device.svg",
+      "label": "Outdoor Metering Device",
+      "fileName": "Outdoor Metering Device.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Pot Trans 3 Windings.svg",
+      "label": "Pot Trans 3 Windings",
+      "fileName": "Pot Trans 3 Windings.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Potential Transformer 2.svg",
+      "label": "Potential Transformer 2",
+      "fileName": "Potential Transformer 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Potential Transformer.svg",
+      "label": "Potential Transformer",
+      "fileName": "Potential Transformer.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Saturating Transformer.svg",
+      "label": "Saturating Transformer",
+      "fileName": "Saturating Transformer.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Transductor.svg",
+      "label": "Transductor",
+      "fileName": "Transductor.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Transformer 1.svg",
+      "label": "Transformer 1",
+      "fileName": "Transformer 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Transformer 2.svg",
+      "label": "Transformer 2",
+      "fileName": "Transformer 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Transformer.svg",
+      "label": "Transformer",
+      "fileName": "Transformer.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Triplex Induction Volt Reg.svg",
+      "label": "Triplex Induction Volt Reg",
+      "fileName": "Triplex Induction Volt Reg.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Variable Inductor.svg",
+      "label": "Variable Inductor",
+      "fileName": "Variable Inductor.svg"
+    },
+    {
+      "path": "/diagram-icons/电感/Variometer.svg",
+      "label": "Variometer",
+      "fileName": "Variometer.svg"
+    }
+  ]
+}

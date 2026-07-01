@@ -1,0 +1,130 @@
+{
+  "name": "2.5D-废水处理",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-废水处理/分集水器.svg",
+      "label": "分集水器",
+      "fileName": "分集水器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/加药泵.svg",
+      "label": "加药泵",
+      "fileName": "加药泵.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/加药箱.svg",
+      "label": "加药箱",
+      "fileName": "加药箱.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/加药箱2.svg",
+      "label": "加药箱",
+      "fileName": "加药箱2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/压力表.svg",
+      "label": "压力表",
+      "fileName": "压力表.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/压滤机.svg",
+      "label": "压滤机",
+      "fileName": "压滤机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/回流泵.svg",
+      "label": "回流泵",
+      "fileName": "回流泵.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/废水池.svg",
+      "label": "废水池",
+      "fileName": "废水池.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/排水泵.svg",
+      "label": "排水泵",
+      "fileName": "排水泵.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/污泥收集.svg",
+      "label": "污泥收集",
+      "fileName": "污泥收集.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/污泥泵.svg",
+      "label": "污泥泵",
+      "fileName": "污泥泵.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/沉淀池1.svg",
+      "label": "沉淀池",
+      "fileName": "沉淀池1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/沉淀池2.svg",
+      "label": "沉淀池",
+      "fileName": "沉淀池2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/沉淀池3.svg",
+      "label": "沉淀池",
+      "fileName": "沉淀池3.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/流量计.svg",
+      "label": "流量计",
+      "fileName": "流量计.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/清水池.svg",
+      "label": "清水池",
+      "fileName": "清水池.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/温度表.svg",
+      "label": "温度表",
+      "fileName": "温度表.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/电磁阀.svg",
+      "label": "电磁阀",
+      "fileName": "电磁阀.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/碳过滤器.svg",
+      "label": "碳过滤器",
+      "fileName": "碳过滤器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/离心污水泵.svg",
+      "label": "离心污水泵",
+      "fileName": "离心污水泵.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/罗茨风机.svg",
+      "label": "罗茨风机",
+      "fileName": "罗茨风机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/耗氧池.svg",
+      "label": "耗氧池",
+      "fileName": "耗氧池.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/重金属捕捉器.svg",
+      "label": "重金属捕捉器",
+      "fileName": "重金属捕捉器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/除铁除锰设备.svg",
+      "label": "除铁除锰设备",
+      "fileName": "除铁除锰设备.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-废水处理/集水池提升泵.svg",
+      "label": "集水池提升泵",
+      "fileName": "集水池提升泵.svg"
+    }
+  ]
+}

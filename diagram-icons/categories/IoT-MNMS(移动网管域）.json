@@ -1,0 +1,35 @@
+{
+  "name": "IoT-MNMS(移动网管域）",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-MNMS(移动网管域）/F5（负载均衡器）.svg",
+      "label": "负载均衡器",
+      "fileName": "F5（负载均衡器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MNMS(移动网管域）/Firewall（防火墙）.svg",
+      "label": "防火墙",
+      "fileName": "Firewall（防火墙）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MNMS(移动网管域）/Minicomputer（小型机）.svg",
+      "label": "小型机",
+      "fileName": "Minicomputer（小型机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MNMS(移动网管域）/PC server（PC服务器）.svg",
+      "label": "服务器",
+      "fileName": "PC server（PC服务器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MNMS(移动网管域）/Routers（路由器）.svg",
+      "label": "路由器",
+      "fileName": "Routers（路由器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MNMS(移动网管域）/Switches（交换机）.svg",
+      "label": "交换机",
+      "fileName": "Switches（交换机）.svg"
+    }
+  ]
+}

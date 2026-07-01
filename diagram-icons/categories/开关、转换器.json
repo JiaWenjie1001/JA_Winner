@@ -1,0 +1,235 @@
+{
+  "name": "开关、转换器",
+  "icons": [
+    {
+      "path": "/diagram-icons/开关、转换器/2 Position Switch.svg",
+      "label": "2 Position Switch",
+      "fileName": "2 Position Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/2-Way Switch.svg",
+      "label": "2-Way Switch",
+      "fileName": "2-Way Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/3 Position Switch.svg",
+      "label": "3 Position Switch",
+      "fileName": "3 Position Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Break Contact.svg",
+      "label": "Break Contact",
+      "fileName": "Break Contact.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Changeover Contact.svg",
+      "label": "Changeover Contact",
+      "fileName": "Changeover Contact.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Circuit Breaker.svg",
+      "label": "Circuit Breaker",
+      "fileName": "Circuit Breaker.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/DPDT.svg",
+      "label": "DPDT",
+      "fileName": "DPDT.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/DPDT2.svg",
+      "label": "DPDT2",
+      "fileName": "DPDT2.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/DPST.svg",
+      "label": "DPST",
+      "fileName": "DPST.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Flow Actuated.svg",
+      "label": "Flow Actuated",
+      "fileName": "Flow Actuated.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Fuse.svg",
+      "label": "Fuse",
+      "fileName": "Fuse.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Gas Flow Actuated.svg",
+      "label": "Gas Flow Actuated",
+      "fileName": "Gas Flow Actuated.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Inertia Switch.svg",
+      "label": "Inertia Switch",
+      "fileName": "Inertia Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Isolator.svg",
+      "label": "Isolator",
+      "fileName": "Isolator.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Limit Switch NC.svg",
+      "label": "Limit Switch NC",
+      "fileName": "Limit Switch NC.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Limit Switch NO.svg",
+      "label": "Limit Switch NO",
+      "fileName": "Limit Switch NO.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Limit Switch.svg",
+      "label": "Limit Switch",
+      "fileName": "Limit Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Liquid Level Actuated 2.svg",
+      "label": "Liquid Level Actuated 2",
+      "fileName": "Liquid Level Actuated 2.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Liquid Level Actuated.svg",
+      "label": "Liquid Level Actuated",
+      "fileName": "Liquid Level Actuated.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Make Contact.svg",
+      "label": "Make Contact",
+      "fileName": "Make Contact.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Manual Switch.svg",
+      "label": "Manual Switch",
+      "fileName": "Manual Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Passing Make Contact.svg",
+      "label": "Passing Make Contact",
+      "fileName": "Passing Make Contact.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Pressure Actuated.svg",
+      "label": "Pressure Actuated",
+      "fileName": "Pressure Actuated.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Push Switch NC.svg",
+      "label": "Push Switch NC",
+      "fileName": "Push Switch NC.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Push Switch NO.svg",
+      "label": "Push Switch NO",
+      "fileName": "Push Switch NO.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Pushbutton 2 Circuit.svg",
+      "label": "Pushbutton 2 Circuit",
+      "fileName": "Pushbutton 2 Circuit.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Pushbutton Break.svg",
+      "label": "Pushbutton Break",
+      "fileName": "Pushbutton Break.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Pushbutton Make.svg",
+      "label": "Pushbutton Make",
+      "fileName": "Pushbutton Make.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Relay Changeover Contact.svg",
+      "label": "Relay Changeover Contact",
+      "fileName": "Relay Changeover Contact.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Relay Contact NC.svg",
+      "label": "Relay Contact NC",
+      "fileName": "Relay Contact NC.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Relay Contact NO.svg",
+      "label": "Relay Contact NO",
+      "fileName": "Relay Contact NO.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Selector Switch.svg",
+      "label": "Selector Switch",
+      "fileName": "Selector Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Shorting Selector.svg",
+      "label": "Shorting Selector",
+      "fileName": "Shorting Selector.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Simple Switch.svg",
+      "label": "Simple Switch",
+      "fileName": "Simple Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Spring Return 2.svg",
+      "label": "Spring Return 2",
+      "fileName": "Spring Return 2.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Spring Return.svg",
+      "label": "Spring Return",
+      "fileName": "Spring Return.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Stay Put.svg",
+      "label": "Stay Put",
+      "fileName": "Stay Put.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Switch Disconnector.svg",
+      "label": "Switch Disconnector",
+      "fileName": "Switch Disconnector.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Temperature Actuated.svg",
+      "label": "Temperature Actuated",
+      "fileName": "Temperature Actuated.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Temperature Switch.svg",
+      "label": "Temperature Switch",
+      "fileName": "Temperature Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Thermostat.svg",
+      "label": "Thermostat",
+      "fileName": "Thermostat.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Time Delay Break 2.svg",
+      "label": "Time Delay Break 2",
+      "fileName": "Time Delay Break 2.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Time Delay Break.svg",
+      "label": "Time Delay Break",
+      "fileName": "Time Delay Break.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Time Delay Make 2.svg",
+      "label": "Time Delay Make 2",
+      "fileName": "Time Delay Make 2.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Time Delay Make.svg",
+      "label": "Time Delay Make",
+      "fileName": "Time Delay Make.svg"
+    },
+    {
+      "path": "/diagram-icons/开关、转换器/Two Way Contact.svg",
+      "label": "Two Way Contact",
+      "fileName": "Two Way Contact.svg"
+    }
+  ]
+}

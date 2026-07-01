@@ -1,0 +1,55 @@
+{
+  "name": "2.5D-采暖系统",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-采暖系统/储热水箱.svg",
+      "label": "储热水箱",
+      "fileName": "储热水箱.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-采暖系统/循环水泵.svg",
+      "label": "循环水泵",
+      "fileName": "循环水泵.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-采暖系统/板式换热器.svg",
+      "label": "板式换热器",
+      "fileName": "板式换热器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-采暖系统/水处理仪.svg",
+      "label": "水处理仪",
+      "fileName": "水处理仪.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-采暖系统/水管压力传感器.svg",
+      "label": "水管压力传感器",
+      "fileName": "水管压力传感器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-采暖系统/水管温度传感器.svg",
+      "label": "水管温度传感器",
+      "fileName": "水管温度传感器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-采暖系统/电锅炉.svg",
+      "label": "电锅炉",
+      "fileName": "电锅炉.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-采暖系统/空调.svg",
+      "label": "空调",
+      "fileName": "空调.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-采暖系统/蓄水箱.svg",
+      "label": "蓄水箱",
+      "fileName": "蓄水箱.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-采暖系统/采暖系统.svg",
+      "label": "采暖系统",
+      "fileName": "采暖系统.svg"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "name": "IoT-Laboratory(实验室)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Beaker 1(烧杯).svg",
+      "label": "烧杯",
+      "fileName": "Beaker 1(烧杯).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Beaker 2(烧杯).svg",
+      "label": "烧杯",
+      "fileName": "Beaker 2(烧杯).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Beaker 3(烧杯).svg",
+      "label": "烧杯",
+      "fileName": "Beaker 3(烧杯).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Benchtop fume hood(台式通风柜).svg",
+      "label": "台式通风柜",
+      "fileName": "Benchtop fume hood(台式通风柜).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Electronic flowhood（电子流动罩）.svg",
+      "label": "电子流动罩",
+      "fileName": "Electronic flowhood（电子流动罩）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Exhaust hood(排气罩).svg",
+      "label": "排气罩",
+      "fileName": "Exhaust hood(排气罩).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Flask 1(烧瓶).svg",
+      "label": "烧瓶",
+      "fileName": "Flask 1(烧瓶).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Fume hood（通风柜）.svg",
+      "label": "通风柜",
+      "fileName": "Fume hood（通风柜）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Funnel（漏斗）.svg",
+      "label": "漏斗",
+      "fileName": "Funnel（漏斗）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Glass bowl(玻璃碗).svg",
+      "label": "玻璃碗",
+      "fileName": "Glass bowl(玻璃碗).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Graduated cylinder（量筒）.svg",
+      "label": "量筒",
+      "fileName": "Graduated cylinder（量筒）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Microscope(显微镜).svg",
+      "label": "显微镜",
+      "fileName": "Microscope(显微镜).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Mortar and pestle（研钵和杵）.svg",
+      "label": "研钵和杵",
+      "fileName": "Mortar and pestle（研钵和杵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Pills（药丸）.svg",
+      "label": "药丸",
+      "fileName": "Pills（药丸）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Report(报告).svg",
+      "label": "报告",
+      "fileName": "Report(报告).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Simple canopy hood(简易排风罩).svg",
+      "label": "简易排风罩",
+      "fileName": "Simple canopy hood(简易排风罩).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Simple tank hood(简易油箱盖).svg",
+      "label": "简易油箱盖",
+      "fileName": "Simple tank hood(简易油箱盖).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Test tubes（试管）.svg",
+      "label": "试管",
+      "fileName": "Test tubes（试管）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Laboratory(实验室)/Thermometer(温度计).svg",
+      "label": "温度计",
+      "fileName": "Thermometer(温度计).svg"
+    }
+  ]
+}

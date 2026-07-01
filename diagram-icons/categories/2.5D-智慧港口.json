@@ -1,0 +1,35 @@
+{
+  "name": "2.5D-智慧港口",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-智慧港口/卸船机.svg",
+      "label": "卸船机",
+      "fileName": "卸船机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧港口/堆取料机.svg",
+      "label": "堆取料机",
+      "fileName": "堆取料机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧港口/堆取料机2.svg",
+      "label": "堆取料机",
+      "fileName": "堆取料机2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧港口/皮带机.svg",
+      "label": "皮带机",
+      "fileName": "皮带机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧港口/矿石堆场.svg",
+      "label": "矿石堆场",
+      "fileName": "矿石堆场.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧港口/转接塔.svg",
+      "label": "转接塔",
+      "fileName": "转接塔.svg"
+    }
+  ]
+}
