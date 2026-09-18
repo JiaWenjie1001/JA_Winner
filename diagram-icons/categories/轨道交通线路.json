@@ -1,0 +1,35 @@
+{
+  "name": "轨道交通线路",
+  "icons": [
+    {
+      "path": "/diagram-icons/轨道交通线路/中转站.svg",
+      "label": "中转站",
+      "fileName": "中转站.svg"
+    },
+    {
+      "path": "/diagram-icons/轨道交通线路/大站点.svg",
+      "label": "大站点",
+      "fileName": "大站点.svg"
+    },
+    {
+      "path": "/diagram-icons/轨道交通线路/小站点.svg",
+      "label": "小站点",
+      "fileName": "小站点.svg"
+    },
+    {
+      "path": "/diagram-icons/轨道交通线路/方位.svg",
+      "label": "方位",
+      "fileName": "方位.svg"
+    },
+    {
+      "path": "/diagram-icons/轨道交通线路/火车站.svg",
+      "label": "火车站",
+      "fileName": "火车站.svg"
+    },
+    {
+      "path": "/diagram-icons/轨道交通线路/飞机场.svg",
+      "label": "飞机场",
+      "fileName": "飞机场.svg"
+    }
+  ]
+}

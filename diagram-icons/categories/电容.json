@@ -1,0 +1,85 @@
+{
+  "name": "电容",
+  "icons": [
+    {
+      "path": "/diagram-icons/电容/Capacitor 1.svg",
+      "label": "Capacitor 1",
+      "fileName": "Capacitor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Capacitor 2.svg",
+      "label": "Capacitor 2",
+      "fileName": "Capacitor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Capacitor 3.svg",
+      "label": "Capacitor 3",
+      "fileName": "Capacitor 3.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Capacitor 4.svg",
+      "label": "Capacitor 4",
+      "fileName": "Capacitor 4.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Capacitor 5.svg",
+      "label": "Capacitor 5",
+      "fileName": "Capacitor 5.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Capacitor 6.svg",
+      "label": "Capacitor 6",
+      "fileName": "Capacitor 6.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Differential Capacitor.svg",
+      "label": "Differential Capacitor",
+      "fileName": "Differential Capacitor.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Feed Through Capacitor.svg",
+      "label": "Feed Through Capacitor",
+      "fileName": "Feed Through Capacitor.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Ganged Capacitor.svg",
+      "label": "Ganged Capacitor",
+      "fileName": "Ganged Capacitor.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Multiple Capacitor.svg",
+      "label": "Multiple Capacitor",
+      "fileName": "Multiple Capacitor.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Multiple Electrolytic Capacitor Comm Neg.svg",
+      "label": "Multiple Electrolytic Capacitor Comm Neg",
+      "fileName": "Multiple Electrolytic Capacitor Comm Neg.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Multiple Electrolytic Capacitor Comm Pos.svg",
+      "label": "Multiple Electrolytic Capacitor Comm Pos",
+      "fileName": "Multiple Electrolytic Capacitor Comm Pos.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Trimmer Capacitor 1.svg",
+      "label": "Trimmer Capacitor 1",
+      "fileName": "Trimmer Capacitor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Trimmer Capacitor 2.svg",
+      "label": "Trimmer Capacitor 2",
+      "fileName": "Trimmer Capacitor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Variable Capacitor 1.svg",
+      "label": "Variable Capacitor 1",
+      "fileName": "Variable Capacitor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电容/Variable Capacitor 2.svg",
+      "label": "Variable Capacitor 2",
+      "fileName": "Variable Capacitor 2.svg"
+    }
+  ]
+}

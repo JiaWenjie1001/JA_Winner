@@ -1,0 +1,140 @@
+{
+  "name": "逻辑门电路",
+  "icons": [
+    {
+      "path": "/diagram-icons/逻辑门电路/AND.svg",
+      "label": "AND",
+      "fileName": "AND.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/AND2.svg",
+      "label": "AND2",
+      "fileName": "AND2.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/Bandpass Filter.svg",
+      "label": "Bandpass Filter",
+      "fileName": "Bandpass Filter.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/Buffer.svg",
+      "label": "Buffer",
+      "fileName": "Buffer.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/D Type Flip-Flop With Clear.svg",
+      "label": "D Type Flip-Flop With Clear",
+      "fileName": "D Type Flip-Flop With Clear.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/D Type Flip-Flop.svg",
+      "label": "D Type Flip-Flop",
+      "fileName": "D Type Flip-Flop.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/D Type RS Flip-Flop.svg",
+      "label": "D Type RS Flip-Flop",
+      "fileName": "D Type RS Flip-Flop.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/Highpass Filter.svg",
+      "label": "Highpass Filter",
+      "fileName": "Highpass Filter.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/Inverter.svg",
+      "label": "Inverter",
+      "fileName": "Inverter.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/JK Flip-Flop With Clear.svg",
+      "label": "JK Flip-Flop With Clear",
+      "fileName": "JK Flip-Flop With Clear.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/JK Flip-Flop With SR.svg",
+      "label": "JK Flip-Flop With SR",
+      "fileName": "JK Flip-Flop With SR.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/JK Flip-Flop.svg",
+      "label": "JK Flip-Flop",
+      "fileName": "JK Flip-Flop.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/Lowpass Filter.svg",
+      "label": "Lowpass Filter",
+      "fileName": "Lowpass Filter.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/NAND.svg",
+      "label": "NAND",
+      "fileName": "NAND.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/NAND2.svg",
+      "label": "NAND2",
+      "fileName": "NAND2.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/NOR.svg",
+      "label": "NOR",
+      "fileName": "NOR.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/NOR2.svg",
+      "label": "NOR2",
+      "fileName": "NOR2.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/NOT.svg",
+      "label": "NOT",
+      "fileName": "NOT.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/OR.svg",
+      "label": "OR",
+      "fileName": "OR.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/OR2.svg",
+      "label": "OR2",
+      "fileName": "OR2.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/RS Latch.svg",
+      "label": "RS Latch",
+      "fileName": "RS Latch.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/Schmitt Trigger.svg",
+      "label": "Schmitt Trigger",
+      "fileName": "Schmitt Trigger.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/Synchronous RS Latch.svg",
+      "label": "Synchronous RS Latch",
+      "fileName": "Synchronous RS Latch.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/T Type Flip-Flop.svg",
+      "label": "T Type Flip-Flop",
+      "fileName": "T Type Flip-Flop.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/XNOR.svg",
+      "label": "XNOR",
+      "fileName": "XNOR.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/XOR.svg",
+      "label": "XOR",
+      "fileName": "XOR.svg"
+    },
+    {
+      "path": "/diagram-icons/逻辑门电路/XOR2.svg",
+      "label": "XOR2",
+      "fileName": "XOR2.svg"
+    }
+  ]
+}

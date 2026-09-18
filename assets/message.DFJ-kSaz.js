@@ -1,0 +1,1 @@
+import{ca as e}from"./element-plus.DHpk4ZQC.js";const s={duration:3e3,showClose:!0,offset:20},r=(()=>{let r=null;return()=>(r||(r={info(r){e({...s,message:r,type:"info"})},warning(r){e({...s,message:r,type:"warning"})},success(r){e({...s,message:r,type:"success"})},error(r){e({...s,message:r,type:"error",duration:2e3})}}),r)})();export{r as u};

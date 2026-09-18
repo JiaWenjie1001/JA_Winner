@@ -1,0 +1,50 @@
+{
+  "name": "IoT-building（建筑）",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-building（建筑）/Arch-style building(拱形建筑).svg",
+      "label": "拱形建筑",
+      "fileName": "Arch-style building(拱形建筑).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-building（建筑）/Commercial building (商业建筑).svg",
+      "label": "商业建筑",
+      "fileName": "Commercial building (商业建筑).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-building（建筑）/factory(工厂).svg",
+      "label": "工厂",
+      "fileName": "factory(工厂).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-building（建筑）/Industrial building (工業建築).svg",
+      "label": "工業建築",
+      "fileName": "Industrial building (工業建築).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-building（建筑）/Industrial building with slanted roof(斜屋顶工业建筑).svg",
+      "label": "斜屋顶工业建筑",
+      "fileName": "Industrial building with slanted roof(斜屋顶工业建筑).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-building（建筑）/Modular office (模塊化辦公室).svg",
+      "label": "模塊化辦公室",
+      "fileName": "Modular office (模塊化辦公室).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-building（建筑）/Outdoor enclosure（室外围墙）.svg",
+      "label": "室外围墙",
+      "fileName": "Outdoor enclosure（室外围墙）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-building（建筑）/shelter（庇护所）.svg",
+      "label": "庇护所",
+      "fileName": "shelter（庇护所）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-building（建筑）/Utility building (公用工程建筑）.svg",
+      "label": "公用工程建筑",
+      "fileName": "Utility building (公用工程建筑）.svg"
+    }
+  ]
+}

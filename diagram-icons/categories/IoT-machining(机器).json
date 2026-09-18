@@ -1,0 +1,305 @@
+{
+  "name": "IoT-machining(机器)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Automatic chucker (自动卡盘).svg",
+      "label": "自动卡盘",
+      "fileName": "Automatic chucker (自动卡盘).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Automatic screw machine(自动螺丝机).svg",
+      "label": "自动螺丝机",
+      "fileName": "Automatic screw machine(自动螺丝机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Automatic universal grinder(自动万能磨床机).svg",
+      "label": "自动万能磨床机",
+      "fileName": "Automatic universal grinder(自动万能磨床机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Ball mill（球磨机）.svg",
+      "label": "球磨机",
+      "fileName": "Ball mill（球磨机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Bed-type horizontal-spindle production mill（台式卧式主轴生产磨机）.svg",
+      "label": "台式卧式主轴生产磨机",
+      "fileName": "Bed-type horizontal-spindle production mill（台式卧式主轴生产磨机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/CMM (坐标测量机).svg",
+      "label": "坐标测量机",
+      "fileName": "CMM (坐标测量机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/CNC chucker（数控卡盘机）.svg",
+      "label": "数控卡盘机",
+      "fileName": "CNC chucker（数控卡盘机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/CNC coordinate measuring(数控坐标测量).svg",
+      "label": "数控坐标测量",
+      "fileName": "CNC coordinate measuring(数控坐标测量).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/CNC vertical mill(数控立磨).svg",
+      "label": "数控立磨",
+      "fileName": "CNC vertical mill(数控立磨).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Compact CNC turning center(紧凑型数控车削中心).svg",
+      "label": "紧凑型数控车削中心",
+      "fileName": "Compact CNC turning center(紧凑型数控车削中心).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Computer-assisted lathe（计算机辅助车床）.svg",
+      "label": "计算机辅助车床",
+      "fileName": "Computer-assisted lathe（计算机辅助车床）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Corrective roller leveler（校正辊式矫直机）.svg",
+      "label": "校正辊式矫直机",
+      "fileName": "Corrective roller leveler（校正辊式矫直机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Deburring machine(去毛刺机).svg",
+      "label": "去毛刺机",
+      "fileName": "Deburring machine(去毛刺机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Drill bit(钻头).svg",
+      "label": "钻头",
+      "fileName": "Drill bit(钻头).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Drill-tap machine（钻丝机）.svg",
+      "label": "钻丝机",
+      "fileName": "Drill-tap machine（钻丝机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Engine lathe（普通车床）.svg",
+      "label": "普通车床",
+      "fileName": "Engine lathe（普通车床）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Floor plate(地板).svg",
+      "label": "地板",
+      "fileName": "Floor plate(地板).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/gear（齿轮）.svg",
+      "label": "齿轮",
+      "fileName": "gear（齿轮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/grinder(研磨机）.svg",
+      "label": "研磨机",
+      "fileName": "grinder(研磨机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Grinding machine(磨床).svg",
+      "label": "磨床",
+      "fileName": "Grinding machine(磨床).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Grinding mill(磨粉机).svg",
+      "label": "磨粉机",
+      "fileName": "Grinding mill(磨粉机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Heavy-duty band sawing machine(重型带锯床).svg",
+      "label": "重型带锯床",
+      "fileName": "Heavy-duty band sawing machine(重型带锯床).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Hob sharpener(滚刀磨刀机).svg",
+      "label": "滚刀磨刀机",
+      "fileName": "Hob sharpener(滚刀磨刀机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Horizontal hydraulic hone（卧式液压研磨机）.svg",
+      "label": "卧式液压研磨机",
+      "fileName": "Horizontal hydraulic hone（卧式液压研磨机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Horizontal machining center (卧式加工中心).svg",
+      "label": "卧式加工中心",
+      "fileName": "Horizontal machining center (卧式加工中心).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Horizontal mill（卧式磨机）.svg",
+      "label": "卧式磨机",
+      "fileName": "Horizontal mill（卧式磨机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Horizontal spindle grinder(卧式主轴磨床).svg",
+      "label": "卧式主轴磨床",
+      "fileName": "Horizontal spindle grinder(卧式主轴磨床).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Horizontal spindle surface grinder(卧式主轴平面磨床).svg",
+      "label": "卧式主轴平面磨床",
+      "fileName": "Horizontal spindle surface grinder(卧式主轴平面磨床).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Hydra-mechanical press brake（液压机械式制动机）.svg",
+      "label": "液压机械式制动机",
+      "fileName": "Hydra-mechanical press brake（液压机械式制动机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Hydraulic press brake (液压制动器).svg",
+      "label": "液压制动器",
+      "fileName": "Hydraulic press brake (液压制动器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Industrial oven（工业烤箱）.svg",
+      "label": "工业烤箱",
+      "fileName": "Industrial oven（工业烤箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Industrial vacuum system(工业真空系统).svg",
+      "label": "工业真空系统",
+      "fileName": "Industrial vacuum system(工业真空系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Internal grinding machine（内圆磨床）.svg",
+      "label": "内圆磨床",
+      "fileName": "Internal grinding machine（内圆磨床）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Knee machining center(加工中心).svg",
+      "label": "加工中心",
+      "fileName": "Knee machining center(加工中心).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Lapping and polishing system（研磨【【抛光系统）.svg",
+      "label": "抛光系统",
+      "fileName": "Lapping and polishing system（研磨【【抛光系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Mechanical press （机械压力机）.svg",
+      "label": "机械压力机",
+      "fileName": "Mechanical press （机械压力机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Mist collector（集雾器）.svg",
+      "label": "集雾器",
+      "fileName": "Mist collector（集雾器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Multiple-spindle drill(多轴钻头).svg",
+      "label": "多轴钻头",
+      "fileName": "Multiple-spindle drill(多轴钻头).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Parts washer（零件清洗机）.svg",
+      "label": "零件清洗机",
+      "fileName": "Parts washer（零件清洗机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Power metal press(电动金属压力机).svg",
+      "label": "电动金属压力机",
+      "fileName": "Power metal press(电动金属压力机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Power squaring shear（动力平行刃口剪切机）.svg",
+      "label": "动力平行刃口剪切机",
+      "fileName": "Power squaring shear（动力平行刃口剪切机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Production band saw(生产带锯).svg",
+      "label": "生产带锯",
+      "fileName": "Production band saw(生产带锯).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Production machining center(生产加工中心).svg",
+      "label": "生产加工中心",
+      "fileName": "Production machining center(生产加工中心).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/punch press(压力机).svg",
+      "label": "压力机",
+      "fileName": "punch press(压力机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Radial drill （摇臂钻）.svg",
+      "label": "摇臂钻",
+      "fileName": "Radial drill （摇臂钻）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Rotary transfer machine(转载机）.svg",
+      "label": "转载机",
+      "fileName": "Rotary transfer machine(转载机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Saw blade（锯片）.svg",
+      "label": "锯片",
+      "fileName": "Saw blade（锯片）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Seam welder（缝焊机）.svg",
+      "label": "缝焊机",
+      "fileName": "Seam welder（缝焊机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Spray nozzle（喷嘴）.svg",
+      "label": "喷嘴",
+      "fileName": "Spray nozzle（喷嘴）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Stamping machine(冲压机).svg",
+      "label": "冲压机",
+      "fileName": "Stamping machine(冲压机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Straight side press(直边压力机).svg",
+      "label": "直边压力机",
+      "fileName": "Straight side press(直边压力机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Swiss-type automatic（瑞士式自动）.svg",
+      "label": "瑞士式自动",
+      "fileName": "Swiss-type automatic（瑞士式自动）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Thread inspection device（螺纹检查装置）.svg",
+      "label": "螺纹检查装置",
+      "fileName": "Thread inspection device（螺纹检查装置）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Transfer press（多工位压力机）.svg",
+      "label": "多工位压力机",
+      "fileName": "Transfer press（多工位压力机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Vertical automatic cutting tool presetting machine(立式自动对刀机).svg",
+      "label": "立式自动对刀机",
+      "fileName": "Vertical automatic cutting tool presetting machine(立式自动对刀机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Vertical band saw(立式带锯床).svg",
+      "label": "立式带锯床",
+      "fileName": "Vertical band saw(立式带锯床).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Vertical compression hydraulic press bender立式压缩液压折弯机).svg",
+      "label": "立式压缩液压折弯机",
+      "fileName": "Vertical compression hydraulic press bender立式压缩液压折弯机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Vertical lathe(立式车床).svg",
+      "label": "立式车床",
+      "fileName": "Vertical lathe(立式车床).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Vertical machining center （立式加工中心）.svg",
+      "label": "立式加工中心",
+      "fileName": "Vertical machining center （立式加工中心）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-machining(机器)/Vibratory deburring machine（振动去毛刺机）.svg",
+      "label": "振动去毛刺机",
+      "fileName": "Vibratory deburring machine（振动去毛刺机）.svg"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "name": "IoT-process heating(制程加热)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Batch oven (间歇式烘箱).svg",
+      "label": "间歇式烘箱",
+      "fileName": "Batch oven (间歇式烘箱).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Circulation heater(循环发热器).svg",
+      "label": "循环发热器",
+      "fileName": "Circulation heater(循环发热器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Compensator（补偿器）.svg",
+      "label": "补偿器",
+      "fileName": "Compensator（补偿器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Condenser (冷凝器).svg",
+      "label": "冷凝器",
+      "fileName": "Condenser (冷凝器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Evaporator（蒸发器）.svg",
+      "label": "蒸发器",
+      "fileName": "Evaporator（蒸发器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Expansion loop(膨胀环).svg",
+      "label": "膨胀环",
+      "fileName": "Expansion loop(膨胀环).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Heat exchanger（热交换器）.svg",
+      "label": "热交换器",
+      "fileName": "Heat exchanger（热交换器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Heat recovery system(热回收系统).svg",
+      "label": "热回收系统",
+      "fileName": "Heat recovery system(热回收系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Heating element加热元件).svg",
+      "label": "加热元件",
+      "fileName": "Heating element加热元件).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Hot oil system(热油系统).svg",
+      "label": "热油系统",
+      "fileName": "Hot oil system(热油系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Inclined conveyor(倾斜运输机).svg",
+      "label": "倾斜运输机",
+      "fileName": "Inclined conveyor(倾斜运输机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Indirect large volume water heater（间接大容量热水器）.svg",
+      "label": "间接大容量热水器",
+      "fileName": "Indirect large volume water heater（间接大容量热水器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Screw conveyor(螺旋传送机).svg",
+      "label": "螺旋传送机",
+      "fileName": "Screw conveyor(螺旋传送机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Shell and tube condenser(管壳式冷凝器).svg",
+      "label": "管壳式冷凝器",
+      "fileName": "Shell and tube condenser(管壳式冷凝器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Steam generator（蒸汽发生器）.svg",
+      "label": "蒸汽发生器",
+      "fileName": "Steam generator（蒸汽发生器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Steam mixer(蒸汽混合器).svg",
+      "label": "蒸汽混合器",
+      "fileName": "Steam mixer(蒸汽混合器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Steam trap （蒸汽疏水阀）.svg",
+      "label": "蒸汽疏水阀",
+      "fileName": "Steam trap （蒸汽疏水阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Thermal fluid heater（热流加热器）.svg",
+      "label": "热流加热器",
+      "fileName": "Thermal fluid heater（热流加热器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Turbocoil hot oil heater(汽轮热游加热器).svg",
+      "label": "汽轮热游加热器",
+      "fileName": "Turbocoil hot oil heater(汽轮热游加热器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process heating(制程加热)/Water heater system（热水器系统）.svg",
+      "label": "热水器系统",
+      "fileName": "Water heater system（热水器系统）.svg"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "IoT-WIRE(电线电缆)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Additive injection system（添加剂注入系统）.svg",
+      "label": "添加剂注入系统",
+      "fileName": "Additive injection system（添加剂注入系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Baling press（打包机）.svg",
+      "label": "打包机",
+      "fileName": "Baling press（打包机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Coil（线圈）.svg",
+      "label": "线圈",
+      "fileName": "Coil（线圈）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Extruder（挤出机）.svg",
+      "label": "挤出机",
+      "fileName": "Extruder（挤出机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Extrusion booster pump（挤压增压泵） (2).svg",
+      "label": "挤压增压泵",
+      "fileName": "Extrusion booster pump（挤压增压泵） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Extrusion booster pump（挤压增压泵）.svg",
+      "label": "挤压增压泵",
+      "fileName": "Extrusion booster pump（挤压增压泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Horizontal baler（卧式打捆机）.svg",
+      "label": "卧式打捆机",
+      "fileName": "Horizontal baler（卧式打捆机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Simple extruder（简易挤出机）.svg",
+      "label": "简易挤出机",
+      "fileName": "Simple extruder（简易挤出机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Simple wire stacker（简易线材堆垛机）.svg",
+      "label": "简易线材堆垛机",
+      "fileName": "Simple wire stacker（简易线材堆垛机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Simple wire stripper（简易剥线钳）.svg",
+      "label": "简易剥线钳",
+      "fileName": "Simple wire stripper（简易剥线钳）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Wire spool（线轴） (2).svg",
+      "label": "线轴",
+      "fileName": "Wire spool（线轴） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Wire spool（线轴）.svg",
+      "label": "线轴",
+      "fileName": "Wire spool（线轴）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-WIRE(电线电缆)/Wooden spool（木质线轴).svg",
+      "label": "木质线轴",
+      "fileName": "Wooden spool（木质线轴).svg"
+    }
+  ]
+}

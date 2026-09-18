@@ -1,0 +1,70 @@
+{
+  "name": "IoT-Meter （仪表）",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter 1(仪表1).svg",
+      "label": "仪表",
+      "fileName": "Meter 1(仪表1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter 10(仪表10).svg",
+      "label": "仪表",
+      "fileName": "Meter 10(仪表10).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter 11(仪表11).svg",
+      "label": "仪表",
+      "fileName": "Meter 11(仪表11).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter 12(仪表12).svg",
+      "label": "仪表",
+      "fileName": "Meter 12(仪表12).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter 2(仪表2).svg",
+      "label": "仪表",
+      "fileName": "Meter 2(仪表2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter 4(仪表4).svg",
+      "label": "仪表",
+      "fileName": "Meter 4(仪表4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter 6(仪表6).svg",
+      "label": "仪表",
+      "fileName": "Meter 6(仪表6).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter 7(仪表7).svg",
+      "label": "仪表",
+      "fileName": "Meter 7(仪表7).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter 8(仪表8).svg",
+      "label": "仪表",
+      "fileName": "Meter 8(仪表8).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter 9(仪表9).svg",
+      "label": "仪表",
+      "fileName": "Meter 9(仪表9).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter3(仪表3).svg",
+      "label": "仪表",
+      "fileName": "Meter3(仪表3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter5(仪表5).svg",
+      "label": "仪表",
+      "fileName": "Meter5(仪表5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Meter （仪表）/Meter（仪表）.svg",
+      "label": "仪表",
+      "fileName": "Meter（仪表）.svg"
+    }
+  ]
+}
