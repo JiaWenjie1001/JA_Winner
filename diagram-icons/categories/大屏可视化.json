@@ -1,0 +1,100 @@
+{
+  "name": "大屏可视化",
+  "icons": [
+    {
+      "path": "/diagram-icons/大屏可视化/开关-关.svg",
+      "label": "关",
+      "fileName": "开关-关.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/开关-开.svg",
+      "label": "开",
+      "fileName": "开关-开.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/文本框.svg",
+      "label": "文本框",
+      "fileName": "文本框.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/方位仪表.svg",
+      "label": "方位仪表",
+      "fileName": "方位仪表.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/看板1.svg",
+      "label": "看板",
+      "fileName": "看板1.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/看板10.svg",
+      "label": "看板",
+      "fileName": "看板10.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/看板2.svg",
+      "label": "看板",
+      "fileName": "看板2.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/看板3.svg",
+      "label": "看板",
+      "fileName": "看板3.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/看板4.svg",
+      "label": "看板",
+      "fileName": "看板4.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/看板5.svg",
+      "label": "看板",
+      "fileName": "看板5.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/看板6.svg",
+      "label": "看板",
+      "fileName": "看板6.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/看板7.svg",
+      "label": "看板",
+      "fileName": "看板7.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/看板8.svg",
+      "label": "看板",
+      "fileName": "看板8.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/看板9.svg",
+      "label": "看板",
+      "fileName": "看板9.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/箭头.svg",
+      "label": "箭头",
+      "fileName": "箭头.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/警告.svg",
+      "label": "警告",
+      "fileName": "警告.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/进度条.svg",
+      "label": "进度条",
+      "fileName": "进度条.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/速度仪表.svg",
+      "label": "速度仪表",
+      "fileName": "速度仪表.svg"
+    },
+    {
+      "path": "/diagram-icons/大屏可视化/预警.svg",
+      "label": "预警",
+      "fileName": "预警.svg"
+    }
+  ]
+}

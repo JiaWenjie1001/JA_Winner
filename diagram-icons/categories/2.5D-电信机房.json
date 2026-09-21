@@ -1,0 +1,80 @@
+{
+  "name": "2.5D-电信机房",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-电信机房/墙体1.svg",
+      "label": "墙体",
+      "fileName": "墙体1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/墙体2.svg",
+      "label": "墙体",
+      "fileName": "墙体2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/摄像头.svg",
+      "label": "摄像头",
+      "fileName": "摄像头.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/机柜(柜门关).svg",
+      "label": "柜门关",
+      "fileName": "机柜(柜门关).svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/机柜(柜门关)故障.svg",
+      "label": "故障",
+      "fileName": "机柜(柜门关)故障.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/机柜(柜门关)运行.svg",
+      "label": "运行",
+      "fileName": "机柜(柜门关)运行.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/机柜(柜门开).svg",
+      "label": "柜门开",
+      "fileName": "机柜(柜门开).svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/机柜(柜门开)故障.svg",
+      "label": "故障",
+      "fileName": "机柜(柜门开)故障.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/机柜(柜门开)运行.svg",
+      "label": "运行",
+      "fileName": "机柜(柜门开)运行.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/水浸.svg",
+      "label": "水浸",
+      "fileName": "水浸.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/烟感.svg",
+      "label": "烟感",
+      "fileName": "烟感.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/精密空调.svg",
+      "label": "精密空调",
+      "fileName": "精密空调.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/配电柜.svg",
+      "label": "配电柜",
+      "fileName": "配电柜.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/门1.svg",
+      "label": "门",
+      "fileName": "门1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-电信机房/门2.svg",
+      "label": "门",
+      "fileName": "门2.svg"
+    }
+  ]
+}

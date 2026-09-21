@@ -1,0 +1,95 @@
+{
+  "name": "IoT-Motors(发动机)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Actuator（驱动器）.svg",
+      "label": "驱动器",
+      "fileName": "Actuator（驱动器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 1(发动机1).svg",
+      "label": "发动机",
+      "fileName": "Motor 1(发动机1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 1(发动机2).svg",
+      "label": "发动机",
+      "fileName": "Motor 1(发动机2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 1(发动机3).svg",
+      "label": "发动机",
+      "fileName": "Motor 1(发动机3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 10(发动机10).svg",
+      "label": "发动机",
+      "fileName": "Motor 10(发动机10).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 11(发动机11).svg",
+      "label": "发动机",
+      "fileName": "Motor 11(发动机11).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 12(发动机12).svg",
+      "label": "发动机",
+      "fileName": "Motor 12(发动机12).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 13(发动机13).svg",
+      "label": "发动机",
+      "fileName": "Motor 13(发动机13).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 4(发动机4).svg",
+      "label": "发动机",
+      "fileName": "Motor 4(发动机4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 5(发动机5).svg",
+      "label": "发动机",
+      "fileName": "Motor 5(发动机5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 6(发动机6).svg",
+      "label": "发动机",
+      "fileName": "Motor 6(发动机6).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 7(发动机7).svg",
+      "label": "发动机",
+      "fileName": "Motor 7(发动机7).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 8(发动机8).svg",
+      "label": "发动机",
+      "fileName": "Motor 8(发动机8).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Motor 9(发动机9).svg",
+      "label": "发动机",
+      "fileName": "Motor 9(发动机9).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Pneumatic brake(空气制动器).svg",
+      "label": "空气制动器",
+      "fileName": "Pneumatic brake(空气制动器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Servo motor 1(伺服电机1).svg",
+      "label": "伺服电机",
+      "fileName": "Servo motor 1(伺服电机1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Servo motor 2(伺服电机2).svg",
+      "label": "伺服电机",
+      "fileName": "Servo motor 2(伺服电机2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Motors(发动机)/Shaft encoder(轴编码器).svg",
+      "label": "轴编码器",
+      "fileName": "Shaft encoder(轴编码器).svg"
+    }
+  ]
+}

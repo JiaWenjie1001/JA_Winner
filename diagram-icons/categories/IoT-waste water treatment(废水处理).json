@@ -1,0 +1,640 @@
+{
+  "name": "IoT-waste water treatment(废水处理)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Absorber（吸收器）.svg",
+      "label": "吸收器",
+      "fileName": "Absorber（吸收器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Aeration basin 1（曝气池）.svg",
+      "label": "曝气池",
+      "fileName": "Aeration basin 1（曝气池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Aeration basin 2（曝气池）.svg",
+      "label": "曝气池",
+      "fileName": "Aeration basin 2（曝气池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Aeration digester （曝气池).svg",
+      "label": "曝气池",
+      "fileName": "Aeration digester （曝气池).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Air diffuser system(空气扩散系统).svg",
+      "label": "空气扩散系统",
+      "fileName": "Air diffuser system(空气扩散系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Anaerobic sequencing batch reactor（厌氧序批式反应器）.svg",
+      "label": "厌氧序批式反应器",
+      "fileName": "Anaerobic sequencing batch reactor（厌氧序批式反应器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Ash disposal pond（灰渣处理池）.svg",
+      "label": "灰渣处理池",
+      "fileName": "Ash disposal pond（灰渣处理池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Asphalt filter（沥青过滤器）.svg",
+      "label": "沥青过滤器",
+      "fileName": "Asphalt filter（沥青过滤器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Bag filtration system（袋式过滤系统）.svg",
+      "label": "袋式过滤系统",
+      "fileName": "Bag filtration system（袋式过滤系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Bathtub（浴缸）.svg",
+      "label": "浴缸",
+      "fileName": "Bathtub（浴缸）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Belt filter press（带式过滤器）.svg",
+      "label": "带式过滤器",
+      "fileName": "Belt filter press（带式过滤器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Biological reaction tank（生物反应池）.svg",
+      "label": "生物反应池",
+      "fileName": "Biological reaction tank（生物反应池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Biological treatment plant（生物处理厂）.svg",
+      "label": "生物处理厂",
+      "fileName": "Biological treatment plant（生物处理厂）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Bubble diffuser in sludge tank（污泥池气泡扩散器）.svg",
+      "label": "污泥池气泡扩散器",
+      "fileName": "Bubble diffuser in sludge tank（污泥池气泡扩散器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Carbon absorber（碳吸收器）.svg",
+      "label": "碳吸收器",
+      "fileName": "Carbon absorber（碳吸收器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Central Water Purifier（中央净水器）.svg",
+      "label": "中央净水器",
+      "fileName": "Central Water Purifier（中央净水器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Central Water Softener（中央软水器）.svg",
+      "label": "中央软水器",
+      "fileName": "Central Water Softener（中央软水器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Chemical feeder（化学加料器）.svg",
+      "label": "化学加料器",
+      "fileName": "Chemical feeder（化学加料器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Chlorinator（氯化器）.svg",
+      "label": "氯化器",
+      "fileName": "Chlorinator（氯化器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Civic Tap Water（城市自来水）.svg",
+      "label": "城市自来水",
+      "fileName": "Civic Tap Water（城市自来水）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Clarifier (side view)（澄清池(侧面图)）.svg",
+      "label": "侧面图",
+      "fileName": "Clarifier (side view)（澄清池(侧面图)）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Clarifier and thickener drive（澄清池和浓密机驱动）.svg",
+      "label": "澄清池和浓密机驱动",
+      "fileName": "Clarifier and thickener drive（澄清池和浓密机驱动）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Clarifier with recarb tank（带再佛池的澄清池）.svg",
+      "label": "带再佛池的澄清池",
+      "fileName": "Clarifier with recarb tank（带再佛池的澄清池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Clarifier（澄清池） (2).svg",
+      "label": "澄清池",
+      "fileName": "Clarifier（澄清池） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Clarifier（澄清池）.svg",
+      "label": "澄清池",
+      "fileName": "Clarifier（澄清池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Clean water system（清水系统） (2).svg",
+      "label": "清水系统",
+      "fileName": "Clean water system（清水系统） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Clean water system（清水系统）.svg",
+      "label": "清水系统",
+      "fileName": "Clean water system（清水系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Close-coupled self-primer（紧密耦合自底漆）.svg",
+      "label": "紧密耦合自底漆",
+      "fileName": "Close-coupled self-primer（紧密耦合自底漆）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Container（容器）.svg",
+      "label": "容器",
+      "fileName": "Container（容器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Covered dome tank(有盖拱顶罐).svg",
+      "label": "有盖拱顶罐",
+      "fileName": "Covered dome tank(有盖拱顶罐).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/deodorization room(除臭间).svg",
+      "label": "除臭间",
+      "fileName": "deodorization room(除臭间).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Dewatering system（脱水系统）.svg",
+      "label": "脱水系统",
+      "fileName": "Dewatering system（脱水系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Digester gas tanks（沼气池）.svg",
+      "label": "沼气池",
+      "fileName": "Digester gas tanks（沼气池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Digester（蒸煮器）.svg",
+      "label": "蒸煮器",
+      "fileName": "Digester（蒸煮器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Disc and drum filter（盘式鼓式过滤器）.svg",
+      "label": "盘式鼓式过滤器",
+      "fileName": "Disc and drum filter（盘式鼓式过滤器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Dissolved air flotation（溶气浮选）.svg",
+      "label": "溶气浮选",
+      "fileName": "Dissolved air flotation（溶气浮选）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Drain（排水管）.svg",
+      "label": "排水管",
+      "fileName": "Drain（排水管）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Drying system（干燥系统）.svg",
+      "label": "干燥系统",
+      "fileName": "Drying system（干燥系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Elevated tank 1（高位水箱） (2).svg",
+      "label": "高位水箱",
+      "fileName": "Elevated tank 1（高位水箱） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Elevated tank 1（高位水箱） (3).svg",
+      "label": "高位水箱",
+      "fileName": "Elevated tank 1（高位水箱） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Elevated tank 1（高位水箱）.svg",
+      "label": "高位水箱",
+      "fileName": "Elevated tank 1（高位水箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Elevated tank 2（高位水箱）.svg",
+      "label": "高位水箱",
+      "fileName": "Elevated tank 2（高位水箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Environmental gas process（环境气体工艺）.svg",
+      "label": "环境气体工艺",
+      "fileName": "Environmental gas process（环境气体工艺）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Evaporation（蒸发器）.svg",
+      "label": "蒸发器",
+      "fileName": "Evaporation（蒸发器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Evaporator（蒸发器）.svg",
+      "label": "蒸发器",
+      "fileName": "Evaporator（蒸发器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Explosion-proof enclosure（防爆外壳）.svg",
+      "label": "防爆外壳",
+      "fileName": "Explosion-proof enclosure（防爆外壳）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Filling Machine 2（灌装机2）.svg",
+      "label": "灌装机",
+      "fileName": "Filling Machine 2（灌装机2）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Filling Machine（灌装机）.svg",
+      "label": "灌装机",
+      "fileName": "Filling Machine（灌装机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Filter housing（过滤器外壳）.svg",
+      "label": "过滤器外壳",
+      "fileName": "Filter housing（过滤器外壳）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Filter press（压滤机）.svg",
+      "label": "压滤机",
+      "fileName": "Filter press（压滤机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Filter（过滤器） (2).svg",
+      "label": "过滤器",
+      "fileName": "Filter（过滤器） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Filter（过滤器） (3).svg",
+      "label": "过滤器",
+      "fileName": "Filter（过滤器） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Filter（过滤器） (4).svg",
+      "label": "过滤器",
+      "fileName": "Filter（过滤器） (4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Filter（过滤器） (5).svg",
+      "label": "过滤器",
+      "fileName": "Filter（过滤器） (5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/filter（过滤器）.svg",
+      "label": "过滤器",
+      "fileName": "filter（过滤器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Flocculators（絮凝器）.svg",
+      "label": "絮凝器",
+      "fileName": "Flocculators（絮凝器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Flow gate（流量闸门）.svg",
+      "label": "流量闸门",
+      "fileName": "Flow gate（流量闸门）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Flume（水槽）.svg",
+      "label": "水槽",
+      "fileName": "Flume（水槽）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Fluted elevated tank（槽型高架水箱）.svg",
+      "label": "槽型高架水箱",
+      "fileName": "Fluted elevated tank（槽型高架水箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Giant skeeter（大型冰上滑行船）.svg",
+      "label": "大型冰上滑行船",
+      "fileName": "Giant skeeter（大型冰上滑行船）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Gravity belt thickener(重力皮带浓缩机).svg",
+      "label": "重力皮带浓缩机",
+      "fileName": "Gravity belt thickener(重力皮带浓缩机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Gravity belt thickener（重力皮带浓缩机）.svg",
+      "label": "重力皮带浓缩机",
+      "fileName": "Gravity belt thickener（重力皮带浓缩机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Grille（格栅）.svg",
+      "label": "格栅",
+      "fileName": "Grille（格栅）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Grit chamber（沉沙池）.svg",
+      "label": "沉沙池",
+      "fileName": "Grit chamber（沉沙池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Hydrocyclone（水力旋流器）.svg",
+      "label": "水力旋流器",
+      "fileName": "Hydrocyclone（水力旋流器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Hydrolysis of grit chamber（沉沙池水解）.svg",
+      "label": "沉沙池水解",
+      "fileName": "Hydrolysis of grit chamber（沉沙池水解）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Inclined plate clarifier （斜板澄清池）.svg",
+      "label": "斜板澄清池",
+      "fileName": "Inclined plate clarifier （斜板澄清池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Land（土地）.svg",
+      "label": "土地",
+      "fileName": "Land（土地）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Liquid solution feeder（液体加料器）.svg",
+      "label": "液体加料器",
+      "fileName": "Liquid solution feeder（液体加料器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Low-speed aerator drive for wastewater treatment（用曝气机驱动的污水处理）.svg",
+      "label": "用曝气机驱动的污水处理",
+      "fileName": "Low-speed aerator drive for wastewater treatment（用曝气机驱动的污水处理）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Luxury Pipeline Machines（豪华管道机械）.svg",
+      "label": "豪华管道机械",
+      "fileName": "Luxury Pipeline Machines（豪华管道机械）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Main Engine of Reverse Osmosis（反渗透主机）.svg",
+      "label": "反渗透主机",
+      "fileName": "Main Engine of Reverse Osmosis（反渗透主机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Membranes（膜）.svg",
+      "label": "膜",
+      "fileName": "Membranes（膜）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Micro screen（微型屏幕）.svg",
+      "label": "微型屏幕",
+      "fileName": "Micro screen（微型屏幕）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Motorized flow gate (closed)（电动闸门（关））.svg",
+      "label": "关",
+      "fileName": "Motorized flow gate (closed)（电动闸门（关））.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Motorized flow gate (open)（电动流量闸门（关））.svg",
+      "label": "关",
+      "fileName": "Motorized flow gate (open)（电动流量闸门（关））.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Oil skimmer（撇油器）.svg",
+      "label": "撇油器",
+      "fileName": "Oil skimmer（撇油器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Oil-water separator 1（油水分离器）.svg",
+      "label": "油水分离器",
+      "fileName": "Oil-water separator 1（油水分离器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Oil-water separator 2（油水分离器）.svg",
+      "label": "油水分离器",
+      "fileName": "Oil-water separator 2（油水分离器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Oily water separation and recycling system（油水分离回收系统）.svg",
+      "label": "油水分离回收系统",
+      "fileName": "Oily water separation and recycling system（油水分离回收系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Oxygen generator（氧气发生器）.svg",
+      "label": "氧气发生器",
+      "fileName": "Oxygen generator（氧气发生器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Paddle dryer（浆式干燥机）.svg",
+      "label": "浆式干燥机",
+      "fileName": "Paddle dryer（浆式干燥机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Plate clarifier（平板澄清池）.svg",
+      "label": "平板澄清池",
+      "fileName": "Plate clarifier（平板澄清池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Polymer injection system（聚合物注入系统）.svg",
+      "label": "聚合物注入系统",
+      "fileName": "Polymer injection system（聚合物注入系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Polymer mixing system（聚合式混合系统）.svg",
+      "label": "聚合式混合系统",
+      "fileName": "Polymer mixing system（聚合式混合系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Pond（池塘）.svg",
+      "label": "池塘",
+      "fileName": "Pond（池塘）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Pool（水池1）.svg",
+      "label": "水池",
+      "fileName": "Pool（水池1）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Pool（水池2）.svg",
+      "label": "水池",
+      "fileName": "Pool（水池2）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Pool（水池3）.svg",
+      "label": "水池",
+      "fileName": "Pool（水池3）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Pool（水池4）.svg",
+      "label": "水池",
+      "fileName": "Pool（水池4）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Pre-filter（前置过滤器）.svg",
+      "label": "前置过滤器",
+      "fileName": "Pre-filter（前置过滤器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Precision Filter（精密过滤器）.svg",
+      "label": "精密过滤器",
+      "fileName": "Precision Filter（精密过滤器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Primary clarifier（初沉池）.svg",
+      "label": "初沉池",
+      "fileName": "Primary clarifier（初沉池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Reservoir（水库）.svg",
+      "label": "水库",
+      "fileName": "Reservoir（水库）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Rotary drum thickener（转鼓浓缩机）.svg",
+      "label": "转鼓浓缩机",
+      "fileName": "Rotary drum thickener（转鼓浓缩机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Screen（屏幕）.svg",
+      "label": "屏幕",
+      "fileName": "Screen（屏幕）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Screw drive（螺丝传动）.svg",
+      "label": "螺丝传动",
+      "fileName": "Screw drive（螺丝传动）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Scrubber module(洗涤器模块).svg",
+      "label": "洗涤器模块",
+      "fileName": "Scrubber module(洗涤器模块).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Sedimentation Basin（沉淀池）.svg",
+      "label": "沉淀池",
+      "fileName": "Sedimentation Basin（沉淀池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Settling tank（沉淀池）.svg",
+      "label": "沉淀池",
+      "fileName": "Settling tank（沉淀池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Shower head（淋浴喷头）.svg",
+      "label": "淋浴喷头",
+      "fileName": "Shower head（淋浴喷头）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Simple elevated tank（简易高架水箱）.svg",
+      "label": "简易高架水箱",
+      "fileName": "Simple elevated tank（简易高架水箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Simple evaporator（简易蒸发器）.svg",
+      "label": "简易蒸发器",
+      "fileName": "Simple evaporator（简易蒸发器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Simple filter 2（简易过滤器） (2).svg",
+      "label": "简易过滤器",
+      "fileName": "Simple filter 2（简易过滤器） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Simple filter 2（简易过滤器）.svg",
+      "label": "简易过滤器",
+      "fileName": "Simple filter 2（简易过滤器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Sludge lagoon（污泥池）.svg",
+      "label": "污泥池",
+      "fileName": "Sludge lagoon（污泥池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Sludge thickener（污泥浓缩池）.svg",
+      "label": "污泥浓缩池",
+      "fileName": "Sludge thickener（污泥浓缩池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Spherical storage tank 1(球罐) (2).svg",
+      "label": "球罐",
+      "fileName": "Spherical storage tank 1(球罐) (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Spherical storage tank 1(球罐).svg",
+      "label": "球罐",
+      "fileName": "Spherical storage tank 1(球罐).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Spherical storage tank 1（球罐）.svg",
+      "label": "球罐",
+      "fileName": "Spherical storage tank 1（球罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Spigot（龙头）.svg",
+      "label": "龙头",
+      "fileName": "Spigot（龙头）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Submersible mixer（潜水搅拌机）.svg",
+      "label": "潜水搅拌机",
+      "fileName": "Submersible mixer（潜水搅拌机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Treatment basin（处理池）.svg",
+      "label": "处理池",
+      "fileName": "Treatment basin（处理池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Treatment tanks（处理槽）.svg",
+      "label": "处理槽",
+      "fileName": "Treatment tanks（处理槽）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Vacuum filter聚合物混合系统.svg",
+      "label": "聚合物混合系统",
+      "fileName": "Vacuum filter聚合物混合系统.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Wash water treatment and recovery syste（洗涤水处理和回收系统）.svg",
+      "label": "洗涤水处理和回收系统",
+      "fileName": "Wash water treatment and recovery syste（洗涤水处理和回收系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Wastewater evaporator（废水蒸发器）.svg",
+      "label": "废水蒸发器",
+      "fileName": "Wastewater evaporator（废水蒸发器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Wastewater grinder（废水粉碎机）.svg",
+      "label": "废水粉碎机",
+      "fileName": "Wastewater grinder（废水粉碎机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Wastewater tank（废水池）.svg",
+      "label": "废水池",
+      "fileName": "Wastewater tank（废水池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Water channel（水槽）.svg",
+      "label": "水槽",
+      "fileName": "Water channel（水槽）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Water filter（滤水器）.svg",
+      "label": "滤水器",
+      "fileName": "Water filter（滤水器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Water purifier(滤水器).svg",
+      "label": "滤水器",
+      "fileName": "Water purifier(滤水器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Water treatment basins (top view)（水处理池（俯视图））.svg",
+      "label": "俯视图",
+      "fileName": "Water treatment basins (top view)（水处理池（俯视图））.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Water treatment plant（水处理厂）.svg",
+      "label": "水处理厂",
+      "fileName": "Water treatment plant（水处理厂）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Water treatment storage（水处理储存）.svg",
+      "label": "水处理储存",
+      "fileName": "Water treatment storage（水处理储存）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Water treatment system（水处理系统）.svg",
+      "label": "水处理系统",
+      "fileName": "Water treatment system（水处理系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-waste water treatment(废水处理)/Wet dust collector（湿式除尘器）.svg",
+      "label": "湿式除尘器",
+      "fileName": "Wet dust collector（湿式除尘器）.svg"
+    }
+  ]
+}

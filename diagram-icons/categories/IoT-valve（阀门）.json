@@ -1,0 +1,105 @@
+{
+  "name": "IoT-valve（阀门）",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Ball valve （球形阀）.svg",
+      "label": "球形阀",
+      "fileName": "Ball valve （球形阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Blue control valve with no flange（法兰控制阀）.svg",
+      "label": "法兰控制阀",
+      "fileName": "Blue control valve with no flange（法兰控制阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Check valve - horizontal（水平单向阀）.svg",
+      "label": "水平单向阀",
+      "fileName": "Check valve - horizontal（水平单向阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Check valve - Vertical（垂直单向阀）.svg",
+      "label": "垂直单向阀",
+      "fileName": "Check valve - Vertical（垂直单向阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Control value（控制阀）.svg",
+      "label": "控制阀",
+      "fileName": "Control value（控制阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Control valve - horizontal（水平控制阀） (2).svg",
+      "label": "水平控制阀",
+      "fileName": "Control valve - horizontal（水平控制阀） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Control valve - horizontal（水平控制阀） (3).svg",
+      "label": "水平控制阀",
+      "fileName": "Control valve - horizontal（水平控制阀） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Control valve - horizontal（水平控制阀）.svg",
+      "label": "水平控制阀",
+      "fileName": "Control valve - horizontal（水平控制阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Control valve - vertical（垂直控制阀）.svg",
+      "label": "垂直控制阀",
+      "fileName": "Control valve - vertical（垂直控制阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Control valve with gray fitting（灰色接头控制阀）.svg",
+      "label": "灰色接头控制阀",
+      "fileName": "Control valve with gray fitting（灰色接头控制阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Hand valve - vertical（垂直手动阀）.svg",
+      "label": "垂直手动阀",
+      "fileName": "Hand valve - vertical（垂直手动阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Hand valve （手动阀） (2).svg",
+      "label": "手动阀",
+      "fileName": "Hand valve （手动阀） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Hand valve （手动阀） (3).svg",
+      "label": "手动阀",
+      "fileName": "Hand valve （手动阀） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Hand valve （手动阀）.svg",
+      "label": "手动阀",
+      "fileName": "Hand valve （手动阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Motor valve(电动阀).svg",
+      "label": "电动阀",
+      "fileName": "Motor valve(电动阀).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Pinch valve（夹管阀）.svg",
+      "label": "夹管阀",
+      "fileName": "Pinch valve（夹管阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/PVC two-way ball valve（双通阀）.svg",
+      "label": "双通阀",
+      "fileName": "PVC two-way ball valve（双通阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Rotary valve（旋转阀） (2).svg",
+      "label": "旋转阀",
+      "fileName": "Rotary valve（旋转阀） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Rotary valve（旋转阀）.svg",
+      "label": "旋转阀",
+      "fileName": "Rotary valve（旋转阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve（阀门）/Safety valve（安全阀）.svg",
+      "label": "安全阀",
+      "fileName": "Safety valve（安全阀）.svg"
+    }
+  ]
+}

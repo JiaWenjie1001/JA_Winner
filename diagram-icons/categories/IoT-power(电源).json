@@ -1,0 +1,295 @@
+{
+  "name": "IoT-power(电源)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-power(电源)/3-phase switching enclosure(三相开关柜).svg",
+      "label": "三相开关柜",
+      "fileName": "3-phase switching enclosure(三相开关柜).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/AC drive交流传动) (2).svg",
+      "label": "交流传动",
+      "fileName": "AC drive交流传动) (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/AC drive交流传动).svg",
+      "label": "交流传动",
+      "fileName": "AC drive交流传动).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Biogas power generation（沼气发电）.svg",
+      "label": "沼气发电",
+      "fileName": "Biogas power generation（沼气发电）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Bushing（衬套）.svg",
+      "label": "衬套",
+      "fileName": "Bushing（衬套）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Car battery（汽车蓄电池）.svg",
+      "label": "汽车蓄电池",
+      "fileName": "Car battery（汽车蓄电池）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Circuit breaker（断路器）.svg",
+      "label": "断路器",
+      "fileName": "Circuit breaker（断路器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Cogeneration Unit（热电联产机组）.svg",
+      "label": "热电联产机组",
+      "fileName": "Cogeneration Unit（热电联产机组）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Combustion turbine（燃烧式涡轮机）.svg",
+      "label": "燃烧式涡轮机",
+      "fileName": "Combustion turbine（燃烧式涡轮机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Concentrated Solar plants 1（聚光太阳能发电厂）.svg",
+      "label": "聚光太阳能发电厂",
+      "fileName": "Concentrated Solar plants 1（聚光太阳能发电厂）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Concentrated Solar plants 2（集中太阳能发电厂2）.svg",
+      "label": "集中太阳能发电厂",
+      "fileName": "Concentrated Solar plants 2（集中太阳能发电厂2）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Control system（控制系统）.svg",
+      "label": "控制系统",
+      "fileName": "Control system（控制系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/DC power supply（直流电源）.svg",
+      "label": "直流电源",
+      "fileName": "DC power supply（直流电源）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Diesel backed UPS system（柴油备用系统）.svg",
+      "label": "柴油备用系统",
+      "fileName": "Diesel backed UPS system（柴油备用系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Diesel generator（柴油发电机）.svg",
+      "label": "柴油发电机",
+      "fileName": "Diesel generator（柴油发电机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Dynamo（发电机）.svg",
+      "label": "发电机",
+      "fileName": "Dynamo（发电机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Electrolyzer（电解槽）.svg",
+      "label": "电解槽",
+      "fileName": "Electrolyzer（电解槽）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Generator（发电机）.svg",
+      "label": "发电机",
+      "fileName": "Generator（发电机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Industrial wind generators 1（工业风力发电机1）.svg",
+      "label": "工业风力发电机",
+      "fileName": "Industrial wind generators 1（工业风力发电机1）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Industrial wind generators 2（工业风力发电机2）.svg",
+      "label": "工业风力发电机",
+      "fileName": "Industrial wind generators 2（工业风力发电机2）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Industrial wind generators 3（工业风力发电机3）.svg",
+      "label": "工业风力发电机",
+      "fileName": "Industrial wind generators 3（工业风力发电机3）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Insulator（绝缘体）.svg",
+      "label": "绝缘体",
+      "fileName": "Insulator（绝缘体）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Meter gauge（仪表）.svg",
+      "label": "仪表",
+      "fileName": "Meter gauge（仪表）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Meter（仪表）.svg",
+      "label": "仪表",
+      "fileName": "Meter（仪表）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Nuclear power plant（核电站）.svg",
+      "label": "核电站",
+      "fileName": "Nuclear power plant（核电站）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Nuclear reactors（核反应堆）.svg",
+      "label": "核反应堆",
+      "fileName": "Nuclear reactors（核反应堆）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Pad-mounted gear（垫装式齿轮）.svg",
+      "label": "垫装式齿轮",
+      "fileName": "Pad-mounted gear（垫装式齿轮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Pedestal(底座).svg",
+      "label": "底座",
+      "fileName": "Pedestal(底座).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Porcelain insulator（瓷绝缘子）.svg",
+      "label": "瓷绝缘子",
+      "fileName": "Porcelain insulator（瓷绝缘子）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Power monitor（电源监视器）.svg",
+      "label": "电源监视器",
+      "fileName": "Power monitor（电源监视器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Power plant（发电厂）.svg",
+      "label": "发电厂",
+      "fileName": "Power plant（发电厂）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Recloser（重合闸）.svg",
+      "label": "重合闸",
+      "fileName": "Recloser（重合闸）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Rectifier 1（整流器）.svg",
+      "label": "整流器",
+      "fileName": "Rectifier 1（整流器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Rectifier 2（整流器）.svg",
+      "label": "整流器",
+      "fileName": "Rectifier 2（整流器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/SCR assembly（scr组件）.svg",
+      "label": "组件",
+      "fileName": "SCR assembly（scr组件）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Simple motor drive（简单电机驱动）.svg",
+      "label": "简单电机驱动",
+      "fileName": "Simple motor drive（简单电机驱动）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Simple power panel（简易电源板）.svg",
+      "label": "简易电源板",
+      "fileName": "Simple power panel（简易电源板）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Simple recloser（简单重合闸）.svg",
+      "label": "简单重合闸",
+      "fileName": "Simple recloser（简单重合闸）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Simple substation（简易变电站）.svg",
+      "label": "简易变电站",
+      "fileName": "Simple substation（简易变电站）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Socket（插座）.svg",
+      "label": "插座",
+      "fileName": "Socket（插座）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Splice box（接线盒）.svg",
+      "label": "接线盒",
+      "fileName": "Splice box（接线盒）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Starter（启动装置）.svg",
+      "label": "启动装置",
+      "fileName": "Starter（启动装置）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Surge arrestor（电涌放电器）.svg",
+      "label": "电涌放电器",
+      "fileName": "Surge arrestor（电涌放电器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Temperature Measurement Resistor（测温电阻器）.svg",
+      "label": "测温电阻器",
+      "fileName": "Temperature Measurement Resistor（测温电阻器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Transformer component（变压器元件）.svg",
+      "label": "变压器元件",
+      "fileName": "Transformer component（变压器元件）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Transformer monitor（监视变压器）.svg",
+      "label": "监视变压器",
+      "fileName": "Transformer monitor（监视变压器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Transformer（变压器）.svg",
+      "label": "变压器",
+      "fileName": "Transformer（变压器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Transmission tower（输电塔）.svg",
+      "label": "输电塔",
+      "fileName": "Transmission tower（输电塔）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Uninterruptable power supply（不间断电源）.svg",
+      "label": "不间断电源",
+      "fileName": "Uninterruptable power supply（不间断电源）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Utility pole 1（电线杆1）.svg",
+      "label": "电线杆",
+      "fileName": "Utility pole 1（电线杆1）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Utility pole 2（电线杆2）.svg",
+      "label": "电线杆",
+      "fileName": "Utility pole 2（电线杆2）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Utility pole 3（电线杆3）.svg",
+      "label": "电线杆",
+      "fileName": "Utility pole 3（电线杆3）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Utility pole 4（电线杆4）.svg",
+      "label": "电线杆",
+      "fileName": "Utility pole 4（电线杆4）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Utility pole 5（电线杆5）.svg",
+      "label": "电线杆",
+      "fileName": "Utility pole 5（电线杆5）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Utility pole with cables（带电缆的电线杆）.svg",
+      "label": "带电缆的电线杆",
+      "fileName": "Utility pole with cables（带电缆的电线杆）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Utility pole with two sets of cables（带两组电缆的电线杆）.svg",
+      "label": "带两组电缆的电线杆",
+      "fileName": "Utility pole with two sets of cables（带两组电缆的电线杆）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Vacuum switch（真空开关）.svg",
+      "label": "真空开关",
+      "fileName": "Vacuum switch（真空开关）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-power(电源)/Variable-speed drive（变速驱动）.svg",
+      "label": "变速驱动",
+      "fileName": "Variable-speed drive（变速驱动）.svg"
+    }
+  ]
+}

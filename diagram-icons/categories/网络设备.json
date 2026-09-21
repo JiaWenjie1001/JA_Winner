@@ -1,0 +1,410 @@
+{
+  "name": "网络设备",
+  "icons": [
+    {
+      "path": "/diagram-icons/网络设备/10700.svg",
+      "label": "10700",
+      "fileName": "10700.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Antenna.svg",
+      "label": "Antenna",
+      "fileName": "Antenna.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/ATM Router.svg",
+      "label": "ATM Router",
+      "fileName": "ATM Router.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Biometric Reader.svg",
+      "label": "Biometric Reader",
+      "fileName": "Biometric Reader.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Business Center.svg",
+      "label": "Business Center",
+      "fileName": "Business Center.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Cloud.svg",
+      "label": "Cloud",
+      "fileName": "Cloud.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Comm Link.svg",
+      "label": "Comm Link",
+      "fileName": "Comm Link.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Community.svg",
+      "label": "Community",
+      "fileName": "Community.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Copier.svg",
+      "label": "Copier",
+      "fileName": "Copier.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Desktop PC.svg",
+      "label": "Desktop PC",
+      "fileName": "Desktop PC.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/DVR.svg",
+      "label": "DVR",
+      "fileName": "DVR.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/External Storage.svg",
+      "label": "External Storage",
+      "fileName": "External Storage.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Firewall.svg",
+      "label": "Firewall",
+      "fileName": "Firewall.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Gamepad.svg",
+      "label": "Gamepad",
+      "fileName": "Gamepad.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Ground Terminal.svg",
+      "label": "Ground Terminal",
+      "fileName": "Ground Terminal.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Hub.svg",
+      "label": "Hub",
+      "fileName": "Hub.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/IAD Router.svg",
+      "label": "IAD Router",
+      "fileName": "IAD Router.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/ISCI Router.svg",
+      "label": "ISCI Router",
+      "fileName": "ISCI Router.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Laptop.svg",
+      "label": "Laptop",
+      "fileName": "Laptop.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Load Balancer.svg",
+      "label": "Load Balancer",
+      "fileName": "Load Balancer.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Mail Server.svg",
+      "label": "Mail Server",
+      "fileName": "Mail Server.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Mainframe.svg",
+      "label": "Mainframe",
+      "fileName": "Mainframe.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Mobile.svg",
+      "label": "Mobile",
+      "fileName": "Mobile.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Modem.svg",
+      "label": "Modem",
+      "fileName": "Modem.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Monitor.svg",
+      "label": "Monitor",
+      "fileName": "Monitor.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/NAS Filer.svg",
+      "label": "NAS Filer",
+      "fileName": "NAS Filer.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/NCE Router.svg",
+      "label": "NCE Router",
+      "fileName": "NCE Router.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Netflow Router.svg",
+      "label": "Netflow Router",
+      "fileName": "Netflow Router.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Optical Services Router.svg",
+      "label": "Optical Services Router",
+      "fileName": "Optical Services Router.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Patch Panel.svg",
+      "label": "Patch Panel",
+      "fileName": "Patch Panel.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/PC.svg",
+      "label": "PC",
+      "fileName": "PC.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Phone 1.svg",
+      "label": "Phone 1",
+      "fileName": "Phone 1.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Phone 2.svg",
+      "label": "Phone 2",
+      "fileName": "Phone 2.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Printer.svg",
+      "label": "Printer",
+      "fileName": "Printer.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Proxy Server.svg",
+      "label": "Proxy Server",
+      "fileName": "Proxy Server.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Rack.svg",
+      "label": "Rack",
+      "fileName": "Rack.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Radio Tower.svg",
+      "label": "Radio Tower",
+      "fileName": "Radio Tower.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Radio Tower2.svg",
+      "label": "Radio Tower2",
+      "fileName": "Radio Tower2.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Router In Building.svg",
+      "label": "Router In Building",
+      "fileName": "Router In Building.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Router With Silicon Switch.svg",
+      "label": "Router With Silicon Switch",
+      "fileName": "Router With Silicon Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Router.svg",
+      "label": "Router",
+      "fileName": "Router.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Router2.svg",
+      "label": "Router2",
+      "fileName": "Router2.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Satellite Dish.svg",
+      "label": "Satellite Dish",
+      "fileName": "Satellite Dish.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Satellite Dish2.svg",
+      "label": "Satellite Dish2",
+      "fileName": "Satellite Dish2.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Satellite.svg",
+      "label": "Satellite",
+      "fileName": "Satellite.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Satellite2.svg",
+      "label": "Satellite2",
+      "fileName": "Satellite2.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Scanner.svg",
+      "label": "Scanner",
+      "fileName": "Scanner.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Secured.svg",
+      "label": "Secured",
+      "fileName": "Secured.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Security Camera.svg",
+      "label": "Security Camera",
+      "fileName": "Security Camera.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Server Storage.svg",
+      "label": "Server Storage",
+      "fileName": "Server Storage.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Server.svg",
+      "label": "Server",
+      "fileName": "Server.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Storage Router.svg",
+      "label": "Storage Router",
+      "fileName": "Storage Router.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Storage.svg",
+      "label": "Storage",
+      "fileName": "Storage.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Supercomputer.svg",
+      "label": "Supercomputer",
+      "fileName": "Supercomputer.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Switch.svg",
+      "label": "Switch",
+      "fileName": "Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Tablet.svg",
+      "label": "Tablet",
+      "fileName": "Tablet.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Tape Storage.svg",
+      "label": "Tape Storage",
+      "fileName": "Tape Storage.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/TDM Router.svg",
+      "label": "TDM Router",
+      "fileName": "TDM Router.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Terminal.svg",
+      "label": "Terminal",
+      "fileName": "Terminal.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Unsecure.svg",
+      "label": "Unsecure",
+      "fileName": "Unsecure.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/UPS Enterprise.svg",
+      "label": "UPS Enterprise",
+      "fileName": "UPS Enterprise.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/UPS Small.svg",
+      "label": "UPS Small",
+      "fileName": "UPS Small.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/USB Stick.svg",
+      "label": "USB Stick",
+      "fileName": "USB Stick.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/User Female.svg",
+      "label": "User Female",
+      "fileName": "User Female.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/User Male.svg",
+      "label": "User Male",
+      "fileName": "User Male.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Users.svg",
+      "label": "Users",
+      "fileName": "Users.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Video Projector Screen.svg",
+      "label": "Video Projector Screen",
+      "fileName": "Video Projector Screen.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Video Projector.svg",
+      "label": "Video Projector",
+      "fileName": "Video Projector.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Virtual PC.svg",
+      "label": "Virtual PC",
+      "fileName": "Virtual PC.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Virtual Server.svg",
+      "label": "Virtual Server",
+      "fileName": "Virtual Server.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Voice Router.svg",
+      "label": "Voice Router",
+      "fileName": "Voice Router.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Wavelength Router.svg",
+      "label": "Wavelength Router",
+      "fileName": "Wavelength Router.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Web Server.svg",
+      "label": "Web Server",
+      "fileName": "Web Server.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Wi-Fi Tag.svg",
+      "label": "Wi-Fi Tag",
+      "fileName": "Wi-Fi Tag.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Wireless Bridge.svg",
+      "label": "Wireless Bridge",
+      "fileName": "Wireless Bridge.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Wireless Hub.svg",
+      "label": "Wireless Hub",
+      "fileName": "Wireless Hub.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Wireless Location Appliance.svg",
+      "label": "Wireless Location Appliance",
+      "fileName": "Wireless Location Appliance.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Wireless Modem.svg",
+      "label": "Wireless Modem",
+      "fileName": "Wireless Modem.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Wireless Transport.svg",
+      "label": "Wireless Transport",
+      "fileName": "Wireless Transport.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/Wireless.svg",
+      "label": "Wireless",
+      "fileName": "Wireless.svg"
+    },
+    {
+      "path": "/diagram-icons/网络设备/WLAN Controller.svg",
+      "label": "WLAN Controller",
+      "fileName": "WLAN Controller.svg"
+    }
+  ]
+}

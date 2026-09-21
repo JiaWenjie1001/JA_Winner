@@ -1,0 +1,30 @@
+{
+  "name": "仪表",
+  "icons": [
+    {
+      "path": "/diagram-icons/仪表/Ampermeter.svg",
+      "label": "Ampermeter",
+      "fileName": "Ampermeter.svg"
+    },
+    {
+      "path": "/diagram-icons/仪表/Galvanometer.svg",
+      "label": "Galvanometer",
+      "fileName": "Galvanometer.svg"
+    },
+    {
+      "path": "/diagram-icons/仪表/Oscilloscope.svg",
+      "label": "Oscilloscope",
+      "fileName": "Oscilloscope.svg"
+    },
+    {
+      "path": "/diagram-icons/仪表/Signal Generator.svg",
+      "label": "Signal Generator",
+      "fileName": "Signal Generator.svg"
+    },
+    {
+      "path": "/diagram-icons/仪表/Voltmeter.svg",
+      "label": "Voltmeter",
+      "fileName": "Voltmeter.svg"
+    }
+  ]
+}

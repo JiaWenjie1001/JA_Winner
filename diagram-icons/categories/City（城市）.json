@@ -1,0 +1,110 @@
+{
+  "name": "City（城市）",
+  "icons": [
+    {
+      "path": "/diagram-icons/City（城市）/Hospital（医院）.svg",
+      "label": "医院",
+      "fileName": "Hospital（医院）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Hotel(酒店).svg",
+      "label": "酒店",
+      "fileName": "Hotel(酒店).svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Large building 2（大厦2）.svg",
+      "label": "大厦",
+      "fileName": "Large building 2（大厦2）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Large building 3（大厦3）.svg",
+      "label": "大厦",
+      "fileName": "Large building 3（大厦3）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Large building 4（大厦4）.svg",
+      "label": "大厦",
+      "fileName": "Large building 4（大厦4）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Large building1（大厦1）.svg",
+      "label": "大厦",
+      "fileName": "Large building1（大厦1）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Residential building 1（住宅楼1）.svg",
+      "label": "住宅楼",
+      "fileName": "Residential building 1（住宅楼1）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Residential building 2（住宅楼2）.svg",
+      "label": "住宅楼",
+      "fileName": "Residential building 2（住宅楼2）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/School (学校).svg",
+      "label": "学校",
+      "fileName": "School (学校).svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Shopping mall（商场）.svg",
+      "label": "商场",
+      "fileName": "Shopping mall（商场）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Storage tank 1（储油罐1）.svg",
+      "label": "储油罐",
+      "fileName": "Storage tank 1（储油罐1）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Storage tank 2（储油罐2）.svg",
+      "label": "储油罐",
+      "fileName": "Storage tank 2（储油罐2）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Storage tank 3（储油罐3）.svg",
+      "label": "储油罐",
+      "fileName": "Storage tank 3（储油罐3）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Text box 2（文本框）.svg",
+      "label": "文本框",
+      "fileName": "Text box 2（文本框）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Text box 3（文本框）.svg",
+      "label": "文本框",
+      "fileName": "Text box 3（文本框）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Text box（文本框）.svg",
+      "label": "文本框",
+      "fileName": "Text box（文本框）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Tower（塔楼）.svg",
+      "label": "塔楼",
+      "fileName": "Tower（塔楼）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Truck（卡车）.svg",
+      "label": "卡车",
+      "fileName": "Truck（卡车）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Windmills（风车）.svg",
+      "label": "风车",
+      "fileName": "Windmills（风车）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Workshop 1（厂房1）.svg",
+      "label": "厂房",
+      "fileName": "Workshop 1（厂房1）.svg"
+    },
+    {
+      "path": "/diagram-icons/City（城市）/Workshop 2（厂房2）.svg",
+      "label": "厂房",
+      "fileName": "Workshop 2（厂房2）.svg"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "name": "IoT-SAFETY(安全)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Barricade (路障) (0).svg",
+      "label": "路障",
+      "fileName": "Barricade (路障) (0).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Barricade (路障).svg",
+      "label": "路障",
+      "fileName": "Barricade (路障).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Do not enter sign（禁止进入标志）.svg",
+      "label": "禁止进入标志",
+      "fileName": "Do not enter sign（禁止进入标志）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Lockout tag background（锁定标签背景）.svg",
+      "label": "锁定标签背景",
+      "fileName": "Lockout tag background（锁定标签背景）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Lockout tag（锁定标签）.svg",
+      "label": "锁定标签",
+      "fileName": "Lockout tag（锁定标签）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Long-haired freaky people need not apply.svg",
+      "label": "Long-haired freaky people need not apply",
+      "fileName": "Long-haired freaky people need not apply.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Orange diamond caution sign(橙色菱形警告标志).svg",
+      "label": "橙色菱形警告标志",
+      "fileName": "Orange diamond caution sign(橙色菱形警告标志).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Orange pylon（橙色塔架）.svg",
+      "label": "橙色塔架",
+      "fileName": "Orange pylon（橙色塔架）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/OSHA tape （oasa胶带） (2).svg",
+      "label": "胶带",
+      "fileName": "OSHA tape （oasa胶带） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/OSHA tape （oasa胶带） (3).svg",
+      "label": "胶带",
+      "fileName": "OSHA tape （oasa胶带） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/OSHA tape （oasa胶带） (4).svg",
+      "label": "胶带",
+      "fileName": "OSHA tape （oasa胶带） (4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/OSHA tape （oasa胶带） (5).svg",
+      "label": "胶带",
+      "fileName": "OSHA tape （oasa胶带） (5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/OSHA tape （oasa胶带） (6).svg",
+      "label": "胶带",
+      "fileName": "OSHA tape （oasa胶带） (6).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/OSHA tape （oasa胶带） (7).svg",
+      "label": "胶带",
+      "fileName": "OSHA tape （oasa胶带） (7).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/OSHA tape （oasa胶带）.svg",
+      "label": "胶带",
+      "fileName": "OSHA tape （oasa胶带）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Small caution sign（小型警示标志）.svg",
+      "label": "小型警示标志",
+      "fileName": "Small caution sign（小型警示标志）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Small danger sign(小型危险标志).svg",
+      "label": "小型危险标志",
+      "fileName": "Small danger sign(小型危险标志).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Small warning sign（小型警告标志）.svg",
+      "label": "小型警告标志",
+      "fileName": "Small warning sign（小型警告标志）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Stop sign（停车标志）.svg",
+      "label": "停车标志",
+      "fileName": "Stop sign（停车标志）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/White danger sign（白色危险标志）.svg",
+      "label": "白色危险标志",
+      "fileName": "White danger sign（白色危险标志）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/White floor stand sign（白色地面看台标志）.svg",
+      "label": "白色地面看台标志",
+      "fileName": "White floor stand sign（白色地面看台标志）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Yellow caution sign（黄色警告标志）.svg",
+      "label": "黄色警告标志",
+      "fileName": "Yellow caution sign（黄色警告标志）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Yellow diamond caution sign（黄色菱形警告标志）.svg",
+      "label": "黄色菱形警告标志",
+      "fileName": "Yellow diamond caution sign（黄色菱形警告标志）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Yellow floor stand sign（黄色楼层标志）.svg",
+      "label": "黄色楼层标志",
+      "fileName": "Yellow floor stand sign（黄色楼层标志）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Yellow pylon（黄塔）.svg",
+      "label": "黄塔",
+      "fileName": "Yellow pylon（黄塔）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Yield sign（让路标志） (2).svg",
+      "label": "让路标志",
+      "fileName": "Yield sign（让路标志） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-SAFETY(安全)/Yield sign（让路标志）.svg",
+      "label": "让路标志",
+      "fileName": "Yield sign（让路标志）.svg"
+    }
+  ]
+}

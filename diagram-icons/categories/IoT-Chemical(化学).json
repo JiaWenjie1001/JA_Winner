@@ -1,0 +1,185 @@
+{
+  "name": "IoT-Chemical(化学)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Air scrubber(空气洗涤器).svg",
+      "label": "空气洗涤器",
+      "fileName": "Air scrubber(空气洗涤器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Air stripper 1(汽提塔1).svg",
+      "label": "汽提塔",
+      "fileName": "Air stripper 1(汽提塔1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Air stripper 2(汽提塔2).svg",
+      "label": "汽提塔",
+      "fileName": "Air stripper 2(汽提塔2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Burn tower(燃烧塔).svg",
+      "label": "燃烧塔",
+      "fileName": "Burn tower(燃烧塔).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Chemical processing tower(化学处理塔).svg",
+      "label": "化学处理塔",
+      "fileName": "Chemical processing tower(化学处理塔).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Crystallizer(结晶器).svg",
+      "label": "结晶器",
+      "fileName": "Crystallizer(结晶器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Diegster1(沼气池1).svg",
+      "label": "沼气池",
+      "fileName": "Diegster1(沼气池1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Diegster2(沼气池2).svg",
+      "label": "沼气池",
+      "fileName": "Diegster2(沼气池2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Diegster3(沼气池3).svg",
+      "label": "沼气池",
+      "fileName": "Diegster3(沼气池3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Diegster4(沼气池4).svg",
+      "label": "沼气池",
+      "fileName": "Diegster4(沼气池4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Distillation column 1(蒸馏塔1).svg",
+      "label": "蒸馏塔",
+      "fileName": "Distillation column 1(蒸馏塔1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Distillation column 2(蒸馏塔2).svg",
+      "label": "蒸馏塔",
+      "fileName": "Distillation column 2(蒸馏塔2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Dryer tower(干燥塔).svg",
+      "label": "干燥塔",
+      "fileName": "Dryer tower(干燥塔).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Dryer unit(干燥装置).svg",
+      "label": "干燥装置",
+      "fileName": "Dryer unit(干燥装置).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Evaporation process(蒸发过程).svg",
+      "label": "蒸发过程",
+      "fileName": "Evaporation process(蒸发过程).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Evaporator 1(蒸发器1).svg",
+      "label": "蒸发器",
+      "fileName": "Evaporator 1(蒸发器1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Evaporator 2(蒸发器2).svg",
+      "label": "蒸发器",
+      "fileName": "Evaporator 2(蒸发器2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Evaporator 3(蒸发器3).svg",
+      "label": "蒸发器",
+      "fileName": "Evaporator 3(蒸发器3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/filter system(过滤系统).svg",
+      "label": "过滤系统",
+      "fileName": "filter system(过滤系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Filter(过滤器).svg",
+      "label": "过滤器",
+      "fileName": "Filter(过滤器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Fractionator(分馏塔).svg",
+      "label": "分馏塔",
+      "fileName": "Fractionator(分馏塔).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Gas and liquid separator(气液分离器).svg",
+      "label": "气液分离器",
+      "fileName": "Gas and liquid separator(气液分离器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Gas processor(气体处理器).svg",
+      "label": "气体处理器",
+      "fileName": "Gas processor(气体处理器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Heatled desiccant dryer(加热除湿干燥机).svg",
+      "label": "加热除湿干燥机",
+      "fileName": "Heatled desiccant dryer(加热除湿干燥机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Heatless desiccant dryer(除湿干燥机).svg",
+      "label": "除湿干燥机",
+      "fileName": "Heatless desiccant dryer(除湿干燥机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Process column 1(工艺塔1).svg",
+      "label": "工艺塔",
+      "fileName": "Process column 1(工艺塔1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Process column 2(工艺塔2).svg",
+      "label": "工艺塔",
+      "fileName": "Process column 2(工艺塔2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Process column 3(工艺塔3).svg",
+      "label": "工艺塔",
+      "fileName": "Process column 3(工艺塔3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Process column 4(工艺塔4).svg",
+      "label": "工艺塔",
+      "fileName": "Process column 4(工艺塔4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Process column 5(工艺塔5).svg",
+      "label": "工艺塔",
+      "fileName": "Process column 5(工艺塔5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Refinery tower(炼油塔).svg",
+      "label": "炼油塔",
+      "fileName": "Refinery tower(炼油塔).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Ribbon blender(带式搅拌机).svg",
+      "label": "带式搅拌机",
+      "fileName": "Ribbon blender(带式搅拌机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Stripper(分馏柱).svg",
+      "label": "分馏柱",
+      "fileName": "Stripper(分馏柱).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Thermal oxidzer(化学反应塔).svg",
+      "label": "化学反应塔",
+      "fileName": "Thermal oxidzer(化学反应塔).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Thermal processing tower(热处理塔).svg",
+      "label": "热处理塔",
+      "fileName": "Thermal processing tower(热处理塔).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Chemical(化学)/Two-stage chiller(两级冷却器).svg",
+      "label": "两级冷却器",
+      "fileName": "Two-stage chiller(两级冷却器).svg"
+    }
+  ]
+}

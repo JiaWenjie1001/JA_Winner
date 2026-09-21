@@ -1,0 +1,325 @@
+{
+  "name": "IoT-HVAC(暖通空调)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Actuator 1(驱动器1).svg",
+      "label": "驱动器",
+      "fileName": "Actuator 1(驱动器1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Actuator 2(驱动器2).svg",
+      "label": "驱动器",
+      "fileName": "Actuator 2(驱动器2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Air capture hood(空气捕捉罩).svg",
+      "label": "空气捕捉罩",
+      "fileName": "Air capture hood(空气捕捉罩).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Air cleaner(空气净化器).svg",
+      "label": "空气净化器",
+      "fileName": "Air cleaner(空气净化器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Air conditioner 1(空调1).svg",
+      "label": "空调",
+      "fileName": "Air conditioner 1(空调1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Air conditioner 2(空调2).svg",
+      "label": "空调",
+      "fileName": "Air conditioner 2(空调2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Air curtain(空气幕).svg",
+      "label": "空气幕",
+      "fileName": "Air curtain(空气幕).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Air handing unit 2(空调箱2).svg",
+      "label": "空调箱",
+      "fileName": "Air handing unit 2(空调箱2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Air handing unit 3(空调箱3).svg",
+      "label": "空调箱",
+      "fileName": "Air handing unit 3(空调箱3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Air handing unit 4(空调箱4).svg",
+      "label": "空调箱",
+      "fileName": "Air handing unit 4(空调箱4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Air handing unit1(空调箱1).svg",
+      "label": "空调箱",
+      "fileName": "Air handing unit1(空调箱1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Building chiller(建筑制冷机).svg",
+      "label": "建筑制冷机",
+      "fileName": "Building chiller(建筑制冷机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Camera(摄像头).svg",
+      "label": "摄像头",
+      "fileName": "Camera(摄像头).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Carbon filter(活性碳过滤器).svg",
+      "label": "活性碳过滤器",
+      "fileName": "Carbon filter(活性碳过滤器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Chilled water cooling coils(制冷冷却盘管).svg",
+      "label": "制冷冷却盘管",
+      "fileName": "Chilled water cooling coils(制冷冷却盘管).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Chiller system.svg",
+      "label": "Chiller system",
+      "fileName": "Chiller system.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Chiller(制冷机).svg",
+      "label": "制冷机",
+      "fileName": "Chiller(制冷机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Chiller-heater(冷温水机组).svg",
+      "label": "冷温水机组",
+      "fileName": "Chiller-heater(冷温水机组).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Commercial storage tank(商用储罐).svg",
+      "label": "商用储罐",
+      "fileName": "Commercial storage tank(商用储罐).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Condenser(冷凝旋管).svg",
+      "label": "冷凝旋管",
+      "fileName": "Condenser(冷凝旋管).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Contaminent barrier 1(污染物隔离1).svg",
+      "label": "污染物隔离",
+      "fileName": "Contaminent barrier 1(污染物隔离1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Contaminent barrier 2( 污染物隔离2).svg",
+      "label": "污染物隔离",
+      "fileName": "Contaminent barrier 2( 污染物隔离2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Deaerator 1(除氧器1).svg",
+      "label": "除氧器",
+      "fileName": "Deaerator 1(除氧器1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Deaerator 2(除氧器2).svg",
+      "label": "除氧器",
+      "fileName": "Deaerator 2(除氧器2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Dehumidfiier(除湿器).svg",
+      "label": "除湿器",
+      "fileName": "Dehumidfiier(除湿器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Diffuser(扩散器).svg",
+      "label": "扩散器",
+      "fileName": "Diffuser(扩散器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Dioxide concentration（co2浓度）.svg",
+      "label": "浓度",
+      "fileName": "Dioxide concentration（co2浓度）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Doube damper(双挡板).svg",
+      "label": "双挡板",
+      "fileName": "Doube damper(双挡板).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Electronic flowhood(电子流动罩).svg",
+      "label": "电子流动罩",
+      "fileName": "Electronic flowhood(电子流动罩).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Exhaust fan(排气扇).svg",
+      "label": "排气扇",
+      "fileName": "Exhaust fan(排气扇).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Expansion joint(伸缩缝).svg",
+      "label": "伸缩缝",
+      "fileName": "Expansion joint(伸缩缝).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Fan（风机）.svg",
+      "label": "风机",
+      "fileName": "Fan（风机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Freeze protection（防冻开关）.svg",
+      "label": "防冻开关",
+      "fileName": "Freeze protection（防冻开关）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Gas-electric well-mount(壁挂式气电).svg",
+      "label": "壁挂式气电",
+      "fileName": "Gas-electric well-mount(壁挂式气电).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Gas-fired infrared heater 1(燃气红外采暖1).svg",
+      "label": "燃气红外采暖",
+      "fileName": "Gas-fired infrared heater 1(燃气红外采暖1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Gas-fired infrared heater 2(燃气红外采暖2).svg",
+      "label": "燃气红外采暖",
+      "fileName": "Gas-fired infrared heater 2(燃气红外采暖2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Grilled heast exchanger(格栅热交换器).svg",
+      "label": "格栅热交换器",
+      "fileName": "Grilled heast exchanger(格栅热交换器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/HAVC unit(HAVC装置).svg",
+      "label": "装置",
+      "fileName": "HAVC unit(HAVC装置).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Heat pump(热泵).svg",
+      "label": "热泵",
+      "fileName": "Heat pump(热泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Heater damper(加热器挡板).svg",
+      "label": "加热器挡板",
+      "fileName": "Heater damper(加热器挡板).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/heating and cooling unit 1(加热和冷却装置1).svg",
+      "label": "加热和冷却装置",
+      "fileName": "heating and cooling unit 1(加热和冷却装置1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Heavy-duty water heater(重型热水器).svg",
+      "label": "重型热水器",
+      "fileName": "Heavy-duty water heater(重型热水器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/High-velocity exhaust system.svg",
+      "label": "High-velocity exhaust system",
+      "fileName": "High-velocity exhaust system.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Indirect fired industrial heater 1(间接加热工业加热器1).svg",
+      "label": "间接加热工业加热器",
+      "fileName": "Indirect fired industrial heater 1(间接加热工业加热器1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Portable air conditioner(便携式空调).svg",
+      "label": "便携式空调",
+      "fileName": "Portable air conditioner(便携式空调).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Pressurization unit(增压装置).svg",
+      "label": "增压装置",
+      "fileName": "Pressurization unit(增压装置).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Primary filter screen（初效滤网）.svg",
+      "label": "初效滤网",
+      "fileName": "Primary filter screen（初效滤网）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Radiator coil(加热盘管).svg",
+      "label": "加热盘管",
+      "fileName": "Radiator coil(加热盘管).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Return air grille（回风阀开度）.svg",
+      "label": "回风阀开度",
+      "fileName": "Return air grille（回风阀开度）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Roof vent(屋顶通风口).svg",
+      "label": "屋顶通风口",
+      "fileName": "Roof vent(屋顶通风口).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Rooftop air conditioner(屋顶空调).svg",
+      "label": "屋顶空调",
+      "fileName": "Rooftop air conditioner(屋顶空调).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Rooftop unit(屋顶机).svg",
+      "label": "屋顶机",
+      "fileName": "Rooftop unit(屋顶机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Round damper(圆形挡板).svg",
+      "label": "圆形挡板",
+      "fileName": "Round damper(圆形挡板).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Simple filter 1(简易滤波器1).svg",
+      "label": "简易滤波器",
+      "fileName": "Simple filter 1(简易滤波器1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Single damper(单挡板).svg",
+      "label": "单挡板",
+      "fileName": "Single damper(单挡板).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Thermal purge unit(热吹扫装置).svg",
+      "label": "热吹扫装置",
+      "fileName": "Thermal purge unit(热吹扫装置).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Thermo-hygrometer（温湿度计）.svg",
+      "label": "温湿度计",
+      "fileName": "Thermo-hygrometer（温湿度计）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Tripe damper with circular opening(圆孔三通挡板).svg",
+      "label": "圆孔三通挡板",
+      "fileName": "Tripe damper with circular opening(圆孔三通挡板).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Unit ventilator(单元通风机).svg",
+      "label": "单元通风机",
+      "fileName": "Unit ventilator(单元通风机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Vent hood(通风罩).svg",
+      "label": "通风罩",
+      "fileName": "Vent hood(通风罩).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Ventilation system(通风系统).svg",
+      "label": "通风系统",
+      "fileName": "Ventilation system(通风系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Ventilator(通风机).svg",
+      "label": "通风机",
+      "fileName": "Ventilator(通风机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Water heater(热水器).svg",
+      "label": "热水器",
+      "fileName": "Water heater(热水器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-HVAC(暖通空调)/Window air conditioner(窗式空调).svg",
+      "label": "窗式空调",
+      "fileName": "Window air conditioner(窗式空调).svg"
+    }
+  ]
+}

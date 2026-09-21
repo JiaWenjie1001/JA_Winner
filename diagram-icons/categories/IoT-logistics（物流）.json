@@ -1,0 +1,180 @@
+{
+  "name": "IoT-logistics（物流）",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/18-wheeler truck(18轮卡车).svg",
+      "label": "轮卡车",
+      "fileName": "18-wheeler truck(18轮卡车).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/A pouch pack（袋装）.svg",
+      "label": "袋装",
+      "fileName": "A pouch pack（袋装）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/airpiane(飞机).svg",
+      "label": "飞机",
+      "fileName": "airpiane(飞机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Belt conveyor (带式输送机).svg",
+      "label": "带式输送机",
+      "fileName": "Belt conveyor (带式输送机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/bicycle（自行车).svg",
+      "label": "自行车",
+      "fileName": "bicycle（自行车).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/boxcar（货车车厢）.svg",
+      "label": "货车车厢",
+      "fileName": "boxcar（货车车厢）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/car（汽车）.svg",
+      "label": "汽车",
+      "fileName": "car（汽车）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Coal(煤).svg",
+      "label": "煤",
+      "fileName": "Coal(煤).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Comprehensive Sorting System(综合分拣系统).svg",
+      "label": "综合分拣系统",
+      "fileName": "Comprehensive Sorting System(综合分拣系统).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Concrete mixing truck（混凝土搅拌机）.svg",
+      "label": "混凝土搅拌机",
+      "fileName": "Concrete mixing truck（混凝土搅拌机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Container car (集装箱车）.svg",
+      "label": "集装箱车",
+      "fileName": "Container car (集装箱车）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Conveyor(传送带).svg",
+      "label": "传送带",
+      "fileName": "Conveyor(传送带).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Digging machine（挖掘机）.svg",
+      "label": "挖掘机",
+      "fileName": "Digging machine（挖掘机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Dump truck (自卸汽车）.svg",
+      "label": "自卸汽车",
+      "fileName": "Dump truck (自卸汽车）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Dumpcart（垃圾车）.svg",
+      "label": "垃圾车",
+      "fileName": "Dumpcart（垃圾车）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Filtrate machine(滤水机).svg",
+      "label": "滤水机",
+      "fileName": "Filtrate machine(滤水机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Fresh yeast（新鲜酵母）.svg",
+      "label": "新鲜酵母",
+      "fileName": "Fresh yeast（新鲜酵母）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Gantry crane(龙门起重机).svg",
+      "label": "龙门起重机",
+      "fileName": "Gantry crane(龙门起重机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Hopper car(漏斗车).svg",
+      "label": "漏斗车",
+      "fileName": "Hopper car(漏斗车).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Lifter（升降机）.svg",
+      "label": "升降机",
+      "fileName": "Lifter（升降机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Locomotive（火车头）.svg",
+      "label": "火车头",
+      "fileName": "Locomotive（火车头）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Material（布料）.svg",
+      "label": "布料",
+      "fileName": "Material（布料）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Membrane module (膜组件).svg",
+      "label": "膜组件",
+      "fileName": "Membrane module (膜组件).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Mobile bulk scale（移动式散装秤）.svg",
+      "label": "移动式散装秤",
+      "fileName": "Mobile bulk scale（移动式散装秤）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Platform weighting(平台称重).svg",
+      "label": "平台称重",
+      "fileName": "Platform weighting(平台称重).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Port crane (港口起重机).svg",
+      "label": "港口起重机",
+      "fileName": "Port crane (港口起重机).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Port entrepot storage(港口转口仓库).svg",
+      "label": "港口转口仓库",
+      "fileName": "Port entrepot storage(港口转口仓库).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Precleaner(预滤器).svg",
+      "label": "预滤器",
+      "fileName": "Precleaner(预滤器).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Sandpile(沙堆).svg",
+      "label": "沙堆",
+      "fileName": "Sandpile(沙堆).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Scale hopper of the weighing sensor（称重传感器称斗）.svg",
+      "label": "称重传感器称斗",
+      "fileName": "Scale hopper of the weighing sensor（称重传感器称斗）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Standard 20-foot container（标准20英尺集装箱）.svg",
+      "label": "英尺集装箱",
+      "fileName": "Standard 20-foot container（标准20英尺集装箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Standard 40-foot container（标准40英尺集装箱）.svg",
+      "label": "英尺集装箱",
+      "fileName": "Standard 40-foot container（标准40英尺集装箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Tank container(罐式集装箱).svg",
+      "label": "罐式集装箱",
+      "fileName": "Tank container(罐式集装箱).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/tanker(油罐车).svg",
+      "label": "油罐车",
+      "fileName": "tanker(油罐车).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-logistics（物流）/Vibrating screen(振动筛).svg",
+      "label": "振动筛",
+      "fileName": "Vibrating screen(振动筛).svg"
+    }
+  ]
+}

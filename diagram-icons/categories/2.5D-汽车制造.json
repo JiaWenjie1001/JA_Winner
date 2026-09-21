@@ -1,0 +1,80 @@
+{
+  "name": "2.5D-汽车制造",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/升降台.svg",
+      "label": "升降台",
+      "fileName": "升降台.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/地面轨道1.svg",
+      "label": "地面轨道",
+      "fileName": "地面轨道1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/地面轨道2.svg",
+      "label": "地面轨道",
+      "fileName": "地面轨道2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/整车.svg",
+      "label": "整车",
+      "fileName": "整车.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/机器人控制柜.svg",
+      "label": "机器人控制柜",
+      "fileName": "机器人控制柜.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/机械臂1.svg",
+      "label": "机械臂",
+      "fileName": "机械臂1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/机械臂2.svg",
+      "label": "机械臂",
+      "fileName": "机械臂2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/汽车底盘.svg",
+      "label": "汽车底盘",
+      "fileName": "汽车底盘.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/烤灯1.svg",
+      "label": "烤灯",
+      "fileName": "烤灯1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/烤灯2.svg",
+      "label": "烤灯",
+      "fileName": "烤灯2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/烤灯3.svg",
+      "label": "烤灯",
+      "fileName": "烤灯3.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/焊接机器人.svg",
+      "label": "焊接机器人",
+      "fileName": "焊接机器人.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/电泳.svg",
+      "label": "电泳",
+      "fileName": "电泳.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/车架1.svg",
+      "label": "车架",
+      "fileName": "车架1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-汽车制造/车架2.svg",
+      "label": "车架",
+      "fileName": "车架2.svg"
+    }
+  ]
+}

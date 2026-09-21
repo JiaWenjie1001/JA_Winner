@@ -1,0 +1,243 @@
+/* ==================== 工具栏区域 ==================== */
+/* 工具栏主容器：控制布局、禁选和全屏下的占位表现。 */
+.edui-notadd .edui-toolbar {
+	position: relative;
+	cursor: default;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	overflow: hidden; /*全屏下单独一行不占位*/
+	zoom: 1;
+	width: auto;
+	height: auto;
+}
+
+/* 工具栏项间距：统一按钮、分裂按钮、下拉按钮的上下留白。 */
+.edui-notadd .edui-toolbar .edui-button,
+.edui-notadd .edui-toolbar .edui-splitbutton,
+.edui-notadd .edui-toolbar .edui-menubutton,
+.edui-notadd .edui-toolbar .edui-combox {
+	padding: 4px 0 !important;
+}
+
+/* ==================== 链接弹窗区域 ==================== */
+/* 链接弹窗内容容器：固定链接对话框内容宽度，防止布局抖动。 */
+.edui-notadd .edui-for-link .edui-dialog-content {
+	width: 420px;
+	overflow: hidden;
+}
+
+/* 链接弹窗主体：同步设置 body 宽度，确保 iframe 内容区和外层一致。 */
+.edui-dialog .edui-for-link .edui-dialog-body {
+	width: 420px !important;
+}
+
+/* 链接弹窗内容页：统一弹窗 iframe 内部表单元素的盒模型和默认文字色。 */
+.linkDialogPage {
+	color: #838383;
+}
+
+/* 链接弹窗内容页基础重置：统一内部元素边距和盒模型。 */
+.linkDialogPage * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* 链接弹窗表格：控制表单区字号、外边距和垂直居中布局。 */
+.linkDialogTable {
+	display: flex;
+	align-items: center;
+	height: 120px;
+	margin: 13px 23px 0;
+	font-size: 14px;
+	line-height: 30px;
+}
+
+/* 链接弹窗行高：统一每一行表单项的基础高度。 */
+.linkDialogRow {
+	height: 50px;
+}
+
+/* 链接文本行：首行高度略小，贴合当前设计稿。 */
+.linkDialogRow.linkDialogRowText {
+	height: 40px;
+}
+
+/* 链接弹窗左侧单元格：固定标签列宽度。 */
+.linkDialogCell {
+	width: 170px;
+}
+
+/* 链接弹窗标签：保证标签按行内块参与布局。 */
+.linkDialogLabel {
+	display: inline-block;
+	color: #838383;
+}
+
+/* 链接弹窗输入框：统一输入框尺寸、边框和内边距。 */
+.linkDialogInput {
+	width: 280px;
+	height: 36px;
+	margin-left: 4px;
+	padding-left: 12px;
+	line-height: 21px;
+	border: 1px solid #d7d7d7;
+	border-radius: 5px;
+}
+
+/* 链接弹窗输入框焦点态：高亮当前激活输入框。 */
+.linkDialogInput:focus {
+	border-color: #0076ff;
+	outline: none;
+}
+
+/* 链接弹窗占位文案：弱化 placeholder 颜色。 */
+.linkDialogInput::placeholder {
+	color: #c3c6ce;
+}
+
+/* ==================== 链接气泡区域 ==================== */
+/* 链接气泡外层：控制气泡提示层整体宽高。 */
+.edui-notadd .edui-bubble .edui-popup-body {
+	width: 355px !important;
+	height: 40px !important;
+}
+
+/* 链接气泡内容：设置背景、边框、字体和内边距。 */
+.edui-notadd .edui-bubble .edui-popup-content {
+	position: relative;
+	border: 1px solid #9bcaff;
+	background-color: #e8f4ff;
+	padding: 10px 2px 10px 32px !important;
+	font-size: 10pt;
+	font-family: '宋体';
+	box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.06);
+	border-radius: 4px;
+}
+
+/* 链接气泡图标：使用伪元素补充左侧提示图标。 */
+.edui-notadd .edui-bubble .edui-popup-content::before {
+	position: absolute;
+	top: 50%;
+	left: 10px;
+	width: 20px;
+	height: 20px;
+	transform: translateY(-50%);
+	content: '';
+	background: url(../images/jg.png) no-repeat;
+	background-size: contain;
+}
+
+/* ==================== 对话框底部操作区 ==================== */
+/* 对话框底部容器：统一底部操作区高度和圆角。 */
+.edui-notadd .edui-dialog-foot {
+	width: 100%;
+	height: 60px;
+	background-color: #fff;
+	border-radius: 5px;
+}
+
+/* 按钮容器：控制底部按钮组的定位。 */
+.edui-notadd .edui-dialog-buttons {
+	position: absolute;
+	left: 20px;
+	cursor: pointer;
+}
+
+/* 按钮间距：统一相邻操作按钮的水平距离。 */
+.edui-notadd .edui-dialog-buttons .edui-button {
+	margin-right: 10px;
+}
+
+/* 按钮基础体积：提供对话框底部按钮的默认尺寸和文字排版。 */
+.edui-notadd .edui-dialog-buttons .edui-button .edui-button-body {
+	width: 94px;
+	height: 34px;
+	font-size: 12px;
+	line-height: 34px;
+	text-align: center;
+	cursor: default;
+	border-radius: 5px;
+}
+
+/* 对话框主次按钮基础尺寸：统一确认和取消按钮的体积与圆角。 */
+.edui-dialog-foot .edui-dialog-buttons .edui-okbutton,
+.edui-dialog-foot .edui-dialog-buttons .edui-cancelbutton {
+	width: 100px !important;
+	height: 35px !important;
+	text-align: center;
+	line-height: 0 !important;
+	border-radius: 5px;
+}
+
+/* 对话框主次按钮包裹层：强制和按钮本体保持一致尺寸。 */
+.edui-dialog-foot .edui-dialog-buttons .edui-okbutton .edui-button-wrap,
+.edui-dialog-foot .edui-dialog-buttons .edui-cancelbutton .edui-button-wrap {
+	width: 100px !important;
+	height: 35px !important;
+}
+
+/* 对话框主次按钮内容层：统一使用 flex 做水平垂直居中。 */
+.edui-dialog-foot .edui-dialog-buttons .edui-okbutton .edui-button-wrap .edui-button-body,
+.edui-dialog-foot .edui-dialog-buttons .edui-cancelbutton .edui-button-wrap .edui-button-body {
+	width: 100px !important;
+	height: 35px !important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-bottom: 2px;
+	cursor: pointer;
+}
+
+/* 确认按钮：主操作按钮的视觉样式。 */
+.edui-dialog-foot .edui-dialog-buttons .edui-okbutton {
+	background-color: #0076ff !important;
+	color: #fff;
+}
+
+/* 取消按钮：次操作按钮的默认视觉样式。 */
+.edui-dialog-foot .edui-dialog-buttons .edui-cancelbutton {
+	background-color: #fff;
+	border: 1px solid #dcdfe6;
+	color: #898989;
+}
+
+/* 取消按钮悬停态：提供 hover 反馈。 */
+.edui-dialog-foot .edui-dialog-buttons .edui-cancelbutton:hover {
+	border: 1px solid #0076ff;
+	color: #0076ff;
+	background-color: rgba(0, 118, 255, 0.1);
+}
+
+/* 按钮文案：统一恢复可点击手型。 */
+.edui-dialog-foot .edui-dialog-buttons .edui-okbutton .edui-button-wrap .edui-button-body .edui-label,
+.edui-dialog-foot .edui-dialog-buttons .edui-cancelbutton .edui-button-wrap .edui-button-body .edui-label {
+	cursor: pointer;
+}
+
+/* ==================== 对话框关闭按钮 ==================== */
+/* 关闭按钮容器：固定右上角定位。 */
+.edui-notadd .edui-dialog-closebutton {
+	position: absolute !important;
+	right: 20px;
+	top: 15px;
+}
+
+/* 关闭按钮图标：替换为项目自定义关闭图。 */
+.edui-notadd .edui-dialog-closebutton .edui-button-body {
+	width: 20px;
+	height: 20px;
+	cursor: pointer;
+	background: url('../images/close.png') no-repeat;
+	background-size: 16px 16px;
+}
+
+/* ==================== 粘贴弹出菜单 ==================== */
+/* 粘贴快捷菜单：按当前业务要求默认隐藏。 */
+.edui-notadd .edui-wordpastepop .edui-popup-content {
+	border: none;
+	padding: 0;
+	width: 54px;
+	height: 21px;
+	display: none;
+}

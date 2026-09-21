@@ -1,0 +1,40 @@
+{
+  "name": "真空电子管",
+  "icons": [
+    {
+      "path": "/diagram-icons/真空电子管/Diode.svg",
+      "label": "Diode",
+      "fileName": "Diode.svg"
+    },
+    {
+      "path": "/diagram-icons/真空电子管/Double Diode.svg",
+      "label": "Double Diode",
+      "fileName": "Double Diode.svg"
+    },
+    {
+      "path": "/diagram-icons/真空电子管/Double Triode.svg",
+      "label": "Double Triode",
+      "fileName": "Double Triode.svg"
+    },
+    {
+      "path": "/diagram-icons/真空电子管/Pentode.svg",
+      "label": "Pentode",
+      "fileName": "Pentode.svg"
+    },
+    {
+      "path": "/diagram-icons/真空电子管/Photocell.svg",
+      "label": "Photocell",
+      "fileName": "Photocell.svg"
+    },
+    {
+      "path": "/diagram-icons/真空电子管/Tetrode.svg",
+      "label": "Tetrode",
+      "fileName": "Tetrode.svg"
+    },
+    {
+      "path": "/diagram-icons/真空电子管/Triode.svg",
+      "label": "Triode",
+      "fileName": "Triode.svg"
+    }
+  ]
+}

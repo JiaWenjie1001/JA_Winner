@@ -1,0 +1,9 @@
+﻿.section {
+            width: 200px;
+            margin: 10px auto 0;
+            font-size: 14px;
+        }
+
+        .item {
+            text-align: center;
+        }

@@ -1,0 +1,740 @@
+{
+  "name": "电子未分类",
+  "icons": [
+    {
+      "path": "/diagram-icons/电子未分类/2 Conductor Jack.svg",
+      "label": "2 Conductor Jack",
+      "fileName": "2 Conductor Jack.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/2 Conductor Plug.svg",
+      "label": "2 Conductor Plug",
+      "fileName": "2 Conductor Plug.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/3 Conductor Jack.svg",
+      "label": "3 Conductor Jack",
+      "fileName": "3 Conductor Jack.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/3 Conductor Plug.svg",
+      "label": "3 Conductor Plug",
+      "fileName": "3 Conductor Plug.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/4 Position Switch.svg",
+      "label": "4 Position Switch",
+      "fileName": "4 Position Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/AC Out.svg",
+      "label": "AC Out",
+      "fileName": "AC Out.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/AC-AC Converter.svg",
+      "label": "AC-AC Converter",
+      "fileName": "AC-AC Converter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/AC-DC Converter.svg",
+      "label": "AC-DC Converter",
+      "fileName": "AC-DC Converter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/AD Converter.svg",
+      "label": "AD Converter",
+      "fileName": "AD Converter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Adapter.svg",
+      "label": "Adapter",
+      "fileName": "Adapter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Amp Bidirectional.svg",
+      "label": "Amp Bidirectional",
+      "fileName": "Amp Bidirectional.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Amp.svg",
+      "label": "Amp",
+      "fileName": "Amp.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Amplifier.svg",
+      "label": "Amplifier",
+      "fileName": "Amplifier.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Att.svg",
+      "label": "Att",
+      "fileName": "Att.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Bandpass.svg",
+      "label": "Bandpass",
+      "fileName": "Bandpass.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Bandstop.svg",
+      "label": "Bandstop",
+      "fileName": "Bandstop.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Bell.svg",
+      "label": "Bell",
+      "fileName": "Bell.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Block Convert.svg",
+      "label": "Block Convert",
+      "fileName": "Block Convert.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Block.svg",
+      "label": "Block",
+      "fileName": "Block.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Buzzer.svg",
+      "label": "Buzzer",
+      "fileName": "Buzzer.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/C Header Connector.svg",
+      "label": "C Header Connector",
+      "fileName": "C Header Connector.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Cable Termination.svg",
+      "label": "Cable Termination",
+      "fileName": "Cable Termination.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Chassis.svg",
+      "label": "Chassis",
+      "fileName": "Chassis.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Circuit Breaker.svg",
+      "label": "Circuit Breaker",
+      "fileName": "Circuit Breaker.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Circulator.svg",
+      "label": "Circulator",
+      "fileName": "Circulator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Co-ax.svg",
+      "label": "Co-ax",
+      "fileName": "Co-ax.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Coaxial Center Conductor.svg",
+      "label": "Coaxial Center Conductor",
+      "fileName": "Coaxial Center Conductor.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Coaxial Jack Plug.svg",
+      "label": "Coaxial Jack Plug",
+      "fileName": "Coaxial Jack Plug.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Coaxial Outside Conductor.svg",
+      "label": "Coaxial Outside Conductor",
+      "fileName": "Coaxial Outside Conductor.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Combine.svg",
+      "label": "Combine",
+      "fileName": "Combine.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Controlled Amplifier.svg",
+      "label": "Controlled Amplifier",
+      "fileName": "Controlled Amplifier.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Corrector.svg",
+      "label": "Corrector",
+      "fileName": "Corrector.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Crystal 1.svg",
+      "label": "Crystal 1",
+      "fileName": "Crystal 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Crystal 2.svg",
+      "label": "Crystal 2",
+      "fileName": "Crystal 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/DA Converter.svg",
+      "label": "DA Converter",
+      "fileName": "DA Converter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/DAC.svg",
+      "label": "DAC",
+      "fileName": "DAC.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/DC-AC Converter.svg",
+      "label": "DC-AC Converter",
+      "fileName": "DC-AC Converter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/DC-DC Converter.svg",
+      "label": "DC-DC Converter",
+      "fileName": "DC-DC Converter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Decrypt.svg",
+      "label": "Decrypt",
+      "fileName": "Decrypt.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Delay Element.svg",
+      "label": "Delay Element",
+      "fileName": "Delay Element.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Delay.svg",
+      "label": "Delay",
+      "fileName": "Delay.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Delta.svg",
+      "label": "Delta",
+      "fileName": "Delta.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Demodulator.svg",
+      "label": "Demodulator",
+      "fileName": "Demodulator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Demux.svg",
+      "label": "Demux",
+      "fileName": "Demux.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Detector.svg",
+      "label": "Detector",
+      "fileName": "Detector.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Differential Amp.svg",
+      "label": "Differential Amp",
+      "fileName": "Differential Amp.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Diplexer.svg",
+      "label": "Diplexer",
+      "fileName": "Diplexer.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Divide by n.svg",
+      "label": "Divide by n",
+      "fileName": "Divide by n.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Down Converter.svg",
+      "label": "Down Converter",
+      "fileName": "Down Converter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Encrypt.svg",
+      "label": "Encrypt",
+      "fileName": "Encrypt.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/F M 2 Conductor 1.svg",
+      "label": "F M 2 Conductor 1",
+      "fileName": "F M 2 Conductor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/F M 2 Conductor 2.svg",
+      "label": "F M 2 Conductor 2",
+      "fileName": "F M 2 Conductor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/F M 2 Conductor 3.svg",
+      "label": "F M 2 Conductor 3",
+      "fileName": "F M 2 Conductor 3.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/F M 3 Conductor 1.svg",
+      "label": "F M 3 Conductor 1",
+      "fileName": "F M 3 Conductor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/F M 3 Conductor 2.svg",
+      "label": "F M 3 Conductor 2",
+      "fileName": "F M 3 Conductor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/F M 3 Conductor 3.svg",
+      "label": "F M 3 Conductor 3",
+      "fileName": "F M 3 Conductor 3.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/F M 3 Conductor 4.svg",
+      "label": "F M 3 Conductor 4",
+      "fileName": "F M 3 Conductor 4.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/F M 3 Conductor 5.svg",
+      "label": "F M 3 Conductor 5",
+      "fileName": "F M 3 Conductor 5.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Filter.svg",
+      "label": "Filter",
+      "fileName": "Filter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Flourescent Lamp.svg",
+      "label": "Flourescent Lamp",
+      "fileName": "Flourescent Lamp.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Fusable Resistor.svg",
+      "label": "Fusable Resistor",
+      "fileName": "Fusable Resistor.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Fuse 1.svg",
+      "label": "Fuse 1",
+      "fileName": "Fuse 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Fuse 2.svg",
+      "label": "Fuse 2",
+      "fileName": "Fuse 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Fuse 3.svg",
+      "label": "Fuse 3",
+      "fileName": "Fuse 3.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Fuse 4.svg",
+      "label": "Fuse 4",
+      "fileName": "Fuse 4.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Generic Component.svg",
+      "label": "Generic Component",
+      "fileName": "Generic Component.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Hipass.svg",
+      "label": "Hipass",
+      "fileName": "Hipass.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Hybrid.svg",
+      "label": "Hybrid",
+      "fileName": "Hybrid.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Igniter Plug.svg",
+      "label": "Igniter Plug",
+      "fileName": "Igniter Plug.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Illuminating Bulb.svg",
+      "label": "Illuminating Bulb",
+      "fileName": "Illuminating Bulb.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Indicator.svg",
+      "label": "Indicator",
+      "fileName": "Indicator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Integrator.svg",
+      "label": "Integrator",
+      "fileName": "Integrator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Lamp 1.svg",
+      "label": "Lamp 1",
+      "fileName": "Lamp 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Lamp 2.svg",
+      "label": "Lamp 2",
+      "fileName": "Lamp 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Large D Connector.svg",
+      "label": "Large D Connector",
+      "fileName": "Large D Connector.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Light Bulb.svg",
+      "label": "Light Bulb",
+      "fileName": "Light Bulb.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Limiter.svg",
+      "label": "Limiter",
+      "fileName": "Limiter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Loop Antenna.svg",
+      "label": "Loop Antenna",
+      "fileName": "Loop Antenna.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Lopass.svg",
+      "label": "Lopass",
+      "fileName": "Lopass.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Loudspeaker.svg",
+      "label": "Loudspeaker",
+      "fileName": "Loudspeaker.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Mercury Switch 2.svg",
+      "label": "Mercury Switch 2",
+      "fileName": "Mercury Switch 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Mercury Switch.svg",
+      "label": "Mercury Switch",
+      "fileName": "Mercury Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/MF Contact 2.svg",
+      "label": "MF Contact 2",
+      "fileName": "MF Contact 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Mixer 1.svg",
+      "label": "Mixer 1",
+      "fileName": "Mixer 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Mixer 2.svg",
+      "label": "Mixer 2",
+      "fileName": "Mixer 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Modem.svg",
+      "label": "Modem",
+      "fileName": "Modem.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Modulator.svg",
+      "label": "Modulator",
+      "fileName": "Modulator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Monocell Battery.svg",
+      "label": "Monocell Battery",
+      "fileName": "Monocell Battery.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Motor 1.svg",
+      "label": "Motor 1",
+      "fileName": "Motor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Motor 2.svg",
+      "label": "Motor 2",
+      "fileName": "Motor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Multicell Battery Tapped.svg",
+      "label": "Multicell Battery Tapped",
+      "fileName": "Multicell Battery Tapped.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Multicell Battery.svg",
+      "label": "Multicell Battery",
+      "fileName": "Multicell Battery.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Multiplier.svg",
+      "label": "Multiplier",
+      "fileName": "Multiplier.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Mux-Demux.svg",
+      "label": "Mux-Demux",
+      "fileName": "Mux-Demux.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Mux.svg",
+      "label": "Mux",
+      "fileName": "Mux.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Neon Lamp 2.svg",
+      "label": "Neon Lamp 2",
+      "fileName": "Neon Lamp 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Neon Lamp.svg",
+      "label": "Neon Lamp",
+      "fileName": "Neon Lamp.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Normalled Jack.svg",
+      "label": "Normalled Jack",
+      "fileName": "Normalled Jack.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Normalled Jacks.svg",
+      "label": "Normalled Jacks",
+      "fileName": "Normalled Jacks.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Operational Amp 1.svg",
+      "label": "Operational Amp 1",
+      "fileName": "Operational Amp 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Operational Amp 2.svg",
+      "label": "Operational Amp 2",
+      "fileName": "Operational Amp 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Oscilloscope.svg",
+      "label": "Oscilloscope",
+      "fileName": "Oscilloscope.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/OTA 1.svg",
+      "label": "OTA 1",
+      "fileName": "OTA 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/OTA 2.svg",
+      "label": "OTA 2",
+      "fileName": "OTA 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/OTA 3.svg",
+      "label": "OTA 3",
+      "fileName": "OTA 3.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Permanent Magnet.svg",
+      "label": "Permanent Magnet",
+      "fileName": "Permanent Magnet.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Phase Detector.svg",
+      "label": "Phase Detector",
+      "fileName": "Phase Detector.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Piezo Sounder.svg",
+      "label": "Piezo Sounder",
+      "fileName": "Piezo Sounder.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Pilot Light.svg",
+      "label": "Pilot Light",
+      "fileName": "Pilot Light.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Process.svg",
+      "label": "Process",
+      "fileName": "Process.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Proximity Limit Switch.svg",
+      "label": "Proximity Limit Switch",
+      "fileName": "Proximity Limit Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Pulse.svg",
+      "label": "Pulse",
+      "fileName": "Pulse.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Quantizer.svg",
+      "label": "Quantizer",
+      "fileName": "Quantizer.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Reed Switch.svg",
+      "label": "Reed Switch",
+      "fileName": "Reed Switch.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Relay Coil 2.svg",
+      "label": "Relay Coil 2",
+      "fileName": "Relay Coil 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Relay Coil.svg",
+      "label": "Relay Coil",
+      "fileName": "Relay Coil.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Relay Contacts.svg",
+      "label": "Relay Contacts",
+      "fileName": "Relay Contacts.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Relay Pole.svg",
+      "label": "Relay Pole",
+      "fileName": "Relay Pole.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Relay.svg",
+      "label": "Relay",
+      "fileName": "Relay.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Resonator.svg",
+      "label": "Resonator",
+      "fileName": "Resonator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Safety Interlock.svg",
+      "label": "Safety Interlock",
+      "fileName": "Safety Interlock.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Sampler.svg",
+      "label": "Sampler",
+      "fileName": "Sampler.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Sensing Link Squib.svg",
+      "label": "Sensing Link Squib",
+      "fileName": "Sensing Link Squib.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Shielded Jack Plug.svg",
+      "label": "Shielded Jack Plug",
+      "fileName": "Shielded Jack Plug.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Small D Connector.svg",
+      "label": "Small D Connector",
+      "fileName": "Small D Connector.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Splitter.svg",
+      "label": "Splitter",
+      "fileName": "Splitter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Square-up.svg",
+      "label": "Square-up",
+      "fileName": "Square-up.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Squib Ignitor.svg",
+      "label": "Squib Ignitor",
+      "fileName": "Squib Ignitor.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Step.svg",
+      "label": "Step",
+      "fileName": "Step.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Sum.svg",
+      "label": "Sum",
+      "fileName": "Sum.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Summation Point.svg",
+      "label": "Summation Point",
+      "fileName": "Summation Point.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Surge Protector 2.svg",
+      "label": "Surge Protector 2",
+      "fileName": "Surge Protector 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Surge Protector.svg",
+      "label": "Surge Protector",
+      "fileName": "Surge Protector.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Terminal Board.svg",
+      "label": "Terminal Board",
+      "fileName": "Terminal Board.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Thermal Element.svg",
+      "label": "Thermal Element",
+      "fileName": "Thermal Element.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Thermistor 1.svg",
+      "label": "Thermistor 1",
+      "fileName": "Thermistor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Thermistor 2.svg",
+      "label": "Thermistor 2",
+      "fileName": "Thermistor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Thermistor With Independent Integral Heater.svg",
+      "label": "Thermistor With Independent Integral Heater",
+      "fileName": "Thermistor With Independent Integral Heater.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Thermocouple.svg",
+      "label": "Thermocouple",
+      "fileName": "Thermocouple.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Thermopile.svg",
+      "label": "Thermopile",
+      "fileName": "Thermopile.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Transducer 2.svg",
+      "label": "Transducer 2",
+      "fileName": "Transducer 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Transducer.svg",
+      "label": "Transducer",
+      "fileName": "Transducer.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Transformer.svg",
+      "label": "Transformer",
+      "fileName": "Transformer.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Trim.svg",
+      "label": "Trim",
+      "fileName": "Trim.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Up converter.svg",
+      "label": "Up converter",
+      "fileName": "Up converter.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Var.svg",
+      "label": "Var",
+      "fileName": "Var.svg"
+    },
+    {
+      "path": "/diagram-icons/电子未分类/Voltage Regulator.svg",
+      "label": "Voltage Regulator",
+      "fileName": "Voltage Regulator.svg"
+    }
+  ]
+}
