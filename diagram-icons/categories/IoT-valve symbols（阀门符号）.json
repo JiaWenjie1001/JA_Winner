@@ -1,0 +1,165 @@
+{
+  "name": "IoT-valve symbols（阀门符号）",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D 3-way solenoid valve with reset(带复位功能的3d三通电磁阀).svg",
+      "label": "三通电磁阀",
+      "fileName": "3-D 3-way solenoid valve with reset(带复位功能的3d三通电磁阀).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D 3-way solenoid valve（3d三通电磁阀）.svg",
+      "label": "三通电磁阀",
+      "fileName": "3-D 3-way solenoid valve（3d三通电磁阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D 3-way valve（3d三通阀）.svg",
+      "label": "三通阀",
+      "fileName": "3-D 3-way valve（3d三通阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D 4-way valve（3d四通阀）.svg",
+      "label": "四通阀",
+      "fileName": "3-D 4-way valve（3d四通阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Angle blowdown valve（三维角排污阀）.svg",
+      "label": "三维角排污阀",
+      "fileName": "3-D Angle blowdown valve（三维角排污阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Ball valve（三维球阀）.svg",
+      "label": "三维球阀",
+      "fileName": "3-D Ball valve（三维球阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Blowdown valve（3d排污阀）.svg",
+      "label": "排污阀",
+      "fileName": "3-D Blowdown valve（3d排污阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Butterfly valve or damper（三维蝶阀或阻尼器）.svg",
+      "label": "三维蝶阀或阻尼器",
+      "fileName": "3-D Butterfly valve or damper（三维蝶阀或阻尼器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Check valve（3d止球阀）.svg",
+      "label": "止球阀",
+      "fileName": "3-D Check valve（3d止球阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Control valve with actuator（带执行机构的3d控制阀）.svg",
+      "label": "控制阀",
+      "fileName": "3-D Control valve with actuator（带执行机构的3d控制阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Cylinder actuated valve (double-acting)（3气缸驱动阀（双作用））.svg",
+      "label": "双作用",
+      "fileName": "3-D Cylinder actuated valve (double-acting)（3气缸驱动阀（双作用））.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Flow regulator ,self-contained（3d流量调节器 （独立式））.svg",
+      "label": "独立式",
+      "fileName": "3-D Flow regulator ,self-contained（3d流量调节器 （独立式））.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Gate valve（三维闸阀）.svg",
+      "label": "三维闸阀",
+      "fileName": "3-D Gate valve（三维闸阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Hand control valve(3D手动控制阀).svg",
+      "label": "手动控制阀",
+      "fileName": "3-D Hand control valve(3D手动控制阀).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Plug valve（3d旋塞阀）.svg",
+      "label": "旋塞阀",
+      "fileName": "3-D Plug valve（3d旋塞阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Pressure-balanced diaphragm actuated(3D压力平衡膜片驱动).svg",
+      "label": "压力平衡膜片驱动",
+      "fileName": "3-D Pressure-balanced diaphragm actuated(3D压力平衡膜片驱动).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Regulator with external pressure tap（带外部测压口的3d调节器）.svg",
+      "label": "调节器",
+      "fileName": "3-D Regulator with external pressure tap（带外部测压口的3d调节器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Regulator, self-contained（3d调节器（独立式））.svg",
+      "label": "独立式",
+      "fileName": "3-D Regulator, self-contained（3d调节器（独立式））.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Restriction orifice drilled in valve（3d节流孔板钻入式阀门）.svg",
+      "label": "节流孔板钻入式阀门",
+      "fileName": "3-D Restriction orifice drilled in valve（3d节流孔板钻入式阀门）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Rotary actuated（3d旋转驱动）.svg",
+      "label": "旋转驱动",
+      "fileName": "3-D Rotary actuated（3d旋转驱动）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Rotary plug valve（3d旋转旋塞阀）.svg",
+      "label": "旋转旋塞阀",
+      "fileName": "3-D Rotary plug valve（3d旋转旋塞阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Stop check valve（3d截止止回阀）.svg",
+      "label": "截止止回阀",
+      "fileName": "3-D Stop check valve（3d截止止回阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Vacuum safety valve（3d真空安全阀）.svg",
+      "label": "真空安全阀",
+      "fileName": "3-D Vacuum safety valve（3d真空安全阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Valve with actuator（带执行机构的3d阀门）.svg",
+      "label": "阀门",
+      "fileName": "3-D Valve with actuator（带执行机构的3d阀门）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Valve with bleed or purge connection under disc（阀瓣下带有排气或净化连接的三维阀门）.svg",
+      "label": "阀瓣下带有排气或净化连接的三维阀门",
+      "fileName": "3-D Valve with bleed or purge connection under disc（阀瓣下带有排气或净化连接的三维阀门）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Valve with long shaft（长轴3d阀门）.svg",
+      "label": "阀门",
+      "fileName": "3-D Valve with long shaft（长轴3d阀门）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Valve,fail indeterminate（3d阀 故障不确定）.svg",
+      "label": "故障不确定",
+      "fileName": "3-D Valve,fail indeterminate（3d阀 故障不确定）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Valve,fail locked（3d阀 故障锁定）.svg",
+      "label": "故障锁定",
+      "fileName": "3-D Valve,fail locked（3d阀 故障锁定）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/3-D Valve（3d阀）.svg",
+      "label": "阀",
+      "fileName": "3-D Valve（3d阀）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/Valve handle (气门手柄) (0).svg",
+      "label": "气门手柄",
+      "fileName": "Valve handle (气门手柄) (0).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/Valve handle (气门手柄).svg",
+      "label": "气门手柄",
+      "fileName": "Valve handle (气门手柄).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-valve symbols（阀门符号）/Valve wheel（阀轮）.svg",
+      "label": "阀轮",
+      "fileName": "Valve wheel（阀轮）.svg"
+    }
+  ]
+}

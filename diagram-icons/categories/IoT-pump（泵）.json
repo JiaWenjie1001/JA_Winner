@@ -1,0 +1,195 @@
+{
+  "name": "IoT-pump（泵）",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/3-d pump(3d泵).svg",
+      "label": "泵",
+      "fileName": "3-d pump(3d泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Centrifugal pump (离心泵).svg",
+      "label": "离心泵",
+      "fileName": "Centrifugal pump (离心泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Centrifugal pump with integral pump-motor shaft（整体泵电机轴离心泵）.svg",
+      "label": "整体泵电机轴离心泵",
+      "fileName": "Centrifugal pump with integral pump-motor shaft（整体泵电机轴离心泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Centrifugal thermoplastic pump(离心热塑性塑料泵).svg",
+      "label": "离心热塑性塑料泵",
+      "fileName": "Centrifugal thermoplastic pump(离心热塑性塑料泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Chemical pump (化学泵).svg",
+      "label": "化学泵",
+      "fileName": "Chemical pump (化学泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/cool pump(冷却泵).svg",
+      "label": "冷却泵",
+      "fileName": "cool pump(冷却泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Corrosion resistant submersible pump(耐腐蚀潜水泵).svg",
+      "label": "耐腐蚀潜水泵",
+      "fileName": "Corrosion resistant submersible pump(耐腐蚀潜水泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Corrosion-resistant continuous duty pump（耐腐蚀连续泵）.svg",
+      "label": "耐腐蚀连续泵",
+      "fileName": "Corrosion-resistant continuous duty pump（耐腐蚀连续泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Diaphragm pump(隔膜泵).svg",
+      "label": "隔膜泵",
+      "fileName": "Diaphragm pump(隔膜泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Explosion-proof pump（防爆泵）.svg",
+      "label": "防爆泵",
+      "fileName": "Explosion-proof pump（防爆泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Flanged pump （法兰泵）.svg",
+      "label": "法兰泵",
+      "fileName": "Flanged pump （法兰泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Flex-mounted centrifugal pump(挠性离心泵).svg",
+      "label": "挠性离心泵",
+      "fileName": "Flex-mounted centrifugal pump(挠性离心泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/heavy-duty plastic centrifugal pump（重型塑料离心泵）.svg",
+      "label": "重型塑料离心泵",
+      "fileName": "heavy-duty plastic centrifugal pump（重型塑料离心泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/High temp heat trans pump（高温热泵）.svg",
+      "label": "高温热泵",
+      "fileName": "High temp heat trans pump（高温热泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Horizontal pump（卧式泵）.svg",
+      "label": "卧式泵",
+      "fileName": "Horizontal pump（卧式泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Horizontal solids handling vortex pump(卧式固体输送旋涡泵).svg",
+      "label": "卧式固体输送旋涡泵",
+      "fileName": "Horizontal solids handling vortex pump(卧式固体输送旋涡泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Large volume chemical and submersible pump(大容量化工潜水泵）.svg",
+      "label": "大容量化工潜水泵",
+      "fileName": "Large volume chemical and submersible pump(大容量化工潜水泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Mag drive pump (磁力驱动泵).svg",
+      "label": "磁力驱动泵",
+      "fileName": "Mag drive pump (磁力驱动泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Metering pump （计量泵）.svg",
+      "label": "计量泵",
+      "fileName": "Metering pump （计量泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Oil pump（油泵）.svg",
+      "label": "油泵",
+      "fileName": "Oil pump（油泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/oil well pump（油井泵）.svg",
+      "label": "油井泵",
+      "fileName": "oil well pump（油井泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Positive displacement gear pump（容积式齿轮泵）.svg",
+      "label": "容积式齿轮泵",
+      "fileName": "Positive displacement gear pump（容积式齿轮泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Pump for highly-corrosive applications（高腐蚀性应用泵）.svg",
+      "label": "高腐蚀性应用泵",
+      "fileName": "Pump for highly-corrosive applications（高腐蚀性应用泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Pump station（泵站）.svg",
+      "label": "泵站",
+      "fileName": "Pump station（泵站）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Pumping trap（抽水蓄能器）.svg",
+      "label": "抽水蓄能器",
+      "fileName": "Pumping trap（抽水蓄能器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Running state（运行状态）.svg",
+      "label": "运行状态",
+      "fileName": "Running state（运行状态）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Self-priming centrifugal pump（自吸离心泵）.svg",
+      "label": "自吸离心泵",
+      "fileName": "Self-priming centrifugal pump（自吸离心泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Sewage pump(污水泵).svg",
+      "label": "污水泵",
+      "fileName": "Sewage pump(污水泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/simple Vertical pump （简易立式泵）.svg",
+      "label": "简易立式泵",
+      "fileName": "simple Vertical pump （简易立式泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Solids-handling self-priming pump(固体输送自吸泵).svg",
+      "label": "固体输送自吸泵",
+      "fileName": "Solids-handling self-priming pump(固体输送自吸泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Standard-flange positive displacement pump(标准法兰容积泵).svg",
+      "label": "标准法兰容积泵",
+      "fileName": "Standard-flange positive displacement pump(标准法兰容积泵).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Submersible sump pump（潜水集水坑泵）.svg",
+      "label": "潜水集水坑泵",
+      "fileName": "Submersible sump pump（潜水集水坑泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/sump pump（污水泵）.svg",
+      "label": "污水泵",
+      "fileName": "sump pump（污水泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Switch_off（开关_关）.svg",
+      "label": "关",
+      "fileName": "Switch_off（开关_关）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Switch_on（开关_开）.svg",
+      "label": "开",
+      "fileName": "Switch_on（开关_开）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Threaded gear（螺纹齿轮）.svg",
+      "label": "螺纹齿轮",
+      "fileName": "Threaded gear（螺纹齿轮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/tube pump（管式泵）.svg",
+      "label": "管式泵",
+      "fileName": "tube pump（管式泵）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-pump（泵）/Vertical pump （立式泵）.svg",
+      "label": "立式泵",
+      "fileName": "Vertical pump （立式泵）.svg"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "name": "IoT-Plant Facilities（工厂设施）",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Access ladder（检修梯）.svg",
+      "label": "检修梯",
+      "fileName": "Access ladder（检修梯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Brick exhaust stack with deck(带甲板的砖烟囱).svg",
+      "label": "带甲板的砖烟囱",
+      "fileName": "Brick exhaust stack with deck(带甲板的砖烟囱).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Brick exhaust stack（砖砌排气筒）.svg",
+      "label": "砖砌排气筒",
+      "fileName": "Brick exhaust stack（砖砌排气筒）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Chain link fence with barbed wire(铁丝网围栏).svg",
+      "label": "铁丝网围栏",
+      "fileName": "Chain link fence with barbed wire(铁丝网围栏).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Chain link fence（铁丝网围栏）.svg",
+      "label": "铁丝网围栏",
+      "fileName": "Chain link fence（铁丝网围栏）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Chimney（烟囱） (2).svg",
+      "label": "烟囱",
+      "fileName": "Chimney（烟囱） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Chimney（烟囱） (3).svg",
+      "label": "烟囱",
+      "fileName": "Chimney（烟囱） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Chimney（烟囱）.svg",
+      "label": "烟囱",
+      "fileName": "Chimney（烟囱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/crane（起重机）.svg",
+      "label": "起重机",
+      "fileName": "crane（起重机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Dark smoke（黑烟）.svg",
+      "label": "黑烟",
+      "fileName": "Dark smoke（黑烟）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Emergency shower（紧急淋浴）.svg",
+      "label": "紧急淋浴",
+      "fileName": "Emergency shower（紧急淋浴）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Enclosed ladder（封闭式梯子）.svg",
+      "label": "封闭式梯子",
+      "fileName": "Enclosed ladder（封闭式梯子）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Exhaust stack with warning stripes（带警示条的排气管）.svg",
+      "label": "带警示条的排气管",
+      "fileName": "Exhaust stack with warning stripes（带警示条的排气管）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Exhaust stack（排气管）.svg",
+      "label": "排气管",
+      "fileName": "Exhaust stack（排气管）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Exposed ladder（外露梯子）.svg",
+      "label": "外露梯子",
+      "fileName": "Exposed ladder（外露梯子）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Guard screen（防护屏） (2).svg",
+      "label": "防护屏",
+      "fileName": "Guard screen（防护屏） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Guard screen（防护屏）.svg",
+      "label": "防护屏",
+      "fileName": "Guard screen（防护屏）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Industrial platform 1（产业平台1） (2).svg",
+      "label": "产业平台",
+      "fileName": "Industrial platform 1（产业平台1） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Industrial platform 1（产业平台1）.svg",
+      "label": "产业平台",
+      "fileName": "Industrial platform 1（产业平台1）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Industrial platform 2（产业平台2）.svg",
+      "label": "产业平台",
+      "fileName": "Industrial platform 2（产业平台2）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Industrial stairs（工业楼梯）.svg",
+      "label": "工业楼梯",
+      "fileName": "Industrial stairs（工业楼梯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Industrial structure（产业结构）.svg",
+      "label": "产业结构",
+      "fileName": "Industrial structure（产业结构）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Light smoke（轻烟）.svg",
+      "label": "轻烟",
+      "fileName": "Light smoke（轻烟）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Mezzanine decking（夹层板）.svg",
+      "label": "夹层板",
+      "fileName": "Mezzanine decking（夹层板）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Mezzanine with office（带夹层的办公室）.svg",
+      "label": "带夹层的办公室",
+      "fileName": "Mezzanine with office（带夹层的办公室）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Oil rig（石油钻机）.svg",
+      "label": "石油钻机",
+      "fileName": "Oil rig（石油钻机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Oil well（油井）.svg",
+      "label": "油井",
+      "fileName": "Oil well（油井）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Processing plant（加工厂）.svg",
+      "label": "加工厂",
+      "fileName": "Processing plant（加工厂）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Pulp mill（纸浆厂）.svg",
+      "label": "纸浆厂",
+      "fileName": "Pulp mill（纸浆厂）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Pyramid communication tower（金字塔通信塔）.svg",
+      "label": "金字塔通信塔",
+      "fileName": "Pyramid communication tower（金字塔通信塔）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Refinery（炼油厂）.svg",
+      "label": "炼油厂",
+      "fileName": "Refinery（炼油厂）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Smooth exhaust stairs（平滑的排气楼梯）.svg",
+      "label": "平滑的排气楼梯",
+      "fileName": "Smooth exhaust stairs（平滑的排气楼梯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Steel grating 1（gang格栅）.svg",
+      "label": "格栅",
+      "fileName": "Steel grating 1（gang格栅）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Steel grating 2（钢栅格2）.svg",
+      "label": "钢栅格",
+      "fileName": "Steel grating 2（钢栅格2）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Vertical stairs-（垂直楼梯）.svg",
+      "label": "垂直楼梯",
+      "fileName": "Vertical stairs-（垂直楼梯）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Plant Facilities（工厂设施）/Vertical stairs（垂直楼梯）.svg",
+      "label": "垂直楼梯",
+      "fileName": "Vertical stairs（垂直楼梯）.svg"
+    }
+  ]
+}

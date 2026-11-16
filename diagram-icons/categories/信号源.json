@@ -1,0 +1,150 @@
+{
+  "name": "信号源",
+  "icons": [
+    {
+      "path": "/diagram-icons/信号源/AC Source.svg",
+      "label": "AC Source",
+      "fileName": "AC Source.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Aerial - Antenna 1.svg",
+      "label": "Aerial - Antenna 1",
+      "fileName": "Aerial - Antenna 1.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Aerial - Antenna 2.svg",
+      "label": "Aerial - Antenna 2",
+      "fileName": "Aerial - Antenna 2.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Buzzer.svg",
+      "label": "Buzzer",
+      "fileName": "Buzzer.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Chassis.svg",
+      "label": "Chassis",
+      "fileName": "Chassis.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Current Flow.svg",
+      "label": "Current Flow",
+      "fileName": "Current Flow.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Current Source.svg",
+      "label": "Current Source",
+      "fileName": "Current Source.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/DC Source 1.svg",
+      "label": "DC Source 1",
+      "fileName": "DC Source 1.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/DC Source 2.svg",
+      "label": "DC Source 2",
+      "fileName": "DC Source 2.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/DC Source 3.svg",
+      "label": "DC Source 3",
+      "fileName": "DC Source 3.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Dependent Source 1.svg",
+      "label": "Dependent Source 1",
+      "fileName": "Dependent Source 1.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Dependent Source 2.svg",
+      "label": "Dependent Source 2",
+      "fileName": "Dependent Source 2.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Dependent Source 3.svg",
+      "label": "Dependent Source 3",
+      "fileName": "Dependent Source 3.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Dipole.svg",
+      "label": "Dipole",
+      "fileName": "Dipole.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Earth.svg",
+      "label": "Earth",
+      "fileName": "Earth.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Electret Microphone.svg",
+      "label": "Electret Microphone",
+      "fileName": "Electret Microphone.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Equipotential.svg",
+      "label": "Equipotential",
+      "fileName": "Equipotential.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Explosive Squib.svg",
+      "label": "Explosive Squib",
+      "fileName": "Explosive Squib.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Headphones.svg",
+      "label": "Headphones",
+      "fileName": "Headphones.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Ideal Source.svg",
+      "label": "Ideal Source",
+      "fileName": "Ideal Source.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Loop Antenna.svg",
+      "label": "Loop Antenna",
+      "fileName": "Loop Antenna.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Microphone 1.svg",
+      "label": "Microphone 1",
+      "fileName": "Microphone 1.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Microphone 2.svg",
+      "label": "Microphone 2",
+      "fileName": "Microphone 2.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Noise Source.svg",
+      "label": "Noise Source",
+      "fileName": "Noise Source.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Protective Earth.svg",
+      "label": "Protective Earth",
+      "fileName": "Protective Earth.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Signal Ground.svg",
+      "label": "Signal Ground",
+      "fileName": "Signal Ground.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Vdd.svg",
+      "label": "Vdd",
+      "fileName": "Vdd.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Voltage.svg",
+      "label": "Voltage",
+      "fileName": "Voltage.svg"
+    },
+    {
+      "path": "/diagram-icons/信号源/Vss2.svg",
+      "label": "Vss2",
+      "fileName": "Vss2.svg"
+    }
+  ]
+}

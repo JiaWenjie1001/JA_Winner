@@ -1,0 +1,120 @@
+{
+  "name": "电子波形",
+  "icons": [
+    {
+      "path": "/diagram-icons/电子波形/Data Changing.svg",
+      "label": "Data Changing",
+      "fileName": "Data Changing.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Data Ending.svg",
+      "label": "Data Ending",
+      "fileName": "Data Ending.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Data Invalid 1.svg",
+      "label": "Data Invalid 1",
+      "fileName": "Data Invalid 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Data Invalid 2.svg",
+      "label": "Data Invalid 2",
+      "fileName": "Data Invalid 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Data Starting.svg",
+      "label": "Data Starting",
+      "fileName": "Data Starting.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Data Valid.svg",
+      "label": "Data Valid",
+      "fileName": "Data Valid.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Down Ramp.svg",
+      "label": "Down Ramp",
+      "fileName": "Down Ramp.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Edge.svg",
+      "label": "Edge",
+      "fileName": "Edge.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Event.svg",
+      "label": "Event",
+      "fileName": "Event.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Level.svg",
+      "label": "Level",
+      "fileName": "Level.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Pulse 1.svg",
+      "label": "Pulse 1",
+      "fileName": "Pulse 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Pulse 2.svg",
+      "label": "Pulse 2",
+      "fileName": "Pulse 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Sawtooth.svg",
+      "label": "Sawtooth",
+      "fileName": "Sawtooth.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Sine Wave.svg",
+      "label": "Sine Wave",
+      "fileName": "Sine Wave.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Slow Square Wave.svg",
+      "label": "Slow Square Wave",
+      "fileName": "Slow Square Wave.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Square Wave.svg",
+      "label": "Square Wave",
+      "fileName": "Square Wave.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Step 1.svg",
+      "label": "Step 1",
+      "fileName": "Step 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Step 2.svg",
+      "label": "Step 2",
+      "fileName": "Step 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Timing Line.svg",
+      "label": "Timing Line",
+      "fileName": "Timing Line.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Timing Mark 1.svg",
+      "label": "Timing Mark 1",
+      "fileName": "Timing Mark 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Timing Mark 2.svg",
+      "label": "Timing Mark 2",
+      "fileName": "Timing Mark 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Timing Mark 3.svg",
+      "label": "Timing Mark 3",
+      "fileName": "Timing Mark 3.svg"
+    },
+    {
+      "path": "/diagram-icons/电子波形/Up Ramp.svg",
+      "label": "Up Ramp",
+      "fileName": "Up Ramp.svg"
+    }
+  ]
+}

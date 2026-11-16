@@ -1,0 +1,475 @@
+{
+  "name": "IoT-Computer Keys(电脑按键)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/+ =.svg",
+      "label": "+ =",
+      "fileName": "+ =.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/- ;.svg",
+      "label": "- ;",
+      "fileName": "- ;.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/-.svg",
+      "label": "-",
+      "fileName": "-.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/0.svg",
+      "label": "0",
+      "fileName": "0.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/1.svg",
+      "label": "1",
+      "fileName": "1.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/2.svg",
+      "label": "2",
+      "fileName": "2.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/3.svg",
+      "label": "3",
+      "fileName": "3.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/4.svg",
+      "label": "4",
+      "fileName": "4.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/5.svg",
+      "label": "5",
+      "fileName": "5.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/6.svg",
+      "label": "6",
+      "fileName": "6.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/7.svg",
+      "label": "7",
+      "fileName": "7.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/8.svg",
+      "label": "8",
+      "fileName": "8.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/9.svg",
+      "label": "9",
+      "fileName": "9.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/A.svg",
+      "label": "A",
+      "fileName": "A.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Alt.svg",
+      "label": "Alt",
+      "fileName": "Alt.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/B.svg",
+      "label": "B",
+      "fileName": "B.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Back.svg",
+      "label": "Back",
+      "fileName": "Back.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/C.svg",
+      "label": "C",
+      "fileName": "C.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Caps Lock.svg",
+      "label": "Caps Lock",
+      "fileName": "Caps Lock.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Control 1.svg",
+      "label": "Control 1",
+      "fileName": "Control 1.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Control 2.svg",
+      "label": "Control 2",
+      "fileName": "Control 2.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/D.svg",
+      "label": "D",
+      "fileName": "D.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Delete.svg",
+      "label": "Delete",
+      "fileName": "Delete.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/E.svg",
+      "label": "E",
+      "fileName": "E.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/End.svg",
+      "label": "End",
+      "fileName": "End.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Enter 1.svg",
+      "label": "Enter 1",
+      "fileName": "Enter 1.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Enter 2.svg",
+      "label": "Enter 2",
+      "fileName": "Enter 2.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Ese.svg",
+      "label": "Ese",
+      "fileName": "Ese.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F.svg",
+      "label": "F",
+      "fileName": "F.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F1.svg",
+      "label": "F1",
+      "fileName": "F1.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F10.svg",
+      "label": "F10",
+      "fileName": "F10.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F11.svg",
+      "label": "F11",
+      "fileName": "F11.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F12.svg",
+      "label": "F12",
+      "fileName": "F12.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F2.svg",
+      "label": "F2",
+      "fileName": "F2.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F3.svg",
+      "label": "F3",
+      "fileName": "F3.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F4.svg",
+      "label": "F4",
+      "fileName": "F4.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F5.svg",
+      "label": "F5",
+      "fileName": "F5.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F6.svg",
+      "label": "F6",
+      "fileName": "F6.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F7.svg",
+      "label": "F7",
+      "fileName": "F7.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F8.svg",
+      "label": "F8",
+      "fileName": "F8.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/F9.svg",
+      "label": "F9",
+      "fileName": "F9.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/G.svg",
+      "label": "G",
+      "fileName": "G.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/H.svg",
+      "label": "H",
+      "fileName": "H.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Home.svg",
+      "label": "Home",
+      "fileName": "Home.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/I.svg",
+      "label": "I",
+      "fileName": "I.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Insert.svg",
+      "label": "Insert",
+      "fileName": "Insert.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/J.svg",
+      "label": "J",
+      "fileName": "J.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/K.svg",
+      "label": "K",
+      "fileName": "K.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Keyboard(键盘).svg",
+      "label": "键盘",
+      "fileName": "Keyboard(键盘).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/L.svg",
+      "label": "L",
+      "fileName": "L.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/M.svg",
+      "label": "M",
+      "fileName": "M.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/N.svg",
+      "label": "N",
+      "fileName": "N.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Num Lock.svg",
+      "label": "Num Lock",
+      "fileName": "Num Lock.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/O.svg",
+      "label": "O",
+      "fileName": "O.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/P.svg",
+      "label": "P",
+      "fileName": "P.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Page Down.svg",
+      "label": "Page Down",
+      "fileName": "Page Down.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Page Up.svg",
+      "label": "Page Up",
+      "fileName": "Page Up.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Pause Break.svg",
+      "label": "Pause Break",
+      "fileName": "Pause Break.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Print Screen.svg",
+      "label": "Print Screen",
+      "fileName": "Print Screen.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Q.svg",
+      "label": "Q",
+      "fileName": "Q.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/R.svg",
+      "label": "R",
+      "fileName": "R.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/S.svg",
+      "label": "S",
+      "fileName": "S.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Scroll Lock.svg",
+      "label": "Scroll Lock",
+      "fileName": "Scroll Lock.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Shift 1.svg",
+      "label": "Shift 1",
+      "fileName": "Shift 1.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Shift 2.svg",
+      "label": "Shift 2",
+      "fileName": "Shift 2.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/T.svg",
+      "label": "T",
+      "fileName": "T.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Tab.svg",
+      "label": "Tab",
+      "fileName": "Tab.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/U.svg",
+      "label": "U",
+      "fileName": "U.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/V.svg",
+      "label": "V",
+      "fileName": "V.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/W.svg",
+      "label": "W",
+      "fileName": "W.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/win.svg",
+      "label": "win",
+      "fileName": "win.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/X.svg",
+      "label": "X",
+      "fileName": "X.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Y.svg",
+      "label": "Y",
+      "fileName": "Y.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/Z.svg",
+      "label": "Z",
+      "fileName": "Z.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/_ '.svg",
+      "label": "_ '",
+      "fileName": "_ '.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/_ -.svg",
+      "label": "_ -",
+      "fileName": "_ -.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/_ .svg",
+      "label": "_ ",
+      "fileName": "_ .svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/_ _.svg",
+      "label": "_ _",
+      "fileName": "_ _.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/_.svg",
+      "label": "_",
+      "fileName": "_.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/_，.svg",
+      "label": "_，",
+      "fileName": "_，.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/{ [.svg",
+      "label": "{ [",
+      "fileName": "{ [.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/} ].svg",
+      "label": "} ]",
+      "fileName": "} ].svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/~ 、.svg",
+      "label": "~ 、",
+      "fileName": "~ 、.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/— -.svg",
+      "label": "— -",
+      "fileName": "— -.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/减号.svg",
+      "label": "减号",
+      "fileName": "减号.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/加号.svg",
+      "label": "加号",
+      "fileName": "加号.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/向上箭头.svg",
+      "label": "向上箭头",
+      "fileName": "向上箭头.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/向下箭头.svg",
+      "label": "向下箭头",
+      "fileName": "向下箭头.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/向右箭头.svg",
+      "label": "向右箭头",
+      "fileName": "向右箭头.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/向左箭头.svg",
+      "label": "向左箭头",
+      "fileName": "向左箭头.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/小数点.svg",
+      "label": "小数点",
+      "fileName": "小数点.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/小键盘0.svg",
+      "label": "小键盘",
+      "fileName": "小键盘0.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/空格.svg",
+      "label": "空格",
+      "fileName": "空格.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Computer Keys(电脑按键)/鼠标右键.svg",
+      "label": "鼠标右键",
+      "fileName": "鼠标右键.svg"
+    }
+  ]
+}

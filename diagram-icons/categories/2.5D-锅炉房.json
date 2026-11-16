@@ -1,0 +1,25 @@
+{
+  "name": "2.5D-锅炉房",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-锅炉房/冷凝器.svg",
+      "label": "冷凝器",
+      "fileName": "冷凝器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-锅炉房/燃气蒸汽炉.svg",
+      "label": "燃气蒸汽炉",
+      "fileName": "燃气蒸汽炉.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-锅炉房/过滤器.svg",
+      "label": "过滤器",
+      "fileName": "过滤器.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-锅炉房/除氧器.svg",
+      "label": "除氧器",
+      "fileName": "除氧器.svg"
+    }
+  ]
+}

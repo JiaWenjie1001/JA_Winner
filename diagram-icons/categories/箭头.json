@@ -1,0 +1,175 @@
+{
+  "name": "箭头",
+  "icons": [
+    {
+      "path": "/diagram-icons/箭头/Arrow Down.svg",
+      "label": "Arrow Down",
+      "fileName": "Arrow Down.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Arrow Left.svg",
+      "label": "Arrow Left",
+      "fileName": "Arrow Left.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Arrow Right.svg",
+      "label": "Arrow Right",
+      "fileName": "Arrow Right.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Arrow Up.svg",
+      "label": "Arrow Up",
+      "fileName": "Arrow Up.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Bent Left Arrow.svg",
+      "label": "Bent Left Arrow",
+      "fileName": "Bent Left Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Bent Right Arrow.svg",
+      "label": "Bent Right Arrow",
+      "fileName": "Bent Right Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Bent Up Arrow.svg",
+      "label": "Bent Up Arrow",
+      "fileName": "Bent Up Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Callout Double Arrow.svg",
+      "label": "Callout Double Arrow",
+      "fileName": "Callout Double Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Callout Quad Arrow.svg",
+      "label": "Callout Quad Arrow",
+      "fileName": "Callout Quad Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Callout Up Arrow.svg",
+      "label": "Callout Up Arrow",
+      "fileName": "Callout Up Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Chevron Arrow.svg",
+      "label": "Chevron Arrow",
+      "fileName": "Chevron Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Circular Arrow.svg",
+      "label": "Circular Arrow",
+      "fileName": "Circular Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Jump-in Arrow 1.svg",
+      "label": "Jump-in Arrow 1",
+      "fileName": "Jump-in Arrow 1.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Jump-in Arrow 2.svg",
+      "label": "Jump-in Arrow 2",
+      "fileName": "Jump-in Arrow 2.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Left and Up Arrow.svg",
+      "label": "Left and Up Arrow",
+      "fileName": "Left and Up Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Left Sharp Edged Head Arrow.svg",
+      "label": "Left Sharp Edged Head Arrow",
+      "fileName": "Left Sharp Edged Head Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Notched Signal-in Arrow.svg",
+      "label": "Notched Signal-in Arrow",
+      "fileName": "Notched Signal-in Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Quad Arrow.svg",
+      "label": "Quad Arrow",
+      "fileName": "Quad Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Right Notched Arrow.svg",
+      "label": "Right Notched Arrow",
+      "fileName": "Right Notched Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Sharp Edged Arrow.svg",
+      "label": "Sharp Edged Arrow",
+      "fileName": "Sharp Edged Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Signal-in Arrow.svg",
+      "label": "Signal-in Arrow",
+      "fileName": "Signal-in Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Slender Left Arrow.svg",
+      "label": "Slender Left Arrow",
+      "fileName": "Slender Left Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Slender Two Way Arrow.svg",
+      "label": "Slender Two Way Arrow",
+      "fileName": "Slender Two Way Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Slender Wide Tailed Arrow.svg",
+      "label": "Slender Wide Tailed Arrow",
+      "fileName": "Slender Wide Tailed Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Striped Arrow.svg",
+      "label": "Striped Arrow",
+      "fileName": "Striped Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Stylised Notched Arrow.svg",
+      "label": "Stylised Notched Arrow",
+      "fileName": "Stylised Notched Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Triad Arrow.svg",
+      "label": "Triad Arrow",
+      "fileName": "Triad Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Two Way Arrow Horizontal.svg",
+      "label": "Two Way Arrow Horizontal",
+      "fileName": "Two Way Arrow Horizontal.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/Two Way Arrow Vertical.svg",
+      "label": "Two Way Arrow Vertical",
+      "fileName": "Two Way Arrow Vertical.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/U Turn Arrow.svg",
+      "label": "U Turn Arrow",
+      "fileName": "U Turn Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/U Turn Down Arrow.svg",
+      "label": "U Turn Down Arrow",
+      "fileName": "U Turn Down Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/U Turn Left Arrow.svg",
+      "label": "U Turn Left Arrow",
+      "fileName": "U Turn Left Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/U Turn Right Arrow.svg",
+      "label": "U Turn Right Arrow",
+      "fileName": "U Turn Right Arrow.svg"
+    },
+    {
+      "path": "/diagram-icons/箭头/U Turn Up Arrow.svg",
+      "label": "U Turn Up Arrow",
+      "fileName": "U Turn Up Arrow.svg"
+    }
+  ]
+}

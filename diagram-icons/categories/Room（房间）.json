@@ -1,0 +1,85 @@
+{
+  "name": "Room（房间）",
+  "icons": [
+    {
+      "path": "/diagram-icons/Room（房间）/Air conditioner（空调）.svg",
+      "label": "空调",
+      "fileName": "Air conditioner（空调）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Control system（控制系统）.svg",
+      "label": "控制系统",
+      "fileName": "Control system（控制系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Desktop computer（台式机）.svg",
+      "label": "台式机",
+      "fileName": "Desktop computer（台式机）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Desk（办公桌）.svg",
+      "label": "办公桌",
+      "fileName": "Desk（办公桌）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Fire Fighting Box（消防箱）.svg",
+      "label": "消防箱",
+      "fileName": "Fire Fighting Box（消防箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/House type（户型）.svg",
+      "label": "户型",
+      "fileName": "House type（户型）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Monitor 1（监控1）.svg",
+      "label": "监控",
+      "fileName": "Monitor 1（监控1）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Monitor 2（监控2）.svg",
+      "label": "监控",
+      "fileName": "Monitor 2（监控2）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Notebook computer（笔记本电脑）.svg",
+      "label": "笔记本电脑",
+      "fileName": "Notebook computer（笔记本电脑）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Office chair（办公椅）.svg",
+      "label": "办公椅",
+      "fileName": "Office chair（办公椅）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Power Distribution Box（配电箱）.svg",
+      "label": "配电箱",
+      "fileName": "Power Distribution Box（配电箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Radiator（散热器）.svg",
+      "label": "散热器",
+      "fileName": "Radiator（散热器）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Single person sofa（单人沙发）.svg",
+      "label": "单人沙发",
+      "fileName": "Single person sofa（单人沙发）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Tea table（茶几）.svg",
+      "label": "茶几",
+      "fileName": "Tea table（茶几）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/The server（服务器）.svg",
+      "label": "服务器",
+      "fileName": "The server（服务器）.svg"
+    },
+    {
+      "path": "/diagram-icons/Room（房间）/Three-person sofas（三人沙发）.svg",
+      "label": "三人沙发",
+      "fileName": "Three-person sofas（三人沙发）.svg"
+    }
+  ]
+}

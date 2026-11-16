@@ -1,0 +1,140 @@
+{
+  "name": "2.5D-智慧城市",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/充电桩.svg",
+      "label": "充电桩",
+      "fileName": "充电桩.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/公交车1.svg",
+      "label": "公交车",
+      "fileName": "公交车1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/公交车2.svg",
+      "label": "公交车",
+      "fileName": "公交车2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/公交车站.svg",
+      "label": "公交车站",
+      "fileName": "公交车站.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/建筑1.svg",
+      "label": "建筑",
+      "fileName": "建筑1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/建筑2.svg",
+      "label": "建筑",
+      "fileName": "建筑2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/建筑3.svg",
+      "label": "建筑",
+      "fileName": "建筑3.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/建筑4.svg",
+      "label": "建筑",
+      "fileName": "建筑4.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/建筑5.svg",
+      "label": "建筑",
+      "fileName": "建筑5.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/建筑6.svg",
+      "label": "建筑",
+      "fileName": "建筑6.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/建筑7.svg",
+      "label": "建筑",
+      "fileName": "建筑7.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/挖掘机1.svg",
+      "label": "挖掘机",
+      "fileName": "挖掘机1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/树1.svg",
+      "label": "树",
+      "fileName": "树1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/树2.svg",
+      "label": "树",
+      "fileName": "树2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/水.svg",
+      "label": "水",
+      "fileName": "水.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/汽车1.svg",
+      "label": "汽车",
+      "fileName": "汽车1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/汽车2.svg",
+      "label": "汽车",
+      "fileName": "汽车2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/红绿灯.svg",
+      "label": "红绿灯",
+      "fileName": "红绿灯.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/草地.svg",
+      "label": "草地",
+      "fileName": "草地.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/货船1.svg",
+      "label": "货船",
+      "fileName": "货船1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/货船2.svg",
+      "label": "货船",
+      "fileName": "货船2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/货车1.svg",
+      "label": "货车",
+      "fileName": "货车1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/货车2.svg",
+      "label": "货车",
+      "fileName": "货车2.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/路灯.svg",
+      "label": "路灯",
+      "fileName": "路灯.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/风电机.svg",
+      "label": "风电机",
+      "fileName": "风电机.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/马路1.svg",
+      "label": "马路",
+      "fileName": "马路1.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-智慧城市/马路2.svg",
+      "label": "马路",
+      "fileName": "马路2.svg"
+    }
+  ]
+}

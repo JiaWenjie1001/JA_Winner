@@ -1,0 +1,90 @@
+{
+  "name": "电子传输",
+  "icons": [
+    {
+      "path": "/diagram-icons/电子传输/2 Line Bus.svg",
+      "label": "2 Line Bus",
+      "fileName": "2 Line Bus.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/3 Line Bus.svg",
+      "label": "3 Line Bus",
+      "fileName": "3 Line Bus.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/4 Line Bus.svg",
+      "label": "4 Line Bus",
+      "fileName": "4 Line Bus.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/8 Line Bus.svg",
+      "label": "8 Line Bus",
+      "fileName": "8 Line Bus.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Anticreepage Device.svg",
+      "label": "Anticreepage Device",
+      "fileName": "Anticreepage Device.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Bus Width.svg",
+      "label": "Bus Width",
+      "fileName": "Bus Width.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Cable Group.svg",
+      "label": "Cable Group",
+      "fileName": "Cable Group.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Contact.svg",
+      "label": "Contact",
+      "fileName": "Contact.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Line Cable.svg",
+      "label": "Line Cable",
+      "fileName": "Line Cable.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Line Concentrator.svg",
+      "label": "Line Concentrator",
+      "fileName": "Line Concentrator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Not Contact.svg",
+      "label": "Not Contact",
+      "fileName": "Not Contact.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Not Output 1.svg",
+      "label": "Not Output 1",
+      "fileName": "Not Output 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Not Output 2.svg",
+      "label": "Not Output 2",
+      "fileName": "Not Output 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Optical Fiber.svg",
+      "label": "Optical Fiber",
+      "fileName": "Optical Fiber.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Output 1.svg",
+      "label": "Output 1",
+      "fileName": "Output 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Output 2.svg",
+      "label": "Output 2",
+      "fileName": "Output 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子传输/Overground Enclosure.svg",
+      "label": "Overground Enclosure",
+      "fileName": "Overground Enclosure.svg"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "IoT-MIXERS(搅拌器)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/3-D Mixer（3d混频器）.svg",
+      "label": "混频器",
+      "fileName": "3-D Mixer（3d混频器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Condensate collection tank（凝结水收集罐）.svg",
+      "label": "凝结水收集罐",
+      "fileName": "Condensate collection tank（凝结水收集罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Impeller（叶轮）.svg",
+      "label": "叶轮",
+      "fileName": "Impeller（叶轮）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/ISA Agitator（isa搅拌器） (2).svg",
+      "label": "搅拌器",
+      "fileName": "ISA Agitator（isa搅拌器） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/ISA Agitator（isa搅拌器）.svg",
+      "label": "搅拌器",
+      "fileName": "ISA Agitator（isa搅拌器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/ISA Inline mixer（isa直列混合器）.svg",
+      "label": "直列混合器",
+      "fileName": "ISA Inline mixer（isa直列混合器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Magnetic mixer（磁力混合器）.svg",
+      "label": "磁力混合器",
+      "fileName": "Magnetic mixer（磁力混合器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Mixer blade（搅拌机叶片）.svg",
+      "label": "搅拌机叶片",
+      "fileName": "Mixer blade（搅拌机叶片）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Mixer （搅拌机） (2).svg",
+      "label": "搅拌机",
+      "fileName": "Mixer （搅拌机） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Mixer （搅拌机）.svg",
+      "label": "搅拌机",
+      "fileName": "Mixer （搅拌机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Mixer（搅拌机） (2).svg",
+      "label": "搅拌机",
+      "fileName": "Mixer（搅拌机） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Mixer（搅拌机）.svg",
+      "label": "搅拌机",
+      "fileName": "Mixer（搅拌机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Pneumatic mixer（气动混合器）.svg",
+      "label": "气动混合器",
+      "fileName": "Pneumatic mixer（气动混合器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Pneumatic mixer（气汽动混合器）.svg",
+      "label": "气汽动混合器",
+      "fileName": "Pneumatic mixer（气汽动混合器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Portable mixer（便携式搅拌机）.svg",
+      "label": "便携式搅拌机",
+      "fileName": "Portable mixer（便携式搅拌机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Screw-type mixer（螺旋式搅拌机）.svg",
+      "label": "螺旋式搅拌机",
+      "fileName": "Screw-type mixer（螺旋式搅拌机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Simple mixer（简易混合器0.svg",
+      "label": "简易混合器",
+      "fileName": "Simple mixer（简易混合器0.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Slurrification（浆化器）.svg",
+      "label": "浆化器",
+      "fileName": "Slurrification（浆化器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Submersible mixer（潜水搅拌机）.svg",
+      "label": "潜水搅拌机",
+      "fileName": "Submersible mixer（潜水搅拌机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Tank with agitator（带搅拌机的罐）.svg",
+      "label": "带搅拌机的罐",
+      "fileName": "Tank with agitator（带搅拌机的罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-MIXERS(搅拌器)/Turbine agitator（涡轮搅拌器）.svg",
+      "label": "涡轮搅拌器",
+      "fileName": "Turbine agitator（涡轮搅拌器）.svg"
+    }
+  ]
+}

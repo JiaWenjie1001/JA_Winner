@@ -1,0 +1,110 @@
+{
+  "name": "IoT-Boilers(锅炉)",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Boiler 1(锅炉1).svg",
+      "label": "锅炉",
+      "fileName": "Boiler 1(锅炉1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Boiler 2(锅炉2).svg",
+      "label": "锅炉",
+      "fileName": "Boiler 2(锅炉2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Boiler 3(锅炉3).svg",
+      "label": "锅炉",
+      "fileName": "Boiler 3(锅炉3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Boiler 4(锅炉4).svg",
+      "label": "锅炉",
+      "fileName": "Boiler 4(锅炉4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Boiler 5(锅炉5).svg",
+      "label": "锅炉",
+      "fileName": "Boiler 5(锅炉5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Boiler 6(锅炉6).svg",
+      "label": "锅炉",
+      "fileName": "Boiler 6(锅炉6).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Boiler control 1(燃油锅炉1).svg",
+      "label": "燃油锅炉",
+      "fileName": "Boiler control 1(燃油锅炉1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Boiler control 2(燃油锅炉2).svg",
+      "label": "燃油锅炉",
+      "fileName": "Boiler control 2(燃油锅炉2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Boiler with flames and a pipe(火焰管道式锅炉).svg",
+      "label": "火焰管道式锅炉",
+      "fileName": "Boiler with flames and a pipe(火焰管道式锅炉).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Electric hot water and steam boiler(电热水蒸汽锅炉).svg",
+      "label": "电热水蒸汽锅炉",
+      "fileName": "Electric hot water and steam boiler(电热水蒸汽锅炉).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Firebox boiler(燃烧室锅炉).svg",
+      "label": "燃烧室锅炉",
+      "fileName": "Firebox boiler(燃烧室锅炉).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Flexible water tube boiler(可调水管式锅炉).svg",
+      "label": "可调水管式锅炉",
+      "fileName": "Flexible water tube boiler(可调水管式锅炉).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Gas-fired boiler(燃气锅炉).svg",
+      "label": "燃气锅炉",
+      "fileName": "Gas-fired boiler(燃气锅炉).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Heat tank(蓄热罐).svg",
+      "label": "蓄热罐",
+      "fileName": "Heat tank(蓄热罐).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Low emission boiler(低污染锅炉).svg",
+      "label": "低污染锅炉",
+      "fileName": "Low emission boiler(低污染锅炉).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Oil fired boiler 1(燃油锅炉1).svg",
+      "label": "燃油锅炉",
+      "fileName": "Oil fired boiler 1(燃油锅炉1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Oil fired boiler 2(燃油锅炉2).svg",
+      "label": "燃油锅炉",
+      "fileName": "Oil fired boiler 2(燃油锅炉2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Pulse combustion boiler(脉动燃烧加热炉).svg",
+      "label": "脉动燃烧加热炉",
+      "fileName": "Pulse combustion boiler(脉动燃烧加热炉).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Skid mounted boiler(撬装锅炉).svg",
+      "label": "撬装锅炉",
+      "fileName": "Skid mounted boiler(撬装锅炉).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Steam boiler 1(蒸汽锅炉1).svg",
+      "label": "蒸汽锅炉",
+      "fileName": "Steam boiler 1(蒸汽锅炉1).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-Boilers(锅炉)/Steam boiler 2(蒸汽锅炉2).svg",
+      "label": "蒸汽锅炉",
+      "fileName": "Steam boiler 2(蒸汽锅炉2).svg"
+    }
+  ]
+}

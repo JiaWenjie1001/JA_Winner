@@ -1,0 +1,35 @@
+{
+  "name": "2.5D-火力发电",
+  "icons": [
+    {
+      "path": "/diagram-icons/2.5D-火力发电/冷却塔.svg",
+      "label": "冷却塔",
+      "fileName": "冷却塔.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-火力发电/半球式储煤场.svg",
+      "label": "半球式储煤场",
+      "fileName": "半球式储煤场.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-火力发电/汽轮机厂房.svg",
+      "label": "汽轮机厂房",
+      "fileName": "汽轮机厂房.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-火力发电/烟囱.svg",
+      "label": "烟囱",
+      "fileName": "烟囱.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-火力发电/煤场.svg",
+      "label": "煤场",
+      "fileName": "煤场.svg"
+    },
+    {
+      "path": "/diagram-icons/2.5D-火力发电/粉煤灰储料罐.svg",
+      "label": "粉煤灰储料罐",
+      "fileName": "粉煤灰储料罐.svg"
+    }
+  ]
+}

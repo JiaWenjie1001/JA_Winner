@@ -1,0 +1,115 @@
+{
+  "name": "IoT-process cooling（制程冷却）",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Absorption chiller（吸收式制冷机）.svg",
+      "label": "吸收式制冷机",
+      "fileName": "Absorption chiller（吸收式制冷机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Chiller（冷却器） (2).svg",
+      "label": "冷却器",
+      "fileName": "Chiller（冷却器） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Chiller（冷却器） (3).svg",
+      "label": "冷却器",
+      "fileName": "Chiller（冷却器） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Chiller（冷却器） (4).svg",
+      "label": "冷却器",
+      "fileName": "Chiller（冷却器） (4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Chiller（冷却器） (5).svg",
+      "label": "冷却器",
+      "fileName": "Chiller（冷却器） (5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Chiller（冷却器） (6).svg",
+      "label": "冷却器",
+      "fileName": "Chiller（冷却器） (6).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Chiller（冷却器）.svg",
+      "label": "冷却器",
+      "fileName": "Chiller（冷却器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Cold generator chiller（冷发电机冷却器）.svg",
+      "label": "冷发电机冷却器",
+      "fileName": "Cold generator chiller（冷发电机冷却器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Comfort cooler（舒适冷却器）.svg",
+      "label": "舒适冷却器",
+      "fileName": "Comfort cooler（舒适冷却器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Cooling tower（冷却塔） (2).svg",
+      "label": "冷却塔",
+      "fileName": "Cooling tower（冷却塔） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Cooling tower（冷却塔） (3).svg",
+      "label": "冷却塔",
+      "fileName": "Cooling tower（冷却塔） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Cooling tower（冷却塔） (4).svg",
+      "label": "冷却塔",
+      "fileName": "Cooling tower（冷却塔） (4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Cooling tower（冷却塔） (5).svg",
+      "label": "冷却塔",
+      "fileName": "Cooling tower（冷却塔） (5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Cooling tower（冷却塔）.svg",
+      "label": "冷却塔",
+      "fileName": "Cooling tower（冷却塔）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Engine driven chiller（发电机驱动冷却器）.svg",
+      "label": "发电机驱动冷却器",
+      "fileName": "Engine driven chiller（发电机驱动冷却器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Explosion-proof industrial refrigerator-freezer（防爆工业冷冻机）.svg",
+      "label": "防爆工业冷冻机",
+      "fileName": "Explosion-proof industrial refrigerator-freezer（防爆工业冷冻机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Large portable chiller（大型便携式冷水机）.svg",
+      "label": "大型便携式冷水机",
+      "fileName": "Large portable chiller（大型便携式冷水机）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Natural gas refrigeration system（天然气制冷系统）.svg",
+      "label": "天然气制冷系统",
+      "fileName": "Natural gas refrigeration system（天然气制冷系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Reactor product cooler（反应器产物冷却器）.svg",
+      "label": "反应器产物冷却器",
+      "fileName": "Reactor product cooler（反应器产物冷却器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Simple cooling tower（简易冷却塔）.svg",
+      "label": "简易冷却塔",
+      "fileName": "Simple cooling tower（简易冷却塔）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Temperature control unit（单元控制温度）.svg",
+      "label": "单元控制温度",
+      "fileName": "Temperature control unit（单元控制温度）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-process cooling（制程冷却）/Water-cooled chiller（水冷式冷水机组）.svg",
+      "label": "水冷式冷水机组",
+      "fileName": "Water-cooled chiller（水冷式冷水机组）.svg"
+    }
+  ]
+}

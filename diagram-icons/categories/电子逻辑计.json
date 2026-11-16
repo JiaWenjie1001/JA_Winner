@@ -1,0 +1,55 @@
+{
+  "name": "电子逻辑计",
+  "icons": [
+    {
+      "path": "/diagram-icons/电子逻辑计/Comparator.svg",
+      "label": "Comparator",
+      "fileName": "Comparator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子逻辑计/Differentiator.svg",
+      "label": "Differentiator",
+      "fileName": "Differentiator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子逻辑计/Integrator.svg",
+      "label": "Integrator",
+      "fileName": "Integrator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子逻辑计/Inverting Amplifier.svg",
+      "label": "Inverting Amplifier",
+      "fileName": "Inverting Amplifier.svg"
+    },
+    {
+      "path": "/diagram-icons/电子逻辑计/Multivibrator.svg",
+      "label": "Multivibrator",
+      "fileName": "Multivibrator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子逻辑计/Non-inverting Amplifier.svg",
+      "label": "Non-inverting Amplifier",
+      "fileName": "Non-inverting Amplifier.svg"
+    },
+    {
+      "path": "/diagram-icons/电子逻辑计/Regen Comparator.svg",
+      "label": "Regen Comparator",
+      "fileName": "Regen Comparator.svg"
+    },
+    {
+      "path": "/diagram-icons/电子逻辑计/Subtractor.svg",
+      "label": "Subtractor",
+      "fileName": "Subtractor.svg"
+    },
+    {
+      "path": "/diagram-icons/电子逻辑计/Summing Amplifier.svg",
+      "label": "Summing Amplifier",
+      "fileName": "Summing Amplifier.svg"
+    },
+    {
+      "path": "/diagram-icons/电子逻辑计/Unity Gain Follower.svg",
+      "label": "Unity Gain Follower",
+      "fileName": "Unity Gain Follower.svg"
+    }
+  ]
+}

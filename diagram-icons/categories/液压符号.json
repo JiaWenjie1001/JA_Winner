@@ -1,0 +1,1230 @@
+{
+  "name": "液压符号",
+  "icons": [
+    {
+      "path": "/diagram-icons/液压符号/X10010.svg",
+      "label": "X10010",
+      "fileName": "X10010.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10020.svg",
+      "label": "X10020",
+      "fileName": "X10020.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10030.svg",
+      "label": "X10030",
+      "fileName": "X10030.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10040.svg",
+      "label": "X10040",
+      "fileName": "X10040.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10050.svg",
+      "label": "X10050",
+      "fileName": "X10050.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10060.svg",
+      "label": "X10060",
+      "fileName": "X10060.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10070.svg",
+      "label": "X10070",
+      "fileName": "X10070.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10080.svg",
+      "label": "X10080",
+      "fileName": "X10080.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10090.svg",
+      "label": "X10090",
+      "fileName": "X10090.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10100.svg",
+      "label": "X10100",
+      "fileName": "X10100.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10110.svg",
+      "label": "X10110",
+      "fileName": "X10110.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10120.svg",
+      "label": "X10120",
+      "fileName": "X10120.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10130.svg",
+      "label": "X10130",
+      "fileName": "X10130.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10140.svg",
+      "label": "X10140",
+      "fileName": "X10140.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10150.svg",
+      "label": "X10150",
+      "fileName": "X10150.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10160.svg",
+      "label": "X10160",
+      "fileName": "X10160.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10170.svg",
+      "label": "X10170",
+      "fileName": "X10170.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10180.svg",
+      "label": "X10180",
+      "fileName": "X10180.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10190.svg",
+      "label": "X10190",
+      "fileName": "X10190.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10200.svg",
+      "label": "X10200",
+      "fileName": "X10200.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10210.svg",
+      "label": "X10210",
+      "fileName": "X10210.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10220.svg",
+      "label": "X10220",
+      "fileName": "X10220.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10230.svg",
+      "label": "X10230",
+      "fileName": "X10230.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10240.svg",
+      "label": "X10240",
+      "fileName": "X10240.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10250.svg",
+      "label": "X10250",
+      "fileName": "X10250.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10260.svg",
+      "label": "X10260",
+      "fileName": "X10260.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10270.svg",
+      "label": "X10270",
+      "fileName": "X10270.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10280.svg",
+      "label": "X10280",
+      "fileName": "X10280.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10290.svg",
+      "label": "X10290",
+      "fileName": "X10290.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10300.svg",
+      "label": "X10300",
+      "fileName": "X10300.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10310.svg",
+      "label": "X10310",
+      "fileName": "X10310.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10320.svg",
+      "label": "X10320",
+      "fileName": "X10320.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10330.svg",
+      "label": "X10330",
+      "fileName": "X10330.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10340.svg",
+      "label": "X10340",
+      "fileName": "X10340.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10350.svg",
+      "label": "X10350",
+      "fileName": "X10350.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10360.svg",
+      "label": "X10360",
+      "fileName": "X10360.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10370.svg",
+      "label": "X10370",
+      "fileName": "X10370.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10380.svg",
+      "label": "X10380",
+      "fileName": "X10380.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10390.svg",
+      "label": "X10390",
+      "fileName": "X10390.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10400.svg",
+      "label": "X10400",
+      "fileName": "X10400.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10410.svg",
+      "label": "X10410",
+      "fileName": "X10410.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10420.svg",
+      "label": "X10420",
+      "fileName": "X10420.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10430.svg",
+      "label": "X10430",
+      "fileName": "X10430.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10440.svg",
+      "label": "X10440",
+      "fileName": "X10440.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10441.svg",
+      "label": "X10441",
+      "fileName": "X10441.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10442.svg",
+      "label": "X10442",
+      "fileName": "X10442.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10450.svg",
+      "label": "X10450",
+      "fileName": "X10450.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10460.svg",
+      "label": "X10460",
+      "fileName": "X10460.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10470.svg",
+      "label": "X10470",
+      "fileName": "X10470.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10480.svg",
+      "label": "X10480",
+      "fileName": "X10480.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10490.svg",
+      "label": "X10490",
+      "fileName": "X10490.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10500.svg",
+      "label": "X10500",
+      "fileName": "X10500.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10510.svg",
+      "label": "X10510",
+      "fileName": "X10510.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10520.svg",
+      "label": "X10520",
+      "fileName": "X10520.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10530.svg",
+      "label": "X10530",
+      "fileName": "X10530.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10540.svg",
+      "label": "X10540",
+      "fileName": "X10540.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10550.svg",
+      "label": "X10550",
+      "fileName": "X10550.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10560.svg",
+      "label": "X10560",
+      "fileName": "X10560.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10570.svg",
+      "label": "X10570",
+      "fileName": "X10570.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10580.svg",
+      "label": "X10580",
+      "fileName": "X10580.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10590.svg",
+      "label": "X10590",
+      "fileName": "X10590.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10600.svg",
+      "label": "X10600",
+      "fileName": "X10600.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10610.svg",
+      "label": "X10610",
+      "fileName": "X10610.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10620.svg",
+      "label": "X10620",
+      "fileName": "X10620.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10630.svg",
+      "label": "X10630",
+      "fileName": "X10630.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10640.svg",
+      "label": "X10640",
+      "fileName": "X10640.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10650.svg",
+      "label": "X10650",
+      "fileName": "X10650.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10660.svg",
+      "label": "X10660",
+      "fileName": "X10660.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10670.svg",
+      "label": "X10670",
+      "fileName": "X10670.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10680.svg",
+      "label": "X10680",
+      "fileName": "X10680.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10690.svg",
+      "label": "X10690",
+      "fileName": "X10690.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10700.svg",
+      "label": "X10700",
+      "fileName": "X10700.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10710.svg",
+      "label": "X10710",
+      "fileName": "X10710.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10720.svg",
+      "label": "X10720",
+      "fileName": "X10720.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10730.svg",
+      "label": "X10730",
+      "fileName": "X10730.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10740.svg",
+      "label": "X10740",
+      "fileName": "X10740.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10750.svg",
+      "label": "X10750",
+      "fileName": "X10750.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10760.svg",
+      "label": "X10760",
+      "fileName": "X10760.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10770.svg",
+      "label": "X10770",
+      "fileName": "X10770.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10780.svg",
+      "label": "X10780",
+      "fileName": "X10780.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10790.svg",
+      "label": "X10790",
+      "fileName": "X10790.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10800.svg",
+      "label": "X10800",
+      "fileName": "X10800.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10810.svg",
+      "label": "X10810",
+      "fileName": "X10810.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10820.svg",
+      "label": "X10820",
+      "fileName": "X10820.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10830.svg",
+      "label": "X10830",
+      "fileName": "X10830.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10840.svg",
+      "label": "X10840",
+      "fileName": "X10840.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10850.svg",
+      "label": "X10850",
+      "fileName": "X10850.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10860.svg",
+      "label": "X10860",
+      "fileName": "X10860.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10870.svg",
+      "label": "X10870",
+      "fileName": "X10870.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10880.svg",
+      "label": "X10880",
+      "fileName": "X10880.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10890.svg",
+      "label": "X10890",
+      "fileName": "X10890.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10900.svg",
+      "label": "X10900",
+      "fileName": "X10900.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10910.svg",
+      "label": "X10910",
+      "fileName": "X10910.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10920.svg",
+      "label": "X10920",
+      "fileName": "X10920.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10930.svg",
+      "label": "X10930",
+      "fileName": "X10930.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10940.svg",
+      "label": "X10940",
+      "fileName": "X10940.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10950.svg",
+      "label": "X10950",
+      "fileName": "X10950.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10960.svg",
+      "label": "X10960",
+      "fileName": "X10960.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10970.svg",
+      "label": "X10970",
+      "fileName": "X10970.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10980.svg",
+      "label": "X10980",
+      "fileName": "X10980.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X10990.svg",
+      "label": "X10990",
+      "fileName": "X10990.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11000.svg",
+      "label": "X11000",
+      "fileName": "X11000.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11010.svg",
+      "label": "X11010",
+      "fileName": "X11010.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11020.svg",
+      "label": "X11020",
+      "fileName": "X11020.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11030.svg",
+      "label": "X11030",
+      "fileName": "X11030.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11040.svg",
+      "label": "X11040",
+      "fileName": "X11040.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11050.svg",
+      "label": "X11050",
+      "fileName": "X11050.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11060.svg",
+      "label": "X11060",
+      "fileName": "X11060.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11070.svg",
+      "label": "X11070",
+      "fileName": "X11070.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11080.svg",
+      "label": "X11080",
+      "fileName": "X11080.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11090.svg",
+      "label": "X11090",
+      "fileName": "X11090.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11100.svg",
+      "label": "X11100",
+      "fileName": "X11100.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11110.svg",
+      "label": "X11110",
+      "fileName": "X11110.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11120.svg",
+      "label": "X11120",
+      "fileName": "X11120.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11130.svg",
+      "label": "X11130",
+      "fileName": "X11130.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11140.svg",
+      "label": "X11140",
+      "fileName": "X11140.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11150.svg",
+      "label": "X11150",
+      "fileName": "X11150.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11160.svg",
+      "label": "X11160",
+      "fileName": "X11160.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11170.svg",
+      "label": "X11170",
+      "fileName": "X11170.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11180.svg",
+      "label": "X11180",
+      "fileName": "X11180.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11190.svg",
+      "label": "X11190",
+      "fileName": "X11190.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11200.svg",
+      "label": "X11200",
+      "fileName": "X11200.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11210.svg",
+      "label": "X11210",
+      "fileName": "X11210.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11220.svg",
+      "label": "X11220",
+      "fileName": "X11220.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11230.svg",
+      "label": "X11230",
+      "fileName": "X11230.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11240.svg",
+      "label": "X11240",
+      "fileName": "X11240.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11250.svg",
+      "label": "X11250",
+      "fileName": "X11250.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11260.svg",
+      "label": "X11260",
+      "fileName": "X11260.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11270.svg",
+      "label": "X11270",
+      "fileName": "X11270.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11280.svg",
+      "label": "X11280",
+      "fileName": "X11280.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11290.svg",
+      "label": "X11290",
+      "fileName": "X11290.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11300.svg",
+      "label": "X11300",
+      "fileName": "X11300.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11310.svg",
+      "label": "X11310",
+      "fileName": "X11310.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11320.svg",
+      "label": "X11320",
+      "fileName": "X11320.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11330.svg",
+      "label": "X11330",
+      "fileName": "X11330.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11340.svg",
+      "label": "X11340",
+      "fileName": "X11340.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11350.svg",
+      "label": "X11350",
+      "fileName": "X11350.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11360.svg",
+      "label": "X11360",
+      "fileName": "X11360.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11370.svg",
+      "label": "X11370",
+      "fileName": "X11370.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11380.svg",
+      "label": "X11380",
+      "fileName": "X11380.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11390.svg",
+      "label": "X11390",
+      "fileName": "X11390.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11400.svg",
+      "label": "X11400",
+      "fileName": "X11400.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11410.svg",
+      "label": "X11410",
+      "fileName": "X11410.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11420.svg",
+      "label": "X11420",
+      "fileName": "X11420.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11430.svg",
+      "label": "X11430",
+      "fileName": "X11430.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11440.svg",
+      "label": "X11440",
+      "fileName": "X11440.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11450.svg",
+      "label": "X11450",
+      "fileName": "X11450.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11460.svg",
+      "label": "X11460",
+      "fileName": "X11460.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11470.svg",
+      "label": "X11470",
+      "fileName": "X11470.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11480.svg",
+      "label": "X11480",
+      "fileName": "X11480.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11490.svg",
+      "label": "X11490",
+      "fileName": "X11490.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11500.svg",
+      "label": "X11500",
+      "fileName": "X11500.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11510.svg",
+      "label": "X11510",
+      "fileName": "X11510.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11520.svg",
+      "label": "X11520",
+      "fileName": "X11520.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11530.svg",
+      "label": "X11530",
+      "fileName": "X11530.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11540.svg",
+      "label": "X11540",
+      "fileName": "X11540.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11550.svg",
+      "label": "X11550",
+      "fileName": "X11550.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11560.svg",
+      "label": "X11560",
+      "fileName": "X11560.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11570.svg",
+      "label": "X11570",
+      "fileName": "X11570.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11580.svg",
+      "label": "X11580",
+      "fileName": "X11580.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11590.svg",
+      "label": "X11590",
+      "fileName": "X11590.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11600.svg",
+      "label": "X11600",
+      "fileName": "X11600.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11610.svg",
+      "label": "X11610",
+      "fileName": "X11610.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11620.svg",
+      "label": "X11620",
+      "fileName": "X11620.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11630.svg",
+      "label": "X11630",
+      "fileName": "X11630.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11640.svg",
+      "label": "X11640",
+      "fileName": "X11640.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11650.svg",
+      "label": "X11650",
+      "fileName": "X11650.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11660.svg",
+      "label": "X11660",
+      "fileName": "X11660.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11670.svg",
+      "label": "X11670",
+      "fileName": "X11670.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11680.svg",
+      "label": "X11680",
+      "fileName": "X11680.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11690.svg",
+      "label": "X11690",
+      "fileName": "X11690.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11700.svg",
+      "label": "X11700",
+      "fileName": "X11700.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11710.svg",
+      "label": "X11710",
+      "fileName": "X11710.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11720.svg",
+      "label": "X11720",
+      "fileName": "X11720.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11730.svg",
+      "label": "X11730",
+      "fileName": "X11730.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11740.svg",
+      "label": "X11740",
+      "fileName": "X11740.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11750.svg",
+      "label": "X11750",
+      "fileName": "X11750.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11760.svg",
+      "label": "X11760",
+      "fileName": "X11760.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11770.svg",
+      "label": "X11770",
+      "fileName": "X11770.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11780.svg",
+      "label": "X11780",
+      "fileName": "X11780.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11790.svg",
+      "label": "X11790",
+      "fileName": "X11790.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11800.svg",
+      "label": "X11800",
+      "fileName": "X11800.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11810.svg",
+      "label": "X11810",
+      "fileName": "X11810.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11820.svg",
+      "label": "X11820",
+      "fileName": "X11820.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11830.svg",
+      "label": "X11830",
+      "fileName": "X11830.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11840.svg",
+      "label": "X11840",
+      "fileName": "X11840.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11850.svg",
+      "label": "X11850",
+      "fileName": "X11850.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11860.svg",
+      "label": "X11860",
+      "fileName": "X11860.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11870.svg",
+      "label": "X11870",
+      "fileName": "X11870.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11880.svg",
+      "label": "X11880",
+      "fileName": "X11880.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11890.svg",
+      "label": "X11890",
+      "fileName": "X11890.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11900.svg",
+      "label": "X11900",
+      "fileName": "X11900.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11910.svg",
+      "label": "X11910",
+      "fileName": "X11910.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11920.svg",
+      "label": "X11920",
+      "fileName": "X11920.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11930.svg",
+      "label": "X11930",
+      "fileName": "X11930.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11940.svg",
+      "label": "X11940",
+      "fileName": "X11940.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11950.svg",
+      "label": "X11950",
+      "fileName": "X11950.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11960.svg",
+      "label": "X11960",
+      "fileName": "X11960.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11970.svg",
+      "label": "X11970",
+      "fileName": "X11970.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X11980.svg",
+      "label": "X11980",
+      "fileName": "X11980.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12000.svg",
+      "label": "X12000",
+      "fileName": "X12000.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12010.svg",
+      "label": "X12010",
+      "fileName": "X12010.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12020.svg",
+      "label": "X12020",
+      "fileName": "X12020.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12030.svg",
+      "label": "X12030",
+      "fileName": "X12030.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12040.svg",
+      "label": "X12040",
+      "fileName": "X12040.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12050.svg",
+      "label": "X12050",
+      "fileName": "X12050.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12060.svg",
+      "label": "X12060",
+      "fileName": "X12060.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12070.svg",
+      "label": "X12070",
+      "fileName": "X12070.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12080.svg",
+      "label": "X12080",
+      "fileName": "X12080.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12090.svg",
+      "label": "X12090",
+      "fileName": "X12090.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12100.svg",
+      "label": "X12100",
+      "fileName": "X12100.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12110.svg",
+      "label": "X12110",
+      "fileName": "X12110.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12120.svg",
+      "label": "X12120",
+      "fileName": "X12120.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12130.svg",
+      "label": "X12130",
+      "fileName": "X12130.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12140.svg",
+      "label": "X12140",
+      "fileName": "X12140.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12150.svg",
+      "label": "X12150",
+      "fileName": "X12150.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12160 detailed.svg",
+      "label": "X12160 detailed",
+      "fileName": "X12160 detailed.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12160 simplified.svg",
+      "label": "X12160 simplified",
+      "fileName": "X12160 simplified.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12170.svg",
+      "label": "X12170",
+      "fileName": "X12170.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12180.svg",
+      "label": "X12180",
+      "fileName": "X12180.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12190.svg",
+      "label": "X12190",
+      "fileName": "X12190.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12200.svg",
+      "label": "X12200",
+      "fileName": "X12200.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12210.svg",
+      "label": "X12210",
+      "fileName": "X12210.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12220.svg",
+      "label": "X12220",
+      "fileName": "X12220.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12230.svg",
+      "label": "X12230",
+      "fileName": "X12230.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12240.svg",
+      "label": "X12240",
+      "fileName": "X12240.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12250.svg",
+      "label": "X12250",
+      "fileName": "X12250.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12260.svg",
+      "label": "X12260",
+      "fileName": "X12260.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12270.svg",
+      "label": "X12270",
+      "fileName": "X12270.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12280.svg",
+      "label": "X12280",
+      "fileName": "X12280.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12290.svg",
+      "label": "X12290",
+      "fileName": "X12290.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12300.svg",
+      "label": "X12300",
+      "fileName": "X12300.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12310.svg",
+      "label": "X12310",
+      "fileName": "X12310.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12320.svg",
+      "label": "X12320",
+      "fileName": "X12320.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12330.svg",
+      "label": "X12330",
+      "fileName": "X12330.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12340.svg",
+      "label": "X12340",
+      "fileName": "X12340.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12350.svg",
+      "label": "X12350",
+      "fileName": "X12350.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12360.svg",
+      "label": "X12360",
+      "fileName": "X12360.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12370.svg",
+      "label": "X12370",
+      "fileName": "X12370.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12380.svg",
+      "label": "X12380",
+      "fileName": "X12380.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12390.svg",
+      "label": "X12390",
+      "fileName": "X12390.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12400.svg",
+      "label": "X12400",
+      "fileName": "X12400.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12410.svg",
+      "label": "X12410",
+      "fileName": "X12410.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12420.svg",
+      "label": "X12420",
+      "fileName": "X12420.svg"
+    },
+    {
+      "path": "/diagram-icons/液压符号/X12430.svg",
+      "label": "X12430",
+      "fileName": "X12430.svg"
+    }
+  ]
+}

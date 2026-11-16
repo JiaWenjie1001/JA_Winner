@@ -1,0 +1,190 @@
+{
+  "name": "楼宇",
+  "icons": [
+    {
+      "path": "/diagram-icons/楼宇/Bathtub.svg",
+      "label": "Bathtub",
+      "fileName": "Bathtub.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Bed Double.svg",
+      "label": "Bed Double",
+      "fileName": "Bed Double.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Bed Single.svg",
+      "label": "Bed Single",
+      "fileName": "Bed Single.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Bookcase.svg",
+      "label": "Bookcase",
+      "fileName": "Bookcase.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Chair.svg",
+      "label": "Chair",
+      "fileName": "Chair.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Copier.svg",
+      "label": "Copier",
+      "fileName": "Copier.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Couch.svg",
+      "label": "Couch",
+      "fileName": "Couch.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/CRT TV.svg",
+      "label": "CRT TV",
+      "fileName": "CRT TV.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Desk Corner 2.svg",
+      "label": "Desk Corner 2",
+      "fileName": "Desk Corner 2.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Desk Corner.svg",
+      "label": "Desk Corner",
+      "fileName": "Desk Corner.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Dresser.svg",
+      "label": "Dresser",
+      "fileName": "Dresser.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Elevator.svg",
+      "label": "Elevator",
+      "fileName": "Elevator.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Fireplace.svg",
+      "label": "Fireplace",
+      "fileName": "Fireplace.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Flat TV.svg",
+      "label": "Flat TV",
+      "fileName": "Flat TV.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Floor Lamp.svg",
+      "label": "Floor Lamp",
+      "fileName": "Floor Lamp.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Office Chair.svg",
+      "label": "Office Chair",
+      "fileName": "Office Chair.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Piano.svg",
+      "label": "Piano",
+      "fileName": "Piano.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Plant.svg",
+      "label": "Plant",
+      "fileName": "Plant.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Printer.svg",
+      "label": "Printer",
+      "fileName": "Printer.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Range 1.svg",
+      "label": "Range 1",
+      "fileName": "Range 1.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Range 2.svg",
+      "label": "Range 2",
+      "fileName": "Range 2.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Refrigerator.svg",
+      "label": "Refrigerator",
+      "fileName": "Refrigerator.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Shower.svg",
+      "label": "Shower",
+      "fileName": "Shower.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Sink 1.svg",
+      "label": "Sink 1",
+      "fileName": "Sink 1.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Sink 2.svg",
+      "label": "Sink 2",
+      "fileName": "Sink 2.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Sink Double.svg",
+      "label": "Sink Double",
+      "fileName": "Sink Double.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Sofa.svg",
+      "label": "Sofa",
+      "fileName": "Sofa.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Spiral Stairs.svg",
+      "label": "Spiral Stairs",
+      "fileName": "Spiral Stairs.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Table 1.svg",
+      "label": "Table 1",
+      "fileName": "Table 1.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Table 2.svg",
+      "label": "Table 2",
+      "fileName": "Table 2.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Table 3.svg",
+      "label": "Table 3",
+      "fileName": "Table 3.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Table 4.svg",
+      "label": "Table 4",
+      "fileName": "Table 4.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Table 5.svg",
+      "label": "Table 5",
+      "fileName": "Table 5.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Table.svg",
+      "label": "Table",
+      "fileName": "Table.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Toilet.svg",
+      "label": "Toilet",
+      "fileName": "Toilet.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Water Cooler.svg",
+      "label": "Water Cooler",
+      "fileName": "Water Cooler.svg"
+    },
+    {
+      "path": "/diagram-icons/楼宇/Workstation.svg",
+      "label": "Workstation",
+      "fileName": "Workstation.svg"
+    }
+  ]
+}

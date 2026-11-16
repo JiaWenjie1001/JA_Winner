@@ -1,0 +1,480 @@
+{
+  "name": "IoT-water tank（水槽）",
+  "icons": [
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/5-gallon bucket（5加仑的桶）.svg",
+      "label": "加仑的桶",
+      "fileName": "5-gallon bucket（5加仑的桶）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Air cylinder（气缸）.svg",
+      "label": "气缸",
+      "fileName": "Air cylinder（气缸）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Air tank（储气罐）.svg",
+      "label": "储气罐",
+      "fileName": "Air tank（储气罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Barrel（桶）.svg",
+      "label": "桶",
+      "fileName": "Barrel（桶）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Batch tank（配料罐）.svg",
+      "label": "配料罐",
+      "fileName": "Batch tank（配料罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Bolt 1（螺栓1）.svg",
+      "label": "螺栓",
+      "fileName": "Bolt 1（螺栓1）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Bolt 2（螺栓2）.svg",
+      "label": "螺栓",
+      "fileName": "Bolt 2（螺栓2）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Brew kettle（冲泡壶）.svg",
+      "label": "冲泡壶",
+      "fileName": "Brew kettle（冲泡壶）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Container（集装箱）.svg",
+      "label": "集装箱",
+      "fileName": "Container（集装箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Corrosion resistant tank (medium)（防腐罐（中））.svg",
+      "label": "中",
+      "fileName": "Corrosion resistant tank (medium)（防腐罐（中））.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/cylinder（圆柱体）.svg",
+      "label": "圆柱体",
+      "fileName": "cylinder（圆柱体）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Day tank（日用油箱）.svg",
+      "label": "日用油箱",
+      "fileName": "Day tank（日用油箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Digestion Reaction Tank（消化反应罐）.svg",
+      "label": "消化反应罐",
+      "fileName": "Digestion Reaction Tank（消化反应罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Domestic hot water storage tank（生活热水储罐）.svg",
+      "label": "生活热水储罐",
+      "fileName": "Domestic hot water storage tank（生活热水储罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Drum（滚筒）.svg",
+      "label": "滚筒",
+      "fileName": "Drum（滚筒）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Elliptical bulk storage tank（椭圆形散装储罐）.svg",
+      "label": "椭圆形散装储罐",
+      "fileName": "Elliptical bulk storage tank（椭圆形散装储罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Flat vessel 1（扁平容器）.svg",
+      "label": "扁平容器",
+      "fileName": "Flat vessel 1（扁平容器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Flour Storage Tank（面粉储罐）.svg",
+      "label": "面粉储罐",
+      "fileName": "Flour Storage Tank（面粉储罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Free-standing leg tank(独立式支腿罐).svg",
+      "label": "独立式支腿罐",
+      "fileName": "Free-standing leg tank(独立式支腿罐).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Glass lined tank（搪玻璃罐）.svg",
+      "label": "搪玻璃罐",
+      "fileName": "Glass lined tank（搪玻璃罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Hatch（舱口）.svg",
+      "label": "舱口",
+      "fileName": "Hatch（舱口）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Heat exchanger（热交换器）.svg",
+      "label": "热交换器",
+      "fileName": "Heat exchanger（热交换器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Homogenize Tank（均质罐）.svg",
+      "label": "均质罐",
+      "fileName": "Homogenize Tank（均质罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Hopper(漏斗).svg",
+      "label": "漏斗",
+      "fileName": "Hopper(漏斗).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Hot Living Water Tank（热生活水箱）.svg",
+      "label": "热生活水箱",
+      "fileName": "Hot Living Water Tank（热生活水箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Hydropneumatic tank（液压气动油箱）.svg",
+      "label": "液压气动油箱",
+      "fileName": "Hydropneumatic tank（液压气动油箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Insulation cans(保温罐).svg",
+      "label": "保温罐",
+      "fileName": "Insulation cans(保温罐).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Large cone-bottom polyethylene tank（大锥底聚乙烯罐）.svg",
+      "label": "大锥底聚乙烯罐",
+      "fileName": "Large cone-bottom polyethylene tank（大锥底聚乙烯罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Liquid storage drum（储液罐）.svg",
+      "label": "储液罐",
+      "fileName": "Liquid storage drum（储液罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Mix tank（混合罐）.svg",
+      "label": "混合罐",
+      "fileName": "Mix tank（混合罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Molded polyethylene tank（模压聚乙烯罐）.svg",
+      "label": "模压聚乙烯罐",
+      "fileName": "Molded polyethylene tank（模压聚乙烯罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Polyethylene chemical mix tank（聚乙烯化学混合罐）.svg",
+      "label": "聚乙烯化学混合罐",
+      "fileName": "Polyethylene chemical mix tank（聚乙烯化学混合罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Polyethylene mix and fill tank（聚乙烯混合和填充罐）.svg",
+      "label": "聚乙烯混合和填充罐",
+      "fileName": "Polyethylene mix and fill tank（聚乙烯混合和填充罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Polyethylene storage tank with twin legs（双支腿聚乙烯储罐）.svg",
+      "label": "双支腿聚乙烯储罐",
+      "fileName": "Polyethylene storage tank with twin legs（双支腿聚乙烯储罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Polyethylene storage tank（聚乙烯储罐）.svg",
+      "label": "聚乙烯储罐",
+      "fileName": "Polyethylene storage tank（聚乙烯储罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Polyethylene tank with mixer（带混合器的聚乙烯罐）.svg",
+      "label": "带混合器的聚乙烯罐",
+      "fileName": "Polyethylene tank with mixer（带混合器的聚乙烯罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Polyethylene tank（聚乙烯罐）.svg",
+      "label": "聚乙烯罐",
+      "fileName": "Polyethylene tank（聚乙烯罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Pond with plant life（有植物的池塘）.svg",
+      "label": "有植物的池塘",
+      "fileName": "Pond with plant life（有植物的池塘）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Pond（池塘）.svg",
+      "label": "池塘",
+      "fileName": "Pond（池塘）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Pressure vessel（压力容器）.svg",
+      "label": "压力容器",
+      "fileName": "Pressure vessel（压力容器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Reactor 4（反应器）.svg",
+      "label": "反应器",
+      "fileName": "Reactor 4（反应器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Reactor tank（反应堆水箱）.svg",
+      "label": "反应堆水箱",
+      "fileName": "Reactor tank（反应堆水箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Reactor with agitator（带搅拌器的反应器）.svg",
+      "label": "带搅拌器的反应器",
+      "fileName": "Reactor with agitator（带搅拌器的反应器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Reactor with hatch and ladder（带舱口和梯子的反应堆）.svg",
+      "label": "带舱口和梯子的反应堆",
+      "fileName": "Reactor with hatch and ladder（带舱口和梯子的反应堆）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Reactor （反应器） (2).svg",
+      "label": "反应器",
+      "fileName": "Reactor （反应器） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Reactor （反应器） (3).svg",
+      "label": "反应器",
+      "fileName": "Reactor （反应器） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Reactor （反应器）.svg",
+      "label": "反应器",
+      "fileName": "Reactor （反应器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Reinforced tank with mixer（带混合器的加强水箱）.svg",
+      "label": "带混合器的加强水箱",
+      "fileName": "Reinforced tank with mixer（带混合器的加强水箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Round reactor with legs（带支腿的圆形反应堆）.svg",
+      "label": "带支腿的圆形反应堆",
+      "fileName": "Round reactor with legs（带支腿的圆形反应堆）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Silo with spiral ladder（螺旋梯筒仓）.svg",
+      "label": "螺旋梯筒仓",
+      "fileName": "Silo with spiral ladder（螺旋梯筒仓）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Silo with straight ladder（直梯筒仓）.svg",
+      "label": "直梯筒仓",
+      "fileName": "Silo with straight ladder（直梯筒仓）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Simple process tank（简易工艺罐）.svg",
+      "label": "简易工艺罐",
+      "fileName": "Simple process tank（简易工艺罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Simple reactor（简易反应器）.svg",
+      "label": "简易反应器",
+      "fileName": "Simple reactor（简易反应器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Simple tank system（简易油罐系统）.svg",
+      "label": "简易油罐系统",
+      "fileName": "Simple tank system（简易油罐系统）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Simple tank（简易罐）.svg",
+      "label": "简易罐",
+      "fileName": "Simple tank（简易罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Smooth silo(光滑筒仓).svg",
+      "label": "光滑筒仓",
+      "fileName": "Smooth silo(光滑筒仓).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Spherical tank with rivets（带铆钉的球罐）.svg",
+      "label": "带铆钉的球罐",
+      "fileName": "Spherical tank with rivets（带铆钉的球罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Spherical tank（球罐）.svg",
+      "label": "球罐",
+      "fileName": "Spherical tank（球罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Stabilization tank (稳定池).svg",
+      "label": "稳定池",
+      "fileName": "Stabilization tank (稳定池).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Stainless steel cylinder（不锈钢圆筒）.svg",
+      "label": "不锈钢圆筒",
+      "fileName": "Stainless steel cylinder（不锈钢圆筒）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Storage facility 1（储存设施） (2).svg",
+      "label": "储存设施",
+      "fileName": "Storage facility 1（储存设施） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Storage facility 1（储存设施） (3).svg",
+      "label": "储存设施",
+      "fileName": "Storage facility 1（储存设施） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Storage facility 1（储存设施）.svg",
+      "label": "储存设施",
+      "fileName": "Storage facility 1（储存设施）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Storage facility 2（储存设施2）.svg",
+      "label": "储存设施",
+      "fileName": "Storage facility 2（储存设施2）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Storage tank with ladder（带梯子的储罐）.svg",
+      "label": "带梯子的储罐",
+      "fileName": "Storage tank with ladder（带梯子的储罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Storage tank（储罐）.svg",
+      "label": "储罐",
+      "fileName": "Storage tank（储罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (10).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (10).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (11).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (11).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (12).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (12).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (13).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (13).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (14).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (14).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (15).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (15).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (16).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (16).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (2).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (3).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (3).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (4).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (4).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (5).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (5).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (6).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (6).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (7).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (7).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (8).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (8).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱） (9).svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱） (9).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank 1（油箱）.svg",
+      "label": "油箱",
+      "fileName": "Tank 1（油箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank support 1（油箱支架） (2).svg",
+      "label": "油箱支架",
+      "fileName": "Tank support 1（油箱支架） (2).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank support 1（油箱支架）.svg",
+      "label": "油箱支架",
+      "fileName": "Tank support 1（油箱支架）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank with cutaway（带剖面的水箱）.svg",
+      "label": "带剖面的水箱",
+      "fileName": "Tank with cutaway（带剖面的水箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank with hatch（带舱口的水箱）.svg",
+      "label": "带舱口的水箱",
+      "fileName": "Tank with hatch（带舱口的水箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank with rivets and ladder（带铆钉和梯子的油箱）.svg",
+      "label": "带铆钉和梯子的油箱",
+      "fileName": "Tank with rivets and ladder（带铆钉和梯子的油箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Tank with rivets（带铆钉的油箱）.svg",
+      "label": "带铆钉的油箱",
+      "fileName": "Tank with rivets（带铆钉的油箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/tank(油箱).svg",
+      "label": "油箱",
+      "fileName": "tank(油箱).svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Temporary storage tank（临时储槽）.svg",
+      "label": "临时储槽",
+      "fileName": "Temporary storage tank（临时储槽）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Underground storage tank（地下储罐）.svg",
+      "label": "地下储罐",
+      "fileName": "Underground storage tank（地下储罐）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/Very smooth tank（很光滑的邮箱）.svg",
+      "label": "很光滑的邮箱",
+      "fileName": "Very smooth tank（很光滑的邮箱）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/vessel（容器）.svg",
+      "label": "容器",
+      "fileName": "vessel（容器）.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/蓄冷水池.svg",
+      "label": "蓄冷水池",
+      "fileName": "蓄冷水池.svg"
+    },
+    {
+      "path": "/diagram-icons/IoT-water tank（水槽）/补水装备.svg",
+      "label": "补水装备",
+      "fileName": "补水装备.svg"
+    }
+  ]
+}

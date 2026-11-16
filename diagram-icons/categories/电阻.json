@@ -1,0 +1,120 @@
+{
+  "name": "电阻",
+  "icons": [
+    {
+      "path": "/diagram-icons/电阻/Attenuator.svg",
+      "label": "Attenuator",
+      "fileName": "Attenuator.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Magnetoresistor.svg",
+      "label": "Magnetoresistor",
+      "fileName": "Magnetoresistor.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Memristor 1.svg",
+      "label": "Memristor 1",
+      "fileName": "Memristor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Memristor 2.svg",
+      "label": "Memristor 2",
+      "fileName": "Memristor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Nonlinear Resistor.svg",
+      "label": "Nonlinear Resistor",
+      "fileName": "Nonlinear Resistor.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Potentiometer 1.svg",
+      "label": "Potentiometer 1",
+      "fileName": "Potentiometer 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Potentiometer 2.svg",
+      "label": "Potentiometer 2",
+      "fileName": "Potentiometer 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Resistor 1.svg",
+      "label": "Resistor 1",
+      "fileName": "Resistor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Resistor 2.svg",
+      "label": "Resistor 2",
+      "fileName": "Resistor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Resistor 3.svg",
+      "label": "Resistor 3",
+      "fileName": "Resistor 3.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Resistor 4.svg",
+      "label": "Resistor 4",
+      "fileName": "Resistor 4.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Resistor With Instrument or Relay Shunt.svg",
+      "label": "Resistor With Instrument or Relay Shunt",
+      "fileName": "Resistor With Instrument or Relay Shunt.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Resistor, Adjustable Contact.svg",
+      "label": "Resistor, Adjustable Contact",
+      "fileName": "Resistor, Adjustable Contact.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Resistor, Shunt.svg",
+      "label": "Resistor, Shunt",
+      "fileName": "Resistor, Shunt.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Symmetrical Photoconductive Transducer.svg",
+      "label": "Symmetrical Photoconductive Transducer",
+      "fileName": "Symmetrical Photoconductive Transducer.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Symmetrical Varistor.svg",
+      "label": "Symmetrical Varistor",
+      "fileName": "Symmetrical Varistor.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Tapped Resistor.svg",
+      "label": "Tapped Resistor",
+      "fileName": "Tapped Resistor.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Trimmer Pot 1.svg",
+      "label": "Trimmer Pot 1",
+      "fileName": "Trimmer Pot 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Trimmer Pot 2.svg",
+      "label": "Trimmer Pot 2",
+      "fileName": "Trimmer Pot 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Trimmer Resistor 1.svg",
+      "label": "Trimmer Resistor 1",
+      "fileName": "Trimmer Resistor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Trimmer Resistor 2.svg",
+      "label": "Trimmer Resistor 2",
+      "fileName": "Trimmer Resistor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Variable Resistor 1.svg",
+      "label": "Variable Resistor 1",
+      "fileName": "Variable Resistor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电阻/Variable Resistor 2.svg",
+      "label": "Variable Resistor 2",
+      "fileName": "Variable Resistor 2.svg"
+    }
+  ]
+}

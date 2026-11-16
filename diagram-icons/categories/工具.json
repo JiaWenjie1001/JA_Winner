@@ -1,0 +1,55 @@
+{
+  "name": "工具",
+  "icons": [
+    {
+      "path": "/diagram-icons/工具/away.svg",
+      "label": "away",
+      "fileName": "away.svg"
+    },
+    {
+      "path": "/diagram-icons/工具/check.svg",
+      "label": "check",
+      "fileName": "check.svg"
+    },
+    {
+      "path": "/diagram-icons/工具/critical.svg",
+      "label": "critical",
+      "fileName": "critical.svg"
+    },
+    {
+      "path": "/diagram-icons/工具/do not disturb.svg",
+      "label": "do not disturb",
+      "fileName": "do not disturb.svg"
+    },
+    {
+      "path": "/diagram-icons/工具/double up.svg",
+      "label": "double up",
+      "fileName": "double up.svg"
+    },
+    {
+      "path": "/diagram-icons/工具/double.svg",
+      "label": "double",
+      "fileName": "double.svg"
+    },
+    {
+      "path": "/diagram-icons/工具/new feature.svg",
+      "label": "new feature",
+      "fileName": "new feature.svg"
+    },
+    {
+      "path": "/diagram-icons/工具/no.svg",
+      "label": "no",
+      "fileName": "no.svg"
+    },
+    {
+      "path": "/diagram-icons/工具/single.svg",
+      "label": "single",
+      "fileName": "single.svg"
+    },
+    {
+      "path": "/diagram-icons/工具/x.svg",
+      "label": "x",
+      "fileName": "x.svg"
+    }
+  ]
+}

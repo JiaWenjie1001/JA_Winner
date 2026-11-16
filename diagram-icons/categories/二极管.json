@@ -1,0 +1,70 @@
+{
+  "name": "二极管",
+  "icons": [
+    {
+      "path": "/diagram-icons/二极管/Diode.svg",
+      "label": "Diode",
+      "fileName": "Diode.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Field Effect Diode.svg",
+      "label": "Field Effect Diode",
+      "fileName": "Field Effect Diode.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Four Layer Diode.svg",
+      "label": "Four Layer Diode",
+      "fileName": "Four Layer Diode.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Gunn Diode.svg",
+      "label": "Gunn Diode",
+      "fileName": "Gunn Diode.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Schottky Diode.svg",
+      "label": "Schottky Diode",
+      "fileName": "Schottky Diode.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Transorb 1.svg",
+      "label": "Transorb 1",
+      "fileName": "Transorb 1.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Transorb 2.svg",
+      "label": "Transorb 2",
+      "fileName": "Transorb 2.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Tunnel Diode 2.svg",
+      "label": "Tunnel Diode 2",
+      "fileName": "Tunnel Diode 2.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Tunnel Diode.svg",
+      "label": "Tunnel Diode",
+      "fileName": "Tunnel Diode.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Varactor - Varicap.svg",
+      "label": "Varactor - Varicap",
+      "fileName": "Varactor - Varicap.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Zener Diode 1.svg",
+      "label": "Zener Diode 1",
+      "fileName": "Zener Diode 1.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Zener Diode 2.svg",
+      "label": "Zener Diode 2",
+      "fileName": "Zener Diode 2.svg"
+    },
+    {
+      "path": "/diagram-icons/二极管/Zener Diode 3.svg",
+      "label": "Zener Diode 3",
+      "fileName": "Zener Diode 3.svg"
+    }
+  ]
+}

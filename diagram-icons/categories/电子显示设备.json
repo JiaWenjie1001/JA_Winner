@@ -1,0 +1,80 @@
+{
+  "name": "电子显示设备",
+  "icons": [
+    {
+      "path": "/diagram-icons/电子显示设备/7 Segment Display with DP.svg",
+      "label": "7 Segment Display with DP",
+      "fileName": "7 Segment Display with DP.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/7 Segment Display.svg",
+      "label": "7 Segment Display",
+      "fileName": "7 Segment Display.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/9 Segment Display with DP.svg",
+      "label": "9 Segment Display with DP",
+      "fileName": "9 Segment Display with DP.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/9 Segment Display.svg",
+      "label": "9 Segment Display",
+      "fileName": "9 Segment Display.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/Lamp.svg",
+      "label": "Lamp",
+      "fileName": "Lamp.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/LED 1.svg",
+      "label": "LED 1",
+      "fileName": "LED 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/LED 2.svg",
+      "label": "LED 2",
+      "fileName": "LED 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/Light-activated SCR.svg",
+      "label": "Light-activated SCR",
+      "fileName": "Light-activated SCR.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/Opto-coupler.svg",
+      "label": "Opto-coupler",
+      "fileName": "Opto-coupler.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/Opto-transistor.svg",
+      "label": "Opto-transistor",
+      "fileName": "Opto-transistor.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/Photo Resistor 1.svg",
+      "label": "Photo Resistor 1",
+      "fileName": "Photo Resistor 1.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/Photo Resistor 2.svg",
+      "label": "Photo Resistor 2",
+      "fileName": "Photo Resistor 2.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/Photo Resistor 3.svg",
+      "label": "Photo Resistor 3",
+      "fileName": "Photo Resistor 3.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/Photodiode.svg",
+      "label": "Photodiode",
+      "fileName": "Photodiode.svg"
+    },
+    {
+      "path": "/diagram-icons/电子显示设备/Solar Cell.svg",
+      "label": "Solar Cell",
+      "fileName": "Solar Cell.svg"
+    }
+  ]
+}

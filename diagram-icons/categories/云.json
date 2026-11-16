@@ -1,0 +1,1480 @@
+{
+  "name": "云",
+  "icons": [
+    {
+      "path": "/diagram-icons/云/Action.svg",
+      "label": "Action",
+      "fileName": "Action.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Actuator.svg",
+      "label": "Actuator",
+      "fileName": "Actuator.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Add On.svg",
+      "label": "Add On",
+      "fileName": "Add On.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Alarm.svg",
+      "label": "Alarm",
+      "fileName": "Alarm.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Alexa Enabled Device.svg",
+      "label": "Alexa Enabled Device",
+      "fileName": "Alexa Enabled Device.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Alexa Skill.svg",
+      "label": "Alexa Skill",
+      "fileName": "Alexa Skill.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Alexa Smart Home Skill.svg",
+      "label": "Alexa Smart Home Skill",
+      "fileName": "Alexa Smart Home Skill.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Alexa Voice Service.svg",
+      "label": "Alexa Voice Service",
+      "fileName": "Alexa Voice Service.svg"
+    },
+    {
+      "path": "/diagram-icons/云/AMI.svg",
+      "label": "AMI",
+      "fileName": "AMI.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Android.svg",
+      "label": "Android",
+      "fileName": "Android.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Android2.svg",
+      "label": "Android2",
+      "fileName": "Android2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/API Gateway.svg",
+      "label": "API Gateway",
+      "fileName": "API Gateway.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Apple.svg",
+      "label": "Apple",
+      "fileName": "Apple.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Application Discovery Service.svg",
+      "label": "Application Discovery Service",
+      "fileName": "Application Discovery Service.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Application Load Balancer.svg",
+      "label": "Application Load Balancer",
+      "fileName": "Application Load Balancer.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Application.svg",
+      "label": "Application",
+      "fileName": "Application.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Apps.svg",
+      "label": "Apps",
+      "fileName": "Apps.svg"
+    },
+    {
+      "path": "/diagram-icons/云/AppStream.svg",
+      "label": "AppStream",
+      "fileName": "AppStream.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Archive.svg",
+      "label": "Archive",
+      "fileName": "Archive.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Artifact.svg",
+      "label": "Artifact",
+      "fileName": "Artifact.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Assignment Task.svg",
+      "label": "Assignment Task",
+      "fileName": "Assignment Task.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Athena.svg",
+      "label": "Athena",
+      "fileName": "Athena.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Attribute.svg",
+      "label": "Attribute",
+      "fileName": "Attribute.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Attributes.svg",
+      "label": "Attributes",
+      "fileName": "Attributes.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Auto Scaling.svg",
+      "label": "Auto Scaling",
+      "fileName": "Auto Scaling.svg"
+    },
+    {
+      "path": "/diagram-icons/云/AWS IoT.svg",
+      "label": "AWS IoT",
+      "fileName": "AWS IoT.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Azure Alert.svg",
+      "label": "Azure Alert",
+      "fileName": "Azure Alert.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Azure Instance.svg",
+      "label": "Azure Instance",
+      "fileName": "Azure Instance.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Azure Marketplace.svg",
+      "label": "Azure Marketplace",
+      "fileName": "Azure Marketplace.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Batch.svg",
+      "label": "Batch",
+      "fileName": "Batch.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Bicycle.svg",
+      "label": "Bicycle",
+      "fileName": "Bicycle.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Bucket With Objects.svg",
+      "label": "Bucket With Objects",
+      "fileName": "Bucket With Objects.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Bucket.svg",
+      "label": "Bucket",
+      "fileName": "Bucket.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Certificate Manager 2.svg",
+      "label": "Certificate Manager 2",
+      "fileName": "Certificate Manager 2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Certificate Manager.svg",
+      "label": "Certificate Manager",
+      "fileName": "Certificate Manager.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Certificate.svg",
+      "label": "Certificate",
+      "fileName": "Certificate.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Change Set.svg",
+      "label": "Change Set",
+      "fileName": "Change Set.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Checklist Cost.svg",
+      "label": "Checklist Cost",
+      "fileName": "Checklist Cost.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Checklist Fault Tolerance.svg",
+      "label": "Checklist Fault Tolerance",
+      "fileName": "Checklist Fault Tolerance.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Checklist Performance.svg",
+      "label": "Checklist Performance",
+      "fileName": "Checklist Performance.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Checklist Security.svg",
+      "label": "Checklist Security",
+      "fileName": "Checklist Security.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Checklist.svg",
+      "label": "Checklist",
+      "fileName": "Checklist.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Classic Load Balancer.svg",
+      "label": "Classic Load Balancer",
+      "fileName": "Classic Load Balancer.svg"
+    },
+    {
+      "path": "/diagram-icons/云/CLI.svg",
+      "label": "CLI",
+      "fileName": "CLI.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Cloud.svg",
+      "label": "Cloud",
+      "fileName": "Cloud.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Cloud2.svg",
+      "label": "Cloud2",
+      "fileName": "Cloud2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/CloudFormation.svg",
+      "label": "CloudFormation",
+      "fileName": "CloudFormation.svg"
+    },
+    {
+      "path": "/diagram-icons/云/CloudFront.svg",
+      "label": "CloudFront",
+      "fileName": "CloudFront.svg"
+    },
+    {
+      "path": "/diagram-icons/云/CloudHSM.svg",
+      "label": "CloudHSM",
+      "fileName": "CloudHSM.svg"
+    },
+    {
+      "path": "/diagram-icons/云/CloudSearch.svg",
+      "label": "CloudSearch",
+      "fileName": "CloudSearch.svg"
+    },
+    {
+      "path": "/diagram-icons/云/CloudTrail.svg",
+      "label": "CloudTrail",
+      "fileName": "CloudTrail.svg"
+    },
+    {
+      "path": "/diagram-icons/云/CloudWatch.svg",
+      "label": "CloudWatch",
+      "fileName": "CloudWatch.svg"
+    },
+    {
+      "path": "/diagram-icons/云/CodeBuild.svg",
+      "label": "CodeBuild",
+      "fileName": "CodeBuild.svg"
+    },
+    {
+      "path": "/diagram-icons/云/CodeCommit.svg",
+      "label": "CodeCommit",
+      "fileName": "CodeCommit.svg"
+    },
+    {
+      "path": "/diagram-icons/云/CodeDeploy.svg",
+      "label": "CodeDeploy",
+      "fileName": "CodeDeploy.svg"
+    },
+    {
+      "path": "/diagram-icons/云/CodePipeline.svg",
+      "label": "CodePipeline",
+      "fileName": "CodePipeline.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Cognito.svg",
+      "label": "Cognito",
+      "fileName": "Cognito.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Computer.svg",
+      "label": "Computer",
+      "fileName": "Computer.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Config.svg",
+      "label": "Config",
+      "fileName": "Config.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Customer Gateway.svg",
+      "label": "Customer Gateway",
+      "fileName": "Customer Gateway.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Data Pipeline.svg",
+      "label": "Data Pipeline",
+      "fileName": "Data Pipeline.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Database Migration Service.svg",
+      "label": "Database Migration Service",
+      "fileName": "Database Migration Service.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Decider.svg",
+      "label": "Decider",
+      "fileName": "Decider.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Deployment.svg",
+      "label": "Deployment",
+      "fileName": "Deployment.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Deployments.svg",
+      "label": "Deployments",
+      "fileName": "Deployments.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Desired State.svg",
+      "label": "Desired State",
+      "fileName": "Desired State.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Device Farm.svg",
+      "label": "Device Farm",
+      "fileName": "Device Farm.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Direct Connect.svg",
+      "label": "Direct Connect",
+      "fileName": "Direct Connect.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Directory Service.svg",
+      "label": "Directory Service",
+      "fileName": "Directory Service.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Door Lock.svg",
+      "label": "Door Lock",
+      "fileName": "Door Lock.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Download Distribution.svg",
+      "label": "Download Distribution",
+      "fileName": "Download Distribution.svg"
+    },
+    {
+      "path": "/diagram-icons/云/DropBox Code Source.svg",
+      "label": "DropBox Code Source",
+      "fileName": "DropBox Code Source.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Dynamo DB.svg",
+      "label": "Dynamo DB",
+      "fileName": "Dynamo DB.svg"
+    },
+    {
+      "path": "/diagram-icons/云/EC2 Compute Container 2.svg",
+      "label": "EC2 Compute Container 2",
+      "fileName": "EC2 Compute Container 2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/EC2.svg",
+      "label": "EC2",
+      "fileName": "EC2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Echo.svg",
+      "label": "Echo",
+      "fileName": "Echo.svg"
+    },
+    {
+      "path": "/diagram-icons/云/ECS.svg",
+      "label": "ECS",
+      "fileName": "ECS.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Edge Location.svg",
+      "label": "Edge Location",
+      "fileName": "Edge Location.svg"
+    },
+    {
+      "path": "/diagram-icons/云/EFS Share.svg",
+      "label": "EFS Share",
+      "fileName": "EFS Share.svg"
+    },
+    {
+      "path": "/diagram-icons/云/EFS.svg",
+      "label": "EFS",
+      "fileName": "EFS.svg"
+    },
+    {
+      "path": "/diagram-icons/云/EL Load Balancer.svg",
+      "label": "EL Load Balancer",
+      "fileName": "EL Load Balancer.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Elastic Beanstalk.svg",
+      "label": "Elastic Beanstalk",
+      "fileName": "Elastic Beanstalk.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Elastic IP.svg",
+      "label": "Elastic IP",
+      "fileName": "Elastic IP.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Elastic Load Balancing.svg",
+      "label": "Elastic Load Balancing",
+      "fileName": "Elastic Load Balancing.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Elastic Network Adapter.svg",
+      "label": "Elastic Network Adapter",
+      "fileName": "Elastic Network Adapter.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Elastic Network Interface.svg",
+      "label": "Elastic Network Interface",
+      "fileName": "Elastic Network Interface.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Elastic Transcoder.svg",
+      "label": "Elastic Transcoder",
+      "fileName": "Elastic Transcoder.svg"
+    },
+    {
+      "path": "/diagram-icons/云/ElastiCache.svg",
+      "label": "ElastiCache",
+      "fileName": "ElastiCache.svg"
+    },
+    {
+      "path": "/diagram-icons/云/ElasticSearch Service.svg",
+      "label": "ElasticSearch Service",
+      "fileName": "ElasticSearch Service.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Email Notification.svg",
+      "label": "Email Notification",
+      "fileName": "Email Notification.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Email.svg",
+      "label": "Email",
+      "fileName": "Email.svg"
+    },
+    {
+      "path": "/diagram-icons/云/EMR Cluster.svg",
+      "label": "EMR Cluster",
+      "fileName": "EMR Cluster.svg"
+    },
+    {
+      "path": "/diagram-icons/云/EMR engine MapR M3.svg",
+      "label": "EMR engine MapR M3",
+      "fileName": "EMR engine MapR M3.svg"
+    },
+    {
+      "path": "/diagram-icons/云/EMR engine MapR M5.svg",
+      "label": "EMR engine MapR M5",
+      "fileName": "EMR engine MapR M5.svg"
+    },
+    {
+      "path": "/diagram-icons/云/EMR engine MapR M7.svg",
+      "label": "EMR engine MapR M7",
+      "fileName": "EMR engine MapR M7.svg"
+    },
+    {
+      "path": "/diagram-icons/云/EMR engine.svg",
+      "label": "EMR engine",
+      "fileName": "EMR engine.svg"
+    },
+    {
+      "path": "/diagram-icons/云/EMR.svg",
+      "label": "EMR",
+      "fileName": "EMR.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Encrypted Data.svg",
+      "label": "Encrypted Data",
+      "fileName": "Encrypted Data.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Endpoints.svg",
+      "label": "Endpoints",
+      "fileName": "Endpoints.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Event Event Based.svg",
+      "label": "Event Event Based",
+      "fileName": "Event Event Based.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Event Time Based.svg",
+      "label": "Event Time Based",
+      "fileName": "Event Time Based.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Express Route.svg",
+      "label": "Express Route",
+      "fileName": "Express Route.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Factory.svg",
+      "label": "Factory",
+      "fileName": "Factory.svg"
+    },
+    {
+      "path": "/diagram-icons/云/File 2.svg",
+      "label": "File 2",
+      "fileName": "File 2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/File.svg",
+      "label": "File",
+      "fileName": "File.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Filtering Rule.svg",
+      "label": "Filtering Rule",
+      "fileName": "Filtering Rule.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Fire TV Stick.svg",
+      "label": "Fire TV Stick",
+      "fileName": "Fire TV Stick.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Fire TV.svg",
+      "label": "Fire TV",
+      "fileName": "Fire TV.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Flow Logs.svg",
+      "label": "Flow Logs",
+      "fileName": "Flow Logs.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Forums.svg",
+      "label": "Forums",
+      "fileName": "Forums.svg"
+    },
+    {
+      "path": "/diagram-icons/云/GameLift.svg",
+      "label": "GameLift",
+      "fileName": "GameLift.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Generic Database.svg",
+      "label": "Generic Database",
+      "fileName": "Generic Database.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Generic.svg",
+      "label": "Generic",
+      "fileName": "Generic.svg"
+    },
+    {
+      "path": "/diagram-icons/云/GitHub Code.svg",
+      "label": "GitHub Code",
+      "fileName": "GitHub Code.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Github.svg",
+      "label": "Github",
+      "fileName": "Github.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Glacier.svg",
+      "label": "Glacier",
+      "fileName": "Glacier.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Global Secondary Index.svg",
+      "label": "Global Secondary Index",
+      "fileName": "Global Secondary Index.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Greengrass.svg",
+      "label": "Greengrass",
+      "fileName": "Greengrass.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Hardware Board.svg",
+      "label": "Hardware Board",
+      "fileName": "Hardware Board.svg"
+    },
+    {
+      "path": "/diagram-icons/云/HDFS Cluster.svg",
+      "label": "HDFS Cluster",
+      "fileName": "HDFS Cluster.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Health Monitoring.svg",
+      "label": "Health Monitoring",
+      "fileName": "Health Monitoring.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Hosted Zone.svg",
+      "label": "Hosted Zone",
+      "fileName": "Hosted Zone.svg"
+    },
+    {
+      "path": "/diagram-icons/云/House.svg",
+      "label": "House",
+      "fileName": "House.svg"
+    },
+    {
+      "path": "/diagram-icons/云/HTTP 2 Protocol.svg",
+      "label": "HTTP 2 Protocol",
+      "fileName": "HTTP 2 Protocol.svg"
+    },
+    {
+      "path": "/diagram-icons/云/HTTP Notification.svg",
+      "label": "HTTP Notification",
+      "fileName": "HTTP Notification.svg"
+    },
+    {
+      "path": "/diagram-icons/云/HTTP Protocol.svg",
+      "label": "HTTP Protocol",
+      "fileName": "HTTP Protocol.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Human Intelligence Tasks HIT.svg",
+      "label": "Human Intelligence Tasks HIT",
+      "fileName": "Human Intelligence Tasks HIT.svg"
+    },
+    {
+      "path": "/diagram-icons/云/IAM.svg",
+      "label": "IAM",
+      "fileName": "IAM.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Import Export.svg",
+      "label": "Import Export",
+      "fileName": "Import Export.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Inspector.svg",
+      "label": "Inspector",
+      "fileName": "Inspector.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Instances 2.svg",
+      "label": "Instances 2",
+      "fileName": "Instances 2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Instances.svg",
+      "label": "Instances",
+      "fileName": "Instances.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Internet 2.svg",
+      "label": "Internet 2",
+      "fileName": "Internet 2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/iOS.svg",
+      "label": "iOS",
+      "fileName": "iOS.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Item.svg",
+      "label": "Item",
+      "fileName": "Item.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Items.svg",
+      "label": "Items",
+      "fileName": "Items.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Kinesis Analytics.svg",
+      "label": "Kinesis Analytics",
+      "fileName": "Kinesis Analytics.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Kinesis enabled app.svg",
+      "label": "Kinesis enabled app",
+      "fileName": "Kinesis enabled app.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Kinesis Firehose.svg",
+      "label": "Kinesis Firehose",
+      "fileName": "Kinesis Firehose.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Kinesis Streams.svg",
+      "label": "Kinesis Streams",
+      "fileName": "Kinesis Streams.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Kinesis.svg",
+      "label": "Kinesis",
+      "fileName": "Kinesis.svg"
+    },
+    {
+      "path": "/diagram-icons/云/KMS.svg",
+      "label": "KMS",
+      "fileName": "KMS.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Lambda Function 2.svg",
+      "label": "Lambda Function 2",
+      "fileName": "Lambda Function 2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Lambda Function.svg",
+      "label": "Lambda Function",
+      "fileName": "Lambda Function.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Lambda.svg",
+      "label": "Lambda",
+      "fileName": "Lambda.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Laptop.svg",
+      "label": "Laptop",
+      "fileName": "Laptop.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Layers.svg",
+      "label": "Layers",
+      "fileName": "Layers.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Lex.svg",
+      "label": "Lex",
+      "fileName": "Lex.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Lightbulb.svg",
+      "label": "Lightbulb",
+      "fileName": "Lightbulb.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Lightsail.svg",
+      "label": "Lightsail",
+      "fileName": "Lightsail.svg"
+    },
+    {
+      "path": "/diagram-icons/云/location.svg",
+      "label": "location",
+      "fileName": "location.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Long Term Security Credential.svg",
+      "label": "Long Term Security Credential",
+      "fileName": "Long Term Security Credential.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Managed Services.svg",
+      "label": "Managed Services",
+      "fileName": "Managed Services.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Management Console.svg",
+      "label": "Management Console",
+      "fileName": "Management Console.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Mechanical Turk.svg",
+      "label": "Mechanical Turk",
+      "fileName": "Mechanical Turk.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Medical Emergency.svg",
+      "label": "Medical Emergency",
+      "fileName": "Medical Emergency.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Memcached.svg",
+      "label": "Memcached",
+      "fileName": "Memcached.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Message.svg",
+      "label": "Message",
+      "fileName": "Message.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Message2.svg",
+      "label": "Message2",
+      "fileName": "Message2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/MFA Token.svg",
+      "label": "MFA Token",
+      "fileName": "MFA Token.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Migration Hub.svg",
+      "label": "Migration Hub",
+      "fileName": "Migration Hub.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Mobile Analytics.svg",
+      "label": "Mobile Analytics",
+      "fileName": "Mobile Analytics.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Mobile Client.svg",
+      "label": "Mobile Client",
+      "fileName": "Mobile Client.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Mobile Hub.svg",
+      "label": "Mobile Hub",
+      "fileName": "Mobile Hub.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Mobile.svg",
+      "label": "Mobile",
+      "fileName": "Mobile.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Monitoring.svg",
+      "label": "Monitoring",
+      "fileName": "Monitoring.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Netvibes.svg",
+      "label": "Netvibes",
+      "fileName": "Netvibes.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Non Cached Volume.svg",
+      "label": "Non Cached Volume",
+      "fileName": "Non Cached Volume.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Office Building.svg",
+      "label": "Office Building",
+      "fileName": "Office Building.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Organizations.svg",
+      "label": "Organizations",
+      "fileName": "Organizations.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Permissions.svg",
+      "label": "Permissions",
+      "fileName": "Permissions.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Polly.svg",
+      "label": "Polly",
+      "fileName": "Polly.svg"
+    },
+    {
+      "path": "/diagram-icons/云/PowerShell File.svg",
+      "label": "PowerShell File",
+      "fileName": "PowerShell File.svg"
+    },
+    {
+      "path": "/diagram-icons/云/r5 instance.svg",
+      "label": "r5 instance",
+      "fileName": "r5 instance.svg"
+    },
+    {
+      "path": "/diagram-icons/云/RDS DB Instance Read Replica.svg",
+      "label": "RDS DB Instance Read Replica",
+      "fileName": "RDS DB Instance Read Replica.svg"
+    },
+    {
+      "path": "/diagram-icons/云/RDS DB Instance standby multi AZ.svg",
+      "label": "RDS DB Instance standby multi AZ",
+      "fileName": "RDS DB Instance standby multi AZ.svg"
+    },
+    {
+      "path": "/diagram-icons/云/RDS DB Instance.svg",
+      "label": "RDS DB Instance",
+      "fileName": "RDS DB Instance.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Redshift.svg",
+      "label": "Redshift",
+      "fileName": "Redshift.svg"
+    },
+    {
+      "path": "/diagram-icons/云/reserved instance reporting.svg",
+      "label": "reserved instance reporting",
+      "fileName": "reserved instance reporting.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Resources.svg",
+      "label": "Resources",
+      "fileName": "Resources.svg"
+    },
+    {
+      "path": "/diagram-icons/云/robotics.svg",
+      "label": "robotics",
+      "fileName": "robotics.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Role.svg",
+      "label": "Role",
+      "fileName": "Role.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Route 53.svg",
+      "label": "Route 53",
+      "fileName": "Route 53.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Route Table.svg",
+      "label": "Route Table",
+      "fileName": "Route Table.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Router.svg",
+      "label": "Router",
+      "fileName": "Router.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Rule.svg",
+      "label": "Rule",
+      "fileName": "Rule.svg"
+    },
+    {
+      "path": "/diagram-icons/云/S3.svg",
+      "label": "S3",
+      "fileName": "S3.svg"
+    },
+    {
+      "path": "/diagram-icons/云/saas event bus resource.svg",
+      "label": "saas event bus resource",
+      "fileName": "saas event bus resource.svg"
+    },
+    {
+      "path": "/diagram-icons/云/sagemaker notebook.svg",
+      "label": "sagemaker notebook",
+      "fileName": "sagemaker notebook.svg"
+    },
+    {
+      "path": "/diagram-icons/云/sagemaker train.svg",
+      "label": "sagemaker train",
+      "fileName": "sagemaker train.svg"
+    },
+    {
+      "path": "/diagram-icons/云/sagemaker.svg",
+      "label": "sagemaker",
+      "fileName": "sagemaker.svg"
+    },
+    {
+      "path": "/diagram-icons/云/SAML Token.svg",
+      "label": "SAML Token",
+      "fileName": "SAML Token.svg"
+    },
+    {
+      "path": "/diagram-icons/云/satellite.svg",
+      "label": "satellite",
+      "fileName": "satellite.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Script File.svg",
+      "label": "Script File",
+      "fileName": "Script File.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Search Documents.svg",
+      "label": "Search Documents",
+      "fileName": "Search Documents.svg"
+    },
+    {
+      "path": "/diagram-icons/云/security group.svg",
+      "label": "security group",
+      "fileName": "security group.svg"
+    },
+    {
+      "path": "/diagram-icons/云/security hub finding.svg",
+      "label": "security hub finding",
+      "fileName": "security hub finding.svg"
+    },
+    {
+      "path": "/diagram-icons/云/security identity and compliance.svg",
+      "label": "security identity and compliance",
+      "fileName": "security identity and compliance.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Sensor.svg",
+      "label": "Sensor",
+      "fileName": "Sensor.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Server Migration Service.svg",
+      "label": "Server Migration Service",
+      "fileName": "Server Migration Service.svg"
+    },
+    {
+      "path": "/diagram-icons/云/serverless application repository.svg",
+      "label": "serverless application repository",
+      "fileName": "serverless application repository.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Service Catalog.svg",
+      "label": "Service Catalog",
+      "fileName": "Service Catalog.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Service Endpoint.svg",
+      "label": "Service Endpoint",
+      "fileName": "Service Endpoint.svg"
+    },
+    {
+      "path": "/diagram-icons/云/servo.svg",
+      "label": "servo",
+      "fileName": "servo.svg"
+    },
+    {
+      "path": "/diagram-icons/云/shadow.svg",
+      "label": "shadow",
+      "fileName": "shadow.svg"
+    },
+    {
+      "path": "/diagram-icons/云/shield shield advanced.svg",
+      "label": "shield shield advanced",
+      "fileName": "shield shield advanced.svg"
+    },
+    {
+      "path": "/diagram-icons/云/shield.svg",
+      "label": "shield",
+      "fileName": "shield.svg"
+    },
+    {
+      "path": "/diagram-icons/云/simple ad.svg",
+      "label": "simple ad",
+      "fileName": "simple ad.svg"
+    },
+    {
+      "path": "/diagram-icons/云/simple email service.svg",
+      "label": "simple email service",
+      "fileName": "simple email service.svg"
+    },
+    {
+      "path": "/diagram-icons/云/simulation.svg",
+      "label": "simulation",
+      "fileName": "simulation.svg"
+    },
+    {
+      "path": "/diagram-icons/云/simulator.svg",
+      "label": "simulator",
+      "fileName": "simulator.svg"
+    },
+    {
+      "path": "/diagram-icons/云/single sign on.svg",
+      "label": "single sign on",
+      "fileName": "single sign on.svg"
+    },
+    {
+      "path": "/diagram-icons/云/site to site vpn.svg",
+      "label": "site to site vpn",
+      "fileName": "site to site vpn.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Snapshot.svg",
+      "label": "Snapshot",
+      "fileName": "Snapshot.svg"
+    },
+    {
+      "path": "/diagram-icons/云/snowball edge.svg",
+      "label": "snowball edge",
+      "fileName": "snowball edge.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Snowball.svg",
+      "label": "Snowball",
+      "fileName": "Snowball.svg"
+    },
+    {
+      "path": "/diagram-icons/云/snowmobile.svg",
+      "label": "snowmobile",
+      "fileName": "snowmobile.svg"
+    },
+    {
+      "path": "/diagram-icons/云/SNS.svg",
+      "label": "SNS",
+      "fileName": "SNS.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Spot Instance.svg",
+      "label": "Spot Instance",
+      "fileName": "Spot Instance.svg"
+    },
+    {
+      "path": "/diagram-icons/云/SQL Database SQL Azure.svg",
+      "label": "SQL Database SQL Azure",
+      "fileName": "SQL Database SQL Azure.svg"
+    },
+    {
+      "path": "/diagram-icons/云/SQL Database.svg",
+      "label": "SQL Database",
+      "fileName": "SQL Database.svg"
+    },
+    {
+      "path": "/diagram-icons/云/sql primary.svg",
+      "label": "sql primary",
+      "fileName": "sql primary.svg"
+    },
+    {
+      "path": "/diagram-icons/云/sql replica.svg",
+      "label": "sql replica",
+      "fileName": "sql replica.svg"
+    },
+    {
+      "path": "/diagram-icons/云/sqs.svg",
+      "label": "sqs",
+      "fileName": "sqs.svg"
+    },
+    {
+      "path": "/diagram-icons/云/SSL Padlock.svg",
+      "label": "SSL Padlock",
+      "fileName": "SSL Padlock.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Stack AWS CloudFormation.svg",
+      "label": "Stack AWS CloudFormation",
+      "fileName": "Stack AWS CloudFormation.svg"
+    },
+    {
+      "path": "/diagram-icons/云/stack.svg",
+      "label": "stack",
+      "fileName": "stack.svg"
+    },
+    {
+      "path": "/diagram-icons/云/stack2.svg",
+      "label": "stack2",
+      "fileName": "stack2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/state manager.svg",
+      "label": "state manager",
+      "fileName": "state manager.svg"
+    },
+    {
+      "path": "/diagram-icons/云/step functions.svg",
+      "label": "step functions",
+      "fileName": "step functions.svg"
+    },
+    {
+      "path": "/diagram-icons/云/storage gateway.svg",
+      "label": "storage gateway",
+      "fileName": "storage gateway.svg"
+    },
+    {
+      "path": "/diagram-icons/云/storage.svg",
+      "label": "storage",
+      "fileName": "storage.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Streaming Distribution.svg",
+      "label": "Streaming Distribution",
+      "fileName": "Streaming Distribution.svg"
+    },
+    {
+      "path": "/diagram-icons/云/sts alternate.svg",
+      "label": "sts alternate",
+      "fileName": "sts alternate.svg"
+    },
+    {
+      "path": "/diagram-icons/云/sts.svg",
+      "label": "sts",
+      "fileName": "sts.svg"
+    },
+    {
+      "path": "/diagram-icons/云/sumerian.svg",
+      "label": "sumerian",
+      "fileName": "sumerian.svg"
+    },
+    {
+      "path": "/diagram-icons/云/support.svg",
+      "label": "support",
+      "fileName": "support.svg"
+    },
+    {
+      "path": "/diagram-icons/云/SWF.svg",
+      "label": "SWF",
+      "fileName": "SWF.svg"
+    },
+    {
+      "path": "/diagram-icons/云/systems manager opscenter.svg",
+      "label": "systems manager opscenter",
+      "fileName": "systems manager opscenter.svg"
+    },
+    {
+      "path": "/diagram-icons/云/systems manager.svg",
+      "label": "systems manager",
+      "fileName": "systems manager.svg"
+    },
+    {
+      "path": "/diagram-icons/云/t2 instance.svg",
+      "label": "t2 instance",
+      "fileName": "t2 instance.svg"
+    },
+    {
+      "path": "/diagram-icons/云/t3 instance.svg",
+      "label": "t3 instance",
+      "fileName": "t3 instance.svg"
+    },
+    {
+      "path": "/diagram-icons/云/t3a instance.svg",
+      "label": "t3a instance",
+      "fileName": "t3a instance.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Tablet.svg",
+      "label": "Tablet",
+      "fileName": "Tablet.svg"
+    },
+    {
+      "path": "/diagram-icons/云/template.svg",
+      "label": "template",
+      "fileName": "template.svg"
+    },
+    {
+      "path": "/diagram-icons/云/temporary security credential.svg",
+      "label": "temporary security credential",
+      "fileName": "temporary security credential.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Thermostat.svg",
+      "label": "Thermostat",
+      "fileName": "Thermostat.svg"
+    },
+    {
+      "path": "/diagram-icons/云/thinkbox draft.svg",
+      "label": "thinkbox draft",
+      "fileName": "thinkbox draft.svg"
+    },
+    {
+      "path": "/diagram-icons/云/thinkbox frost.svg",
+      "label": "thinkbox frost",
+      "fileName": "thinkbox frost.svg"
+    },
+    {
+      "path": "/diagram-icons/云/thinkbox krakatoa.svg",
+      "label": "thinkbox krakatoa",
+      "fileName": "thinkbox krakatoa.svg"
+    },
+    {
+      "path": "/diagram-icons/云/thinkbox sequoia.svg",
+      "label": "thinkbox sequoia",
+      "fileName": "thinkbox sequoia.svg"
+    },
+    {
+      "path": "/diagram-icons/云/thinkbox stoke.svg",
+      "label": "thinkbox stoke",
+      "fileName": "thinkbox stoke.svg"
+    },
+    {
+      "path": "/diagram-icons/云/thinkbox xmesh.svg",
+      "label": "thinkbox xmesh",
+      "fileName": "thinkbox xmesh.svg"
+    },
+    {
+      "path": "/diagram-icons/云/timestream.svg",
+      "label": "timestream",
+      "fileName": "timestream.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Toolkit for Visual Studio.svg",
+      "label": "Toolkit for Visual Studio",
+      "fileName": "Toolkit for Visual Studio.svg"
+    },
+    {
+      "path": "/diagram-icons/云/tools and sdks.svg",
+      "label": "tools and sdks",
+      "fileName": "tools and sdks.svg"
+    },
+    {
+      "path": "/diagram-icons/云/topic 2.svg",
+      "label": "topic 2",
+      "fileName": "topic 2.svg"
+    },
+    {
+      "path": "/diagram-icons/云/topic.svg",
+      "label": "topic",
+      "fileName": "topic.svg"
+    },
+    {
+      "path": "/diagram-icons/云/traditional server.svg",
+      "label": "traditional server",
+      "fileName": "traditional server.svg"
+    },
+    {
+      "path": "/diagram-icons/云/transcribe.svg",
+      "label": "transcribe",
+      "fileName": "transcribe.svg"
+    },
+    {
+      "path": "/diagram-icons/云/transfer family.svg",
+      "label": "transfer family",
+      "fileName": "transfer family.svg"
+    },
+    {
+      "path": "/diagram-icons/云/transfer for ftp resource.svg",
+      "label": "transfer for ftp resource",
+      "fileName": "transfer for ftp resource.svg"
+    },
+    {
+      "path": "/diagram-icons/云/transfer for ftps resource.svg",
+      "label": "transfer for ftps resource",
+      "fileName": "transfer for ftps resource.svg"
+    },
+    {
+      "path": "/diagram-icons/云/transfer for sftp resource.svg",
+      "label": "transfer for sftp resource",
+      "fileName": "transfer for sftp resource.svg"
+    },
+    {
+      "path": "/diagram-icons/云/transfer for sftp.svg",
+      "label": "transfer for sftp",
+      "fileName": "transfer for sftp.svg"
+    },
+    {
+      "path": "/diagram-icons/云/transit gateway.svg",
+      "label": "transit gateway",
+      "fileName": "transit gateway.svg"
+    },
+    {
+      "path": "/diagram-icons/云/translate.svg",
+      "label": "translate",
+      "fileName": "translate.svg"
+    },
+    {
+      "path": "/diagram-icons/云/travel.svg",
+      "label": "travel",
+      "fileName": "travel.svg"
+    },
+    {
+      "path": "/diagram-icons/云/trusted advisor.svg",
+      "label": "trusted advisor",
+      "fileName": "trusted advisor.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Twitter.svg",
+      "label": "Twitter",
+      "fileName": "Twitter.svg"
+    },
+    {
+      "path": "/diagram-icons/云/User.svg",
+      "label": "User",
+      "fileName": "User.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Users.svg",
+      "label": "Users",
+      "fileName": "Users.svg"
+    },
+    {
+      "path": "/diagram-icons/云/utility.svg",
+      "label": "utility",
+      "fileName": "utility.svg"
+    },
+    {
+      "path": "/diagram-icons/云/vault.svg",
+      "label": "vault",
+      "fileName": "vault.svg"
+    },
+    {
+      "path": "/diagram-icons/云/virtual private cloud.svg",
+      "label": "virtual private cloud",
+      "fileName": "virtual private cloud.svg"
+    },
+    {
+      "path": "/diagram-icons/云/virtual tape library.svg",
+      "label": "virtual tape library",
+      "fileName": "virtual tape library.svg"
+    },
+    {
+      "path": "/diagram-icons/云/vmware cloud on aws.svg",
+      "label": "vmware cloud on aws",
+      "fileName": "vmware cloud on aws.svg"
+    },
+    {
+      "path": "/diagram-icons/云/volume gateway.svg",
+      "label": "volume gateway",
+      "fileName": "volume gateway.svg"
+    },
+    {
+      "path": "/diagram-icons/云/volume.svg",
+      "label": "volume",
+      "fileName": "volume.svg"
+    },
+    {
+      "path": "/diagram-icons/云/vpc access points.svg",
+      "label": "vpc access points",
+      "fileName": "vpc access points.svg"
+    },
+    {
+      "path": "/diagram-icons/云/VPC Peering.svg",
+      "label": "VPC Peering",
+      "fileName": "VPC Peering.svg"
+    },
+    {
+      "path": "/diagram-icons/云/vpc privatelink.svg",
+      "label": "vpc privatelink",
+      "fileName": "vpc privatelink.svg"
+    },
+    {
+      "path": "/diagram-icons/云/vpc traffic mirroring.svg",
+      "label": "vpc traffic mirroring",
+      "fileName": "vpc traffic mirroring.svg"
+    },
+    {
+      "path": "/diagram-icons/云/vpc.svg",
+      "label": "vpc",
+      "fileName": "vpc.svg"
+    },
+    {
+      "path": "/diagram-icons/云/VPN Connection.svg",
+      "label": "VPN Connection",
+      "fileName": "VPN Connection.svg"
+    },
+    {
+      "path": "/diagram-icons/云/vpn gateway.svg",
+      "label": "vpn gateway",
+      "fileName": "vpn gateway.svg"
+    },
+    {
+      "path": "/diagram-icons/云/waf.svg",
+      "label": "waf",
+      "fileName": "waf.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Wakoopa.svg",
+      "label": "Wakoopa",
+      "fileName": "Wakoopa.svg"
+    },
+    {
+      "path": "/diagram-icons/云/wavelength.svg",
+      "label": "wavelength",
+      "fileName": "wavelength.svg"
+    },
+    {
+      "path": "/diagram-icons/云/Weheartit.svg",
+      "label": "Weheartit",
+      "fileName": "Weheartit.svg"
+    },
+    {
+      "path": "/diagram-icons/云/well architected tool.svg",
+      "label": "well architected tool",
+      "fileName": "well architected tool.svg"
+    },
+    {
+      "path": "/diagram-icons/云/windfarm.svg",
+      "label": "windfarm",
+      "fileName": "windfarm.svg"
+    },
+    {
+      "path": "/diagram-icons/云/workdocs.svg",
+      "label": "workdocs",
+      "fileName": "workdocs.svg"
+    },
+    {
+      "path": "/diagram-icons/云/workmail.svg",
+      "label": "workmail",
+      "fileName": "workmail.svg"
+    },
+    {
+      "path": "/diagram-icons/云/x1 instance2.svg",
+      "label": "x1 instance2",
+      "fileName": "x1 instance2.svg"
+    }
+  ]
+}
